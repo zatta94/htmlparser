@@ -15,8 +15,8 @@ import org.apache.tika.sax.Link;
 import org.apache.tika.sax.LinkContentHandler;
 import org.apache.tika.sax.TeeContentHandler;
 import org.apache.tika.sax.ToHTMLContentHandler;
+import org.neo4art.htmlparser.custom.VanGoghLetterHtmlParser;
 import org.neo4art.htmlparser.exception.HtmlLetterParserException;
-import org.neo4art.htmlparser.handler.VanGoghLetterParserHandler;
 import org.xml.sax.ContentHandler;
 
 /**
@@ -27,6 +27,30 @@ import org.xml.sax.ContentHandler;
 
 public class HtmlLetterParser implements IHtmlLetterParser{
 
+	private LinkContentHandler linkHandler;
+	
+	public LinkContentHandler getLinkHandler() {
+		return linkHandler;
+	}
+
+	private ContentHandler bodyContentHandler;
+	
+	private ToHTMLContentHandler toHTMLHandler;
+	
+	private Metadata metadata;
+	
+	public Metadata getMetadata() {
+		return metadata;
+	}
+
+	public HtmlLetterParser() {
+		
+		this.bodyContentHandler = new BodyContentHandler();
+		this.linkHandler = new LinkContentHandler();
+		this.toHTMLHandler = new ToHTMLContentHandler();
+		this.metadata = new Metadata();
+	}
+	
 	public String getHtmlPageByUrl(URL url) throws HtmlLetterParserException{
 
 		String result = "";
@@ -36,15 +60,7 @@ public class HtmlLetterParser implements IHtmlLetterParser{
 			System.out.println("URL: "+url.toString());
 	        InputStream input = url.openStream();
 	        
-	        LinkContentHandler linkHandler = new LinkContentHandler();
-	        ContentHandler bodyContentHandler = new BodyContentHandler();
-	        //ContentHandler bodyContentHandler = new VanGoghLetterParserHandler();
-	        ToHTMLContentHandler toHTMLHandler = new ToHTMLContentHandler();
 	        TeeContentHandler teeHandler = new TeeContentHandler(linkHandler, bodyContentHandler, toHTMLHandler);
-	        
-	        
-			//ContentHandler teeHandler = new BodyContentHandler();
-			Metadata metadata = new Metadata();
 			ParseContext parseContext = new ParseContext();
 			
 			
@@ -52,65 +68,7 @@ public class HtmlLetterParser implements IHtmlLetterParser{
 			parser.parse(input, teeHandler, metadata,parseContext);
 			input.close();
 			
-			
-			String contentBodyString = bodyContentHandler.toString();
-			//System.out.println("bodyContentHandler: "+contentBodyString);
-			
-			
-			// RECUPERARE IL TITOLO DELLA LETTERA, E IL DESTINATARIO, E LA DATA DELLA LETTERA
-			
-
-			// MATCH DEL contentBodyString PER OTTENERE IL TESTO PULITO DELLA LETTERA
-			//1r:1
-			
-			System.out.println(toHTMLHandler.toString());
-			System.out.println("\n------------------------------------------------");
-			
-			//(<a shape="rect" href=""> </a><a shape="rect" href="">1r:1</a>)+([\\sa-zA-Z,1-9.’]*)
-			//(1r:1)+([\\sa-zA-Z,1-9.’]*) 
-			String patternEXP = "(<a shape=\"rect\" href=\"\"> </a><a shape=\"rect\" href=\"\">1r:1</a>)+([\\sa-zA-Z,1-9.’<#-=\">?&;_]*)";
-			//String patternEXP = "(1r:1)+([\\sa-zA-Z,1-9.’]*)";
-			Pattern pattern = Pattern.compile(patternEXP);
-			Matcher matcher = pattern.matcher(toHTMLHandler.toString());
-			
-			System.out.println("Group count: "+matcher.groupCount());
-			
-			//String group= matcher.group(1);
-			//System.out.println("Group: "+group);
-			
-			while (matcher.find()) {
-				
-				String group= matcher.group(2);
-				System.out.println("Group: "+group);
-			}
-			
-			
-			// PULIRE IL TESTO DELLA LETTERE DEI LINK SUPERFLUI
-			
-			
-			
-			
-			
-			
-			
-			
-			
-//			System.out.println("Link: ");
-//			List<Link> links = linkHandler.getLinks();
-//			for (Link link : links) {
-//				System.out.println(link.getText()+" is anchor: "+link.isAnchor());
-//			}
-//			
-//			
-//			System.out.println("\nMetadata of the document:");
-//		      String[] metadataNames = metadata.names();
-//		      
-//		      for(String name : metadataNames) {
-//		         System.out.println(name + ":   " + metadata.get(name));  
-//		      }
-//			
-//		      
-//		      System.out.println("TITOLO: "+metadata.get("title"));
+			result = toHTMLHandler.toString();
 		      
 		}
 		catch(Exception e){
