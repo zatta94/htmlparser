@@ -15,6 +15,8 @@ import org.apache.tika.sax.Link;
 import org.apache.tika.sax.LinkContentHandler;
 import org.apache.tika.sax.TeeContentHandler;
 import org.apache.tika.sax.ToHTMLContentHandler;
+import org.neo4art.htmlparser.bean.Letter;
+import org.neo4art.htmlparser.bean.WriteLetterTxt;
 import org.neo4art.htmlparser.custom.VanGoghLetterHtmlParser;
 import org.neo4art.htmlparser.exception.HtmlLetterParserException;
 import org.xml.sax.ContentHandler;
@@ -42,6 +44,7 @@ public class HtmlLetterParser implements IHtmlLetterParser{
 	public Metadata getMetadata() {
 		return metadata;
 	}
+	
 
 	public HtmlLetterParser() {
 		
@@ -63,21 +66,19 @@ public class HtmlLetterParser implements IHtmlLetterParser{
 	        TeeContentHandler teeHandler = new TeeContentHandler(linkHandler, bodyContentHandler, toHTMLHandler);
 			ParseContext parseContext = new ParseContext();
 			
-			
 			HtmlParser parser = new HtmlParser();
 			parser.parse(input, teeHandler, metadata,parseContext);
 			input.close();
 			
 			result = toHTMLHandler.toString();
-		      
+//			System.out.println("result"+result);
 		}
 		catch(Exception e){
-			
-			throw new HtmlLetterParserException(e.getMessage());
+			e.printStackTrace();
+//			throw new HtmlLetterParserException(e.getMessage());
 		}
 		
 		
 		return result;
 	}
-
 }
