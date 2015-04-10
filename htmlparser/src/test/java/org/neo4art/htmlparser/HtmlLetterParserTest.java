@@ -7,7 +7,11 @@ import org.junit.Assert;
 import org.junit.Test;
 import org.neo4art.htmlparser.exception.HtmlLetterParserException;
 
-
+/**
+ * 
+ * @author larus
+ *
+ */
 public class HtmlLetterParserTest {
 
 	
