@@ -2,14 +2,22 @@ package org.neo4art.htmlparser;
 
 import java.io.InputStream;
 import java.net.URL;
+import java.util.List;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
+import org.apache.tika.Tika;
 import org.apache.tika.metadata.Metadata;
 import org.apache.tika.parser.ParseContext;
 import org.apache.tika.parser.html.HtmlParser;
 import org.apache.tika.sax.BodyContentHandler;
+import org.apache.tika.sax.Link;
 import org.apache.tika.sax.LinkContentHandler;
 import org.apache.tika.sax.TeeContentHandler;
 import org.apache.tika.sax.ToHTMLContentHandler;
+import org.neo4art.htmlparser.bean.Letter;
+import org.neo4art.htmlparser.bean.WriteLetterTxt;
+import org.neo4art.htmlparser.custom.VanGoghLetterHtmlParser;
 import org.neo4art.htmlparser.exception.HtmlLetterParserException;
 import org.xml.sax.ContentHandler;
 
@@ -19,71 +27,58 @@ import org.xml.sax.ContentHandler;
  *
  */
 
-public class HtmlLetterParser implements IHtmlLetterParser {
+public class HtmlLetterParser implements IHtmlLetterParser{
 
 	private LinkContentHandler linkHandler;
+	
+	public LinkContentHandler getLinkHandler() {
+		return linkHandler;
+	}
 
 	private ContentHandler bodyContentHandler;
-
+	
 	private ToHTMLContentHandler toHTMLHandler;
-
+	
 	private Metadata metadata;
+	
+	public Metadata getMetadata() {
+		return metadata;
+	}
+	
 
-	/**
-	 * Constructor.
-	 */
 	public HtmlLetterParser() {
-
+		
 		this.bodyContentHandler = new BodyContentHandler();
 		this.linkHandler = new LinkContentHandler();
 		this.toHTMLHandler = new ToHTMLContentHandler();
 		this.metadata = new Metadata();
 	}
-
-    /**
-     * Method that returns an html page from an url adress.
-     * 
-     * @param Url - the url.
-     * 
-     * @throws HtmlLetterParserException - if the parser has an error. 
-     */
-	public String getHtmlPageByUrl(URL url) throws HtmlLetterParserException {
+	
+	public String getHtmlPageByUrl(URL url) throws HtmlLetterParserException{
 
 		String result = "";
-
-		try {
-			System.out.println("URL: " + url.toString());
-			InputStream input = url.openStream();
-
-			TeeContentHandler teeHandler = new TeeContentHandler(linkHandler,
-					bodyContentHandler, toHTMLHandler);
+		
+		try
+		{
+			System.out.println("URL: "+url.toString());
+	        InputStream input = url.openStream();
+	        
+	        TeeContentHandler teeHandler = new TeeContentHandler(linkHandler, bodyContentHandler, toHTMLHandler);
 			ParseContext parseContext = new ParseContext();
-
+			
 			HtmlParser parser = new HtmlParser();
-			parser.parse(input, teeHandler, metadata, parseContext);
+			parser.parse(input, teeHandler, metadata,parseContext);
 			input.close();
-
+			
 			result = toHTMLHandler.toString();
-		} catch (Exception e) {
-			throw new HtmlLetterParserException(e.getMessage());
+//			System.out.println("result"+result);
 		}
-
+		catch(Exception e){
+			e.printStackTrace();
+//			throw new HtmlLetterParserException(e.getMessage());
+		}
+		
+		
 		return result;
-	}
-
-    /**
-     * Method that returns the link handler of the html page parsed.
-     * 
-     */
-	public LinkContentHandler getLinkHandler() {
-		return linkHandler;
-	}
-
-	/**
-     * Method that returns the metadata of the html page parsed.
-     * 
-     */
-	public Metadata getMetadata() {
-		return metadata;
 	}
 }
