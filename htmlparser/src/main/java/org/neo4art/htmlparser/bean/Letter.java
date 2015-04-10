@@ -1,27 +1,35 @@
 package org.neo4art.htmlparser.bean;
 
 public class Letter {
-	String title="";
+	String luogo="";
 	String text="";
-	String from="";
+	String from="Vincent van Gogh";
 	String to="";
 	String date="";
+	String url="";
 	
 	public Letter() {
 	}
 	
-	public Letter(String title, String text, String from, String to, String date) {
-		this.title = title;
+	public Letter(String luogo, String text, String from, String to, String date, String url) {
+		this.luogo = luogo;
 		this.text = text;
 		this.from = from;
 		this.to = to;
 		this.date = date;
+		this.url = url;
 	}
-	public String getTitle() {
-		return title;
+	public String getLuogo() {
+		return luogo;
 	}
-	public void setTitle(String title) {
-		this.title = title;
+	public String getUrl(){
+		return url;
+	}
+	public void setUrl(String url){
+		this.url = url;
+	}
+	public void setLuogo(String luogo) {
+		this.luogo = luogo;
 	}
 	public String getText() {
 		return text;
