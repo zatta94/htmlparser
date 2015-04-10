@@ -26,7 +26,7 @@ import org.xml.sax.ContentHandler;
  * @author Enrico
  *
  */
-
+  
 public class HtmlLetterParser implements IHtmlLetterParser{
 
 	private LinkContentHandler linkHandler;
