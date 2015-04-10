@@ -14,7 +14,7 @@ public class VanGoghLetterHtmlParserTest {
 
 	@Test
 	public void theHague29September1872HtmlParserTest() throws MalformedURLException,HtmlLetterParserException{
-		
+		    
 		String testToValidate = "The Hague, 29 September 1872."+
                 "My dear Theo,"+
                 "Thanks for your letter, I was glad to hear that you got back safely. I missed you the first few days, and it was strange for me not to find"+
