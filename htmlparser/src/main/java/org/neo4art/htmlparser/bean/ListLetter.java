@@ -42,7 +42,7 @@ public class ListLetter {
 				l1.setText(text);
 				l1.setDate(date);
 				l1.setFrom(from);
-				l1.setLuogo(location);
+				l1.setPlace(location);
 				l1.setTo(to);
 				l1.setUrl(url);
 				arrayList.add(l1);
