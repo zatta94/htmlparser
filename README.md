@@ -8,6 +8,7 @@ http://vangoghletters.org/vg/letters.html and creates a txt file for every lette
 
 There is also a method that receive in input a path, where there are the txt files with the letters and return a list<br>
 of object Letter whith this attributes:
+- title
 - place
 - text
 - from
@@ -18,6 +19,8 @@ of object Letter whith this attributes:
 
 <b>Maven:</b><br>
 This is a maven project<br>
+ &lt;dependency&gt;<br>
   &lt;groupId&gt;org.neo4art&lt;/groupId&gt;<br>
   &lt;artifactId&gt;htmlparser&lt;/artifactId&gt;<br>
   &lt;version&gt;1.0.0&lt;/version&gt;<br>
+ &lt;/dependency&gt;<br>
