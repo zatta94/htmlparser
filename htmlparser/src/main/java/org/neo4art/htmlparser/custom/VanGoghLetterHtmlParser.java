@@ -44,21 +44,30 @@ public class VanGoghLetterHtmlParser  {
 		
 		String[] titleGenerale = title.split(":");
 		String titleGenerale1 = titleGenerale[1];
+		
 		String[] t1 = titleGenerale1.split("\\.");
 		String to = t1[0];	
-		String t2 = t1[1];
-		String[] t3 = t2.split(",");
 		
-		String luogo = t3[0];
-	
+		String luogo="";
 		String date = "";
-		for(int i = 1 ; i < t3.length ;i++){
-			date = date + t3[i];
+		
+		if(t1.length>2){
+			
+			String t2 = t1[1];
+			String[] t3 = t2.split(",");
+			
+			luogo = t3[0];
+		
+			
+			for(int i = 1 ; i < t3.length ;i++){
+				date = date + t3[i];
+			}	
 		}
+		
 		
 		to = to.substring(3);
 		
-		
+		letter.setTitle(titleGenerale1);
 		letter.setDate(date);
 		letter.setPlace(luogo);
 		letter.setTo(to);

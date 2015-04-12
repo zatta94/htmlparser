@@ -13,6 +13,7 @@ public class Letter {
 	String to;
 	String date;
 	String url;
+	String title;
 
 	public Letter() {
 		
@@ -22,6 +23,7 @@ public class Letter {
 		this.to = "";
 		this.date = "";
 		this.url = "";
+		this.title = "";
 	}
 
 	public Letter(String place, String text, String from, String to,
@@ -80,5 +82,13 @@ public class Letter {
 
 	public void setPlace(String place) {
 		this.place = place;
+	}
+
+	public String getTitle() {
+		return title;
+	}
+
+	public void setTitle(String title) {
+		this.title = title;
 	}
 }
