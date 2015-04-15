@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.neo4art</groupId>
   <artifactId>htmlparser</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0.0</version>
   
   <dependencies>
   
@@ -16,6 +16,18 @@
      <groupId>org.apache.tika</groupId>
      <artifactId>tika-parsers</artifactId>
      <version>1.7</version>
+    </dependency>
+    
+    <dependency>
+	 <groupId>org.apache.commons</groupId>
+	 <artifactId>commons-io</artifactId>
+	 <version>1.3.2</version>
+    </dependency>
+    
+    <dependency>
+     <groupId>org.apache.commons</groupId>
+     <artifactId>commons-lang3</artifactId>
+     <version>3.4</version>
     </dependency>
     
     <dependency>

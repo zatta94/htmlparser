@@ -8,10 +8,13 @@ import org.neo4art.htmlparser.exception.HtmlLetterParserException;
 
 public interface IHtmlLetterParser {
 
-   /**
-    * Metodo che restituisce il contenuto di una pagina HTML
-    * dato l'indirizzo url	
-    */
+	/**
+     * Method that returns an html page from an url adress.
+     * 
+     * @param Url - the url.
+     * 
+     * @throws HtmlLetterParserException - if the parser has an error. 
+     */
    String getHtmlPageByUrl(URL url) throws HtmlLetterParserException;
    
    Metadata getMetadata();
