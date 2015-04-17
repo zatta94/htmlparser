@@ -3,6 +3,7 @@ Location|unknown
 Date|probably between 1875-1878
 To|Theo van Gogh
 From|Vincent van Gogh
+Museum|Amsterdam, Van Gogh Museum, inv. no. b1467 V/1962
 Url letter|http://vangoghletters.org/vg/letters/RM04/letter.html
-Letter|Freely ye have received , freely give .
+Letter|Freely ye have received, freely give.
 RM04

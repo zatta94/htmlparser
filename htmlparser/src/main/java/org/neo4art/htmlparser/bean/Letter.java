@@ -14,6 +14,7 @@ public class Letter {
 	String date;
 	String url;
 	String title;
+	String museum;
 
 	public Letter() {
 		
@@ -24,16 +25,26 @@ public class Letter {
 		this.date = "";
 		this.url = "";
 		this.title = "";
+		this.museum = "";
 	}
 
 	public Letter(String place, String text, String from, String to,
-			String date, String url) {
+			String date, String url, String museum) {
 		this.place = place;
 		this.text = text;
 		this.from = from;
 		this.to = to;
 		this.date = date;
 		this.url = url;
+		this.museum = museum;
+	}
+
+	public String getMuseum() {
+		return museum;
+	}
+
+	public void setMuseum(String museum) {
+		this.museum = museum;
 	}
 
 	public String getUrl() {

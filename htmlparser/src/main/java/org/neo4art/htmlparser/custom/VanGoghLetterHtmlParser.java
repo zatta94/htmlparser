@@ -24,9 +24,11 @@ public class VanGoghLetterHtmlParser  {
 			letter.setText(matcher.group(2));
 		}
 
+//		System.out.println(htmlPageByUrl);
+//		System.out.println("\n--------------------\n");
 		
 		//FROM 
-		String patternEXPFrom = "(From:)+(\\s[a-zA-Z\\s.é]*)+(\\sTo)";
+		String patternEXPFrom = "(From:)+(\\s[a-zA-Z\\s.,éè-]*)+(\\sTo)";
 		Pattern patternFrom = Pattern.compile(patternEXPFrom);
 		Matcher matcherFrom = patternFrom.matcher(htmlPageByUrl);
 		
@@ -35,13 +37,18 @@ public class VanGoghLetterHtmlParser  {
 		}
 		
 		//To 
-		String patternEXPTo = "(To:)+(\\s[a-zA-Z\\s.-é]*)+(\\sDate)";
+		String patternEXPTo = "(To:\\s)+([A-Za-z\\s-éèä.]*)+(Date:)";
 		Pattern patternTo = Pattern.compile(patternEXPTo);
 		Matcher matcherTo = patternTo.matcher(htmlPageByUrl);
 		
+		String to = "";
 		while (matcherTo.find()) {
-			letter.setTo(matcherTo.group(2).replaceAll("^\\s+|\\s+$|\\s*(\n)\\s*|(\\s)\\s*", "$1$2"));
+			to = matcherTo.group(0).replaceAll("^\\s+|\\s+$|\\s*(\n)\\s*|(\\s)\\s*", "$1$2");
 		}
+		to = to.replaceAll("To: ", "");
+		to = to.replaceAll("Date:", "");
+		to = to.replaceAll("\n", "");
+		letter.setTo(to);
 		
 		//Date 
 		String patternEXPDate = "(Date:)+(\\s[a-zA-Z?Îé/,0-9-.-]*)+(\\s<)";
@@ -49,8 +56,19 @@ public class VanGoghLetterHtmlParser  {
 		Matcher matcherDate = patternDate.matcher(htmlPageByUrl);
 		String date = "";
 		
-//		System.out.println(htmlPageByUrl);
-//		System.out.println("\n--------------------\n");
+		//Location
+		String patternEXPMuseum = "(Location:\\s)+([a-zA-Z,.,0-9/\\(\\)\\- ]*)";
+		Pattern patternMuseum = Pattern.compile(patternEXPMuseum);
+		Matcher matcherMuseum = patternMuseum.matcher(htmlPageByUrl);
+		
+		if (matcherMuseum.find()) {
+			letter.setMuseum(matcherMuseum.group(0));
+		}
+		String museum = letter.getMuseum().replace("Date:", "");
+		museum = museum.replace("Location: ", "");
+		museum = museum.replace("\n", "");
+		letter.setMuseum(museum);
+		
 		
 		
 		if (matcherDate.find()) {
@@ -87,9 +105,9 @@ public class VanGoghLetterHtmlParser  {
 		
 		letter.setUrl(""+url);
 		
-		letter.setText(letter.getText().replace(",", " , "));
-		letter.setText(letter.getText().replace(".", " . "));
-		letter.setText(letter.getText().replace(";", " ; "));
+//		letter.setText(letter.getText().replace(",", " , "));
+//		letter.setText(letter.getText().replace(".", " . "));
+//		letter.setText(letter.getText().replace(";", " ; "));
 		letter.setText(letter.getText().replaceAll("(\\[sketch\\s\\w\\])", ""));
 		letter.setText(letter.getText().replaceAll("^\\s+|\\s+$|\\s*(\n)\\s*|(\\s)\\s*", "$1$2"));
 		

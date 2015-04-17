@@ -65,6 +65,7 @@ public class VanGoghLetterHtmlParserTest {
 		System.out.println("From: "+letter.getFrom());
 		System.out.println("Date: "+letter.getDate());
 		System.out.println("Place: "+letter.getPlace());
+		System.out.println("Location: "+letter.getMuseum());
 		
 		Assert.assertEquals("Theo van Gogh", letter.getTo());
 		Assert.assertEquals("Vincent van Gogh", letter.getFrom());
@@ -96,6 +97,7 @@ public class VanGoghLetterHtmlParserTest {
 		System.out.println("From: "+letter.getFrom());
 		System.out.println("Date: "+letter.getDate());
 		System.out.println("Place: "+letter.getPlace());
+		System.out.println("Location: "+letter.getMuseum());
 		
 		Assert.assertEquals("Theo van Gogh", letter.getTo());
 		Assert.assertEquals("Vincent van Gogh", letter.getFrom());
@@ -127,6 +129,7 @@ public class VanGoghLetterHtmlParserTest {
 		System.out.println("From: "+letter.getFrom());
 		System.out.println("Date: "+letter.getDate());
 		System.out.println("Place: "+letter.getPlace());
+		System.out.println("Location: "+letter.getMuseum());
 		
 		Assert.assertEquals("Theo van Gogh", letter.getTo());
 		Assert.assertEquals("Vincent van Gogh", letter.getFrom());
@@ -158,6 +161,7 @@ public class VanGoghLetterHtmlParserTest {
 		System.out.println("From: "+letter.getFrom());
 		System.out.println("Date: "+letter.getDate());
 		System.out.println("Place: "+letter.getPlace());
+		System.out.println("Location: "+letter.getMuseum());
 		
 		Assert.assertEquals("John Peter Russell", letter.getTo());
 		Assert.assertEquals("Vincent van Gogh", letter.getFrom());
@@ -189,6 +193,7 @@ public class VanGoghLetterHtmlParserTest {
 		System.out.println("From: "+letter.getFrom());
 		System.out.println("Date: "+letter.getDate());
 		System.out.println("Place: "+letter.getPlace());
+		System.out.println("Location: "+letter.getMuseum());
 		
 		Assert.assertEquals("Theo van Gogh", letter.getTo());
 		Assert.assertEquals("Vincent van Gogh", letter.getFrom());
@@ -199,11 +204,11 @@ public class VanGoghLetterHtmlParserTest {
 	}
 	
 	@Test
-	public void getLetter016Test()
+	public void getLetter883Test()
 			throws MalformedURLException, HtmlLetterParserException {
 
 		URL url = new URL(
-				"http://vangoghletters.org/vg/letters/let016/letter.html");
+				"http://vangoghletters.org/vg/letters/let883/letter.html");
 		VanGoghLetterHtmlParser vanGoghLetterParser = new VanGoghLetterHtmlParser();
 		IHtmlLetterParser htmlParser = new HtmlLetterParser();
 
@@ -220,13 +225,173 @@ public class VanGoghLetterHtmlParserTest {
 		System.out.println("From: "+letter.getFrom());
 		System.out.println("Date: "+letter.getDate());
 		System.out.println("Place: "+letter.getPlace());
+		System.out.println("Location: "+letter.getMuseum());
 		
-		Assert.assertEquals("Caroline van Stockum-Haanebeek", letter.getTo());
+		Assert.assertEquals("Joseph Ginoux and Marie Ginoux-Julien", letter.getTo());
 		Assert.assertEquals("Vincent van Gogh", letter.getFrom());
-		Assert.assertEquals("Thursday, 20 November 1873", letter.getDate());
-		Assert.assertEquals("London", letter.getPlace());
+		Assert.assertEquals("Wednesday, 11 June 1890", letter.getDate());
+		Assert.assertEquals("Auvers-sur-Oise", letter.getPlace());
+		Assert.assertEquals("Norton Simon Museum, Norton Simon Art Foundation, Pasadena, CA., inv. no. M.1989.1.14.L", letter.getMuseum());
 
 		
 	}
 	
+	@Test
+	public void getLetter848Test()
+			throws MalformedURLException, HtmlLetterParserException {
+
+		URL url = new URL(
+				"http://vangoghletters.org/vg/letters/let848/letter.html");
+		VanGoghLetterHtmlParser vanGoghLetterParser = new VanGoghLetterHtmlParser();
+		IHtmlLetterParser htmlParser = new HtmlLetterParser();
+
+		vanGoghLetterParser.setHtmlLetterParser(htmlParser);
+		Letter letter = vanGoghLetterParser.getLetter(url);
+
+		Assert.assertNotNull(letter);
+		Assert.assertNotNull(letter.getText());
+		Assert.assertNotNull(letter.getFrom());
+		Assert.assertTrue(letter.getText().trim().length() > 0);
+
+		System.out.println("Titolo: "+letter.getTitle());
+		System.out.println("To: "+letter.getTo());
+		System.out.println("From: "+letter.getFrom());
+		System.out.println("Date: "+letter.getDate());
+		System.out.println("Place: "+letter.getPlace());
+		System.out.println("Location: "+letter.getMuseum());
+		
+		Assert.assertEquals("Vincent van Gogh", letter.getTo());
+		Assert.assertEquals("Theo van Gogh and Jo van Gogh-Bonger", letter.getFrom());
+		Assert.assertEquals("Friday, 31 January 1890", letter.getDate());
+		Assert.assertEquals("Paris", letter.getPlace());
+
+		
+	}
+	
+	@Test
+	public void getLetter523Test()
+			throws MalformedURLException, HtmlLetterParserException {
+
+		URL url = new URL(
+				"http://vangoghletters.org/vg/letters/let523/letter.html");
+		VanGoghLetterHtmlParser vanGoghLetterParser = new VanGoghLetterHtmlParser();
+		IHtmlLetterParser htmlParser = new HtmlLetterParser();
+
+		vanGoghLetterParser.setHtmlLetterParser(htmlParser);
+		Letter letter = vanGoghLetterParser.getLetter(url);
+
+		Assert.assertNotNull(letter);
+		Assert.assertNotNull(letter.getText());
+		Assert.assertNotNull(letter.getFrom());
+		Assert.assertTrue(letter.getText().trim().length() > 0);
+
+		System.out.println("Titolo: "+letter.getTitle());
+		System.out.println("To: "+letter.getTo());
+		System.out.println("From: "+letter.getFrom());
+		System.out.println("Date: "+letter.getDate());
+		System.out.println("Place: "+letter.getPlace());
+		System.out.println("Location: "+letter.getMuseum());
+		
+		Assert.assertEquals("Hendrik Jan Furnée", letter.getTo());
+		Assert.assertEquals("Vincent van Gogh", letter.getFrom());
+		Assert.assertEquals("Wednesday, 5 August 1885", letter.getDate());
+		Assert.assertEquals("Nuenen", letter.getPlace());
+
+		
+	}
+	
+	@Test
+	public void getLetter759Test()
+			throws MalformedURLException, HtmlLetterParserException {
+
+		URL url = new URL(
+				"http://vangoghletters.org/vg/letters/let759/letter.html");
+		VanGoghLetterHtmlParser vanGoghLetterParser = new VanGoghLetterHtmlParser();
+		IHtmlLetterParser htmlParser = new HtmlLetterParser();
+
+		vanGoghLetterParser.setHtmlLetterParser(htmlParser);
+		Letter letter = vanGoghLetterParser.getLetter(url);
+
+		Assert.assertNotNull(letter);
+		Assert.assertNotNull(letter.getText());
+		Assert.assertNotNull(letter.getFrom());
+		Assert.assertTrue(letter.getText().trim().length() > 0);
+
+		System.out.println("Titolo: "+letter.getTitle());
+		System.out.println("To: "+letter.getTo());
+		System.out.println("From: "+letter.getFrom());
+		System.out.println("Date: "+letter.getDate());
+		System.out.println("Place: "+letter.getPlace());
+		System.out.println("Location: "+letter.getMuseum());
+		
+		Assert.assertEquals("Vincent van Gogh", letter.getTo());
+		Assert.assertEquals("Hendrik Bonger, Hermine Bonger-Weismann and Anna van Gogh-Carbentus", letter.getFrom());
+		Assert.assertEquals("Thursday, 18 April 1889", letter.getDate());
+		Assert.assertEquals("Amsterdam/Breda/Paris", letter.getPlace());
+
+		
+	}
+	
+	@Test
+	public void getLetter693Test()
+			throws MalformedURLException, HtmlLetterParserException {
+
+		URL url = new URL(
+				"http://vangoghletters.org/vg/letters/let693/letter.html");
+		VanGoghLetterHtmlParser vanGoghLetterParser = new VanGoghLetterHtmlParser();
+		IHtmlLetterParser htmlParser = new HtmlLetterParser();
+
+		vanGoghLetterParser.setHtmlLetterParser(htmlParser);
+		Letter letter = vanGoghLetterParser.getLetter(url);
+
+		Assert.assertNotNull(letter);
+		Assert.assertNotNull(letter.getText());
+		Assert.assertNotNull(letter.getFrom());
+		Assert.assertTrue(letter.getText().trim().length() > 0);
+
+		System.out.println("Titolo: "+letter.getTitle());
+		System.out.println("To: "+letter.getTo());
+		System.out.println("From: "+letter.getFrom());
+		System.out.println("Date: "+letter.getDate());
+		System.out.println("Place: "+letter.getPlace());
+		System.out.println("Location: "+letter.getMuseum());
+		
+		Assert.assertEquals("Eugène Boch", letter.getTo());
+		Assert.assertEquals("Vincent van Gogh", letter.getFrom());
+		Assert.assertEquals("Tuesday, 2 October 1888", letter.getDate());
+		Assert.assertEquals("Arles", letter.getPlace());
+		
+	}
+	
+	@Test
+	public void getLetter264Test()
+			throws MalformedURLException, HtmlLetterParserException {
+
+		URL url = new URL(
+				"http://vangoghletters.org/vg/letters/let264/letter.html");
+		VanGoghLetterHtmlParser vanGoghLetterParser = new VanGoghLetterHtmlParser();
+		IHtmlLetterParser htmlParser = new HtmlLetterParser();
+
+		vanGoghLetterParser.setHtmlLetterParser(htmlParser);
+		Letter letter = vanGoghLetterParser.getLetter(url);
+
+		Assert.assertNotNull(letter);
+		Assert.assertNotNull(letter.getText());
+		Assert.assertNotNull(letter.getFrom());
+		Assert.assertTrue(letter.getText().trim().length() > 0);
+
+		System.out.println("Titolo: "+letter.getTitle());
+		System.out.println("To: "+letter.getTo());
+		System.out.println("From: "+letter.getFrom());
+		System.out.println("Date: "+letter.getDate());
+		System.out.println("Place: "+letter.getPlace());
+		System.out.println("Location: "+letter.getMuseum());
+		
+		Assert.assertEquals("Eugène Boch", letter.getTo());
+		Assert.assertEquals("Vincent van Gogh", letter.getFrom());
+		Assert.assertEquals("Tuesday, 2 October 1888", letter.getDate());
+		Assert.assertEquals("Arles", letter.getPlace());
+
+		
+	}
 }

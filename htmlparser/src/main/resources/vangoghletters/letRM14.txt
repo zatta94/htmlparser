@@ -3,10 +3,11 @@ Location|Nuenen
 Date|about January-February 1885
 To|Unknown
 From|Vincent van Gogh
+Museum|Amsterdam, Van Gogh Museum, inv. no. d309 V/1970
 Url letter|http://vangoghletters.org/vg/letters/RM14/letter.html
 Letter|pleasure and would
 for had – as I feel it –
-by Haverman , for example .
+by Haverman, for example.
 me in – something young and
 do not find what
 – I would

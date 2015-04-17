@@ -111,7 +111,7 @@ public class LetterServiceTest {
 		try {
 			
 		  List<Letter> lettersFromPath = letterService.getLettersFromPath(Paths.get("/home/larus/Progetti/Git/htmlparser/htmlparser/src/main/resources/vangoghletters"));
-		  Assert.assertNotNull(lettersFromPath);;
+		  Assert.assertNotNull(lettersFromPath);
 		  Assert.assertEquals(928, lettersFromPath.size());
 
 		  for (Letter letter : lettersFromPath) {
@@ -141,8 +141,14 @@ public class LetterServiceTest {
 				  
 					 System.out.println("Lettera senza Luogo: "+letter.getUrl()); 
 			  }
-			  
-			  
+			  if(letter.getTitle().trim().length()==0){
+				  
+					 System.out.println("Lettera senza Titolo: "+letter.getUrl()); 
+			  }
+			  if(letter.getMuseum().trim().length() == 0 ){
+				  
+					 System.out.println("Lettera senza Museo: "+letter.getUrl()); 
+			  }	
 		}
 		  
 		  

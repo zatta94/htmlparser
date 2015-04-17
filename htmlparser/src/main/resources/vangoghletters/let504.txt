@@ -3,8 +3,9 @@ Location|Nuenen
 Date|Monday, 25 May 1885
 To|Anthon van Rappard
 From|Vincent van Gogh
+Museum|Amsterdam, Van Gogh Museum, inv. no. b8382 V/2006
 Url letter|http://vangoghletters.org/vg/letters/let504/letter.html
 Letter|My dear friend Rappard
-I just received your letter — to my surprise . You hereby get it back .
-Sincerely ,
+I just received your letter — to my surprise. You hereby get it back.
+Sincerely,
 Vincent

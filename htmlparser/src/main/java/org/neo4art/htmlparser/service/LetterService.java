@@ -40,6 +40,7 @@ public class LetterService implements ILetterService{
 			 printWriter.print("\nDate|"+letter.getDate());
 			 printWriter.print("\nTo|"+letter.getTo());
 			 printWriter.print("\nFrom|"+letter.getFrom());
+			 printWriter.print("\nMuseum|"+letter.getMuseum());
 			 printWriter.print("\nUrl letter|"+letter.getUrl());
 			 printWriter.print("\nLetter|"+letter.getText());
 			 printWriter.close();
