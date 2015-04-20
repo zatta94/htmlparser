@@ -111,10 +111,12 @@ public class LetterService implements ILetterService{
 			letter.setTo(parseLetterContent(listContentFile,3));
 			//From
 			letter.setFrom(parseLetterContent(listContentFile,4));
+			//Museum
+			letter.setMuseum(parseLetterTextContent(listContentFile, 5));
 			//Url
-			letter.setUrl(parseLetterContent(listContentFile,5));
+			letter.setUrl(parseLetterContent(listContentFile,6));
 			//Letter
-            letter.setText(parseLetterTextContent(listContentFile,6));
+            letter.setText(parseLetterTextContent(listContentFile,7));
 		
 		} catch (IOException e) {
 			

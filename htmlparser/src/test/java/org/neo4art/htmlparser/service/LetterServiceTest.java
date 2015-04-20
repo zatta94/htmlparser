@@ -125,30 +125,39 @@ public class LetterServiceTest {
 //				System.out.println("----------------------------------------------------\n");
 			  
 			  
-			  if(letter.getDate().trim().length()==0){
-				  
-				 System.out.println("Lettera senza data: "+letter.getUrl()); 
-			  }
-			  if(letter.getTo().trim().length()==0){
-				  
-					 System.out.println("Lettera senza To: "+letter.getUrl()); 
-			  }
-			  if(letter.getFrom().trim().length()==0){
-				  
-					 System.out.println("Lettera senza From: "+letter.getUrl()); 
-			  }
-			  if(letter.getPlace().trim().length()==0){
-				  
-					 System.out.println("Lettera senza Luogo: "+letter.getUrl()); 
-			  }
-			  if(letter.getTitle().trim().length()==0){
-				  
-					 System.out.println("Lettera senza Titolo: "+letter.getUrl()); 
-			  }
-			  if(letter.getMuseum().trim().length() == 0 ){
-				  
-					 System.out.println("Lettera senza Museo: "+letter.getUrl()); 
-			  }	
+			  Assert.assertTrue(letter.getDate().trim().length() != 0);
+			  Assert.assertTrue(letter.getTo().trim().length() != 0);
+			  Assert.assertTrue(letter.getFrom().trim().length() != 0);
+			  Assert.assertTrue(letter.getPlace().trim().length() != 0);
+			  Assert.assertTrue(letter.getTitle().trim().length() != 0);
+			  Assert.assertTrue(letter.getUrl().trim().length() != 0);
+			  Assert.assertTrue(letter.getText().trim().length() != 0);
+			  Assert.assertTrue(letter.getMuseum().trim().length() != 0);
+//			  if(letter.getDate().trim().length()==0){
+//				  
+//				 System.out.println("Lettera senza data: "+letter.getUrl()); 
+//			  }
+//			  if(letter.getTo().trim().length()==0){
+//				  
+//					 System.out.println("Lettera senza To: "+letter.getUrl()); 
+//			  }
+//			  if(letter.getFrom().trim().length()==0){
+//				  
+//					 System.out.println("Lettera senza From: "+letter.getUrl()); 
+//			  }
+//			  if(letter.getPlace().trim().length()==0){
+//				  
+//					 System.out.println("Lettera senza Luogo: "+letter.getUrl()); 
+//			  }
+//			  if(letter.getTitle().trim().length()==0){
+//				  
+//					 System.out.println("Lettera senza Titolo: "+letter.getUrl()); 
+//			  }
+//			  if(letter.getMuseum().trim().length() == 0 ){
+//				  
+//					 System.out.println("Lettera senza Museo: "+letter.getUrl()); 
+//			  }	
+			  
 		}
 		  
 		  
