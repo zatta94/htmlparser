@@ -4,6 +4,8 @@ Date|on or about Sunday, 12 August 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b563 a V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000758_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000758_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let659/letter.html
 Letter|My dear Theo,
 I have to thank you for quite a few things, first of all your letter and the 50-franc note it contained, but then also for the consignment of colours and canvas that I’ve been to collect at the station (the geranium lake arrived too), and lastly for the Cassagne book and for La fin de Lucie Pellegrin. If Tasset divided up his packages better there’d be a difference in the cost of carriage; this time it came to 3 parcels, two of them weighing over 5 kilos. If a few tubes had been kept back, the whole thing would have cost about 5 francs. Anyway, I’m still very glad to have them.

@@ -4,6 +4,10 @@ Date|on or about Friday, 28 March 1884
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b399 V/1962 (sheet 1) and b414 d V/1962 (sheet 2)
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000527_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000527_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000551_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000551_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let443/letter.html
 Letter|My dear Theo,
 The drawings for this month are still with Rappard, otherwise I would have already sent them to you. And since there’s a plan for Rappard to come and stay here very soon, I’ve asked him to bring them with him then.

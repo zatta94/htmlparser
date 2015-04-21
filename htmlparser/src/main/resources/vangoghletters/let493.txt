@@ -4,6 +4,9 @@ Date|Monday, 13 April 1885
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b438 V/1962 (sheet 1), present whereabouts unknown (sheet 2)
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000584_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000584_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/493_2rf.png
 Url letter|http://vangoghletters.org/vg/letters/let493/letter.html
 Letter|My dear Theo,
 Many thanks for your registered letter of yesterday and the enclosure. Pursuant to that, I’m writing again right away and enclose herewith a scratch, more precise than the one before, after my latest study.

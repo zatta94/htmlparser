@@ -4,6 +4,8 @@ Date|Wednesday, 19 August 1885
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b461 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000618_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000618_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let529/letter.html
 Letter|My dear Theo,
 I wanted to add to my letter of the day before yesterday that I had a letter from Rappard yesterday, and our quarrel is wholly made up, that he sent me a croquis of a large painting of a brickworks that he’s working on. This looks very original — if one wanted to find other paintings in the same spirit, it would be Meunier, say, whose mine-workers you saw in Antwerp. He’s rented a small house outside Utrecht, just as a studio (and arranged for light from above) near the brickworks, and since he’s also going back to Terschelling he’s deep in nature again, and to my mind that’s better than working in town.

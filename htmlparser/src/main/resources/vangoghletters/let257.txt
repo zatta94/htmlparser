@@ -4,6 +4,8 @@ Date|Monday, 14 August 1882
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b247 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000301_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000301_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let257/letter.html
 Letter|My dear Theo,
 You must excuse me for writing again — it’s to tell you that I take so much pleasure in painting. Last Saturday evening I tackled something I’ve already dreamed of often.

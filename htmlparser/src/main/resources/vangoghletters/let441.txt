@@ -4,6 +4,8 @@ Date|between about Friday, 21 and about Friday, 28 March 1884
 To|Anthon van Rappard
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b8377 V/2006
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001001637_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001001637_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let441/letter.html
 Letter|My dear friend Rappard,
 My join me in asking you whether you would care — to come here one of these days. As soon as you like.

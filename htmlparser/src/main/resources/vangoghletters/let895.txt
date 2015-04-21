@@ -4,6 +4,8 @@ Date|Tuesday, 1 July 1890
 To|Vincent van Gogh
 From|Théophile Peyron
 Museum|Amsterdam, Van Gogh Museum, inv. no. b1064 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001001237_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001001237_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let895/letter.html
 Letter|[Letterhead: Maison de Santé Saint-Rémy]
 1 July 1890

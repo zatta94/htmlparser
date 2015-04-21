@@ -4,6 +4,10 @@ Date|Monday, 7 January 1889
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b615 V/1962 (sheet 1) and b616 V/1962 (sheet 2)
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000836_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000836_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000837_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000837_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let732/letter.html
 Letter|My dear Theo,
 Perhaps I won’t write you a really long letter today, but anyhow a line to let you know that I returned home today. How I regret that you were troubled for such a little thing, forgive me, for I am after all probably the primary cause of it. I hadn’t foreseen that it would lead to you being told about it. Enough.

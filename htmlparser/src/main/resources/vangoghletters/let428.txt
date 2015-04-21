@@ -4,6 +4,8 @@ Date|on or about Sunday, 3 February 1884
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b386 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000504_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000504_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let428/letter.html
 Letter|My dear Theo,
 I was glad to get your letter today and the enclosure, and thank you very much for both. It seems to me that Ma’s recovery is proceeding very well so far, generally speaking. And that the longer it goes on, the less immediate danger there is, and the more it’s reduced to a question of time above all. Yet — Ma will certainly not be entirely the same once the fracture has healed. The effect on her, and perhaps as a result on Pa too, will in my view be to push them instantly a whole lot further into old age.

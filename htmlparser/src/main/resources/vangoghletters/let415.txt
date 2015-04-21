@@ -4,6 +4,12 @@ Date|on or about Tuesday, 18 December 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b376 a-b V/1962 (sheets 1, 2) and b377 V/1962 (sheet 3)
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000489_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000489_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000490_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000490_02_nf.png
+Link image 5|http://vangoghletters.org/vg/facsimiles/VGM001000491_01_nf.png
+Link image 6|http://vangoghletters.org/vg/facsimiles/VGM001000491_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let415/letter.html
 Letter|My dear Theo,
 I received your letter today, as well as a letter from friend Rappard by the same post. Let me start by thanking you for the money. And let me say right after that, that I appreciate it, both in you and in Rappard, that you people approve of my coming here.

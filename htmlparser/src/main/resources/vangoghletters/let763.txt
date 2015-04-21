@@ -4,6 +4,8 @@ Date|Sunday, 28 April 1889
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b634 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000866_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000866_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let763/letter.html
 Letter|My dear Theo,
 Thanks for your kind letter, thanks for the good news it contained, and also for the 100-franc note. I was very, very happy to learn that you feel a little reassured by your marriage. Then what gave me great pleasure is that you say that Mother looks as if she’s getting younger. In a little while, of course, or already, she’s going to be worrying about seeing a child of yours. That is sure and certain.

@@ -4,6 +4,8 @@ Date|between about Monday, 9 March and about Monday, 23 March 1885
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b434 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000579_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000579_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let485/letter.html
 Letter|My dear Theo,
 I have a few of the heads I promised you ready, but not completely dry yet. But as I already wrote, they were painted in a dark cottage and they are — studies — in the true meaning of the word.

@@ -4,6 +4,10 @@ Date|Sunday, 31 December 1882 and Tuesday, 2 January 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b278 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000345_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000345_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000346_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000346_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let297/letter.html
 Letter|My dear Theo,
 It’s New Year’s Eve and I feel so much like having another word with you. When I wrote my last letter I spoke to you about large heads that I was working on. I was carrying out an experiment at the time, the first results of which I can now report to you, since the day before yesterday, yesterday and today I’ve had models for two drawings.

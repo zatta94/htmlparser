@@ -4,6 +4,8 @@ Date|Monday, 24 September 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b350 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000449_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000449_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let389/letter.html
 Letter|My dear Theo,
 Today I’m sending a package of 3 studies which I hope are dry enough. However, if they stick to the sheet of paper I laid on them as a precaution, soak them off with lukewarm water. The smallest one, in particular, has sunk in a lot, go over it with the white of an egg in about a week, or some varnish in a month’s time, to lift them. I’m sending them to let you take a look, and better after this — really.

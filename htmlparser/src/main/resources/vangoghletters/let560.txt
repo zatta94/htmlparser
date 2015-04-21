@@ -4,6 +4,8 @@ Date|on or about Tuesday, 9 February 1886
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b491 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000666_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000666_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let560/letter.html
 Letter|My dear Theo,
 I have to write to you one more time because the sooner we can take an outright decision the better. As regards a studio — if we could find, in one and the same house, a room with an alcove and also a garret or a corner attic — then you could have that apartment of room and alcove, and we could make it just as comfortable as possible. And during the day the room could serve as studio, and the garret could serve for various more unsightly tools or for dirty work, and I could also sleep there — and you in the studio alcove.

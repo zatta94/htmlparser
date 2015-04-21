@@ -4,6 +4,10 @@ Date|on or about Saturday, 14 November 1885
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b473 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000638_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000638_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000639_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000639_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let541/letter.html
 Letter|My dear Theo,
 I came across the following sentence that you’d underlined in the article on Chardin in De Goncourt’s book. After speaking about painters being badly paid, he says: ‘What to do, what to become. He must abandon himself to the inferior occupations or die of hunger. The first course is adopted’. So, he goes on to say, aside from a few martyrs, the rest ‘become fencing masters, soldiers or comedians’.

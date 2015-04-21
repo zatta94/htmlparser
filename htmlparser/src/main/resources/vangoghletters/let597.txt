@@ -4,6 +4,8 @@ Date|on or about Friday, 13 April 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b517 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000694_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000694_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let597/letter.html
 Letter|My dear Theo,
 Thanks for your letter containing the samples of absorbent canvas. Will be very glad to receive — but it’s not at all urgent — 3 metres of the sort at 6 francs.

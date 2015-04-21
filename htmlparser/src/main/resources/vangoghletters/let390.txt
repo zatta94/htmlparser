@@ -4,6 +4,8 @@ Date|on or about Wednesday, 26 September 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b351 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000450_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000450_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let390/letter.html
 Letter|Dear brother,
 Because I have a need to speak frankly, I can’t hide from you that I’m overcome by a feeling of great anxiety, dejection, a je ne sais quoi of discouragement and even despair, too much to express. And that if I can find no consolation for it, it might all too easily overwhelm me unbearably.

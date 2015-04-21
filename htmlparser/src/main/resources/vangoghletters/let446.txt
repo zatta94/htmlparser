@@ -4,6 +4,8 @@ Date|between about Monday, 12 and about Thursday, 15 May 1884
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b402 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000530_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000530_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let446/letter.html
 Letter|My dear Theo,
 I’ve already left it too long before answering your last letter — and you’ll see how it came about. Let me start by saying that I thank you for your letter and for the enclosed 200 francs. And then I’ll tell you that today I’ve just about finished arranging a spacious new studio I’ve rented. Two rooms — one large and one small — en suite. I’ve been rather busy because of it this last fortnight. I believe I’ll be able to work a good deal more pleasantly there than in the little room at home. And hope that you’ll approve the step I’ve taken when you’ve seen it.

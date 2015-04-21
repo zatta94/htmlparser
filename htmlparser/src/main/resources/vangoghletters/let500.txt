@@ -4,6 +4,10 @@ Date|Monday, 4 and Tuesday, 5 May 1885
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b444 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000592_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000592_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000593_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000593_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let500/letter.html
 Letter|My dear Theo,
 I’m dropping you a quick line before I send off the little crate. I’m sending it carriage paid (Antwerp) (or right through if possible) to your address, rue de Laval.

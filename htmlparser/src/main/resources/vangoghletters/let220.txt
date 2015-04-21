@@ -4,6 +4,12 @@ Date|on or about Sunday, 23 April 1882
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b211 a-b V/1962 (sheets 1, 2) and d322 V/1972 (sheet 3)
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000241_02_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000241_01_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000242_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000242_02_nf.png
+Link image 5|http://vangoghletters.org/vg/facsimiles/VGM001001676_01_nf.png
+Link image 6|http://vangoghletters.org/vg/facsimiles/VGM001001676_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let220/letter.html
 Letter|Theo,
 Since I wrote to Mauve ‘do you realize that those two months are long past, let’s shake hands and go our separate ways rather than quarrel’, I say, since I wrote such a thing and received no sign of life in return, it’s as though something has been choking me.

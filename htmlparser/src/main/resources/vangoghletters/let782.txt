@@ -4,6 +4,8 @@ Date|on or about Tuesday, 18 June 1889
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b643 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000879_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000879_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let782/letter.html
 Letter|My dear Theo,
 Thanks for your letter of yesterday. I too cannot write as I would wish, but anyway we live in such a disturbed age that there can be no question of having opinions that are firm enough to judge things.

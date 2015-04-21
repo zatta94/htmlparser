@@ -4,6 +4,10 @@ Date|on or about Saturday, 3 March 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b294 V/1962 (sheet 1) and d319 V/1971 (sheet 2)
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000367_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000367_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001001673_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001001673_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let323/letter.html
 Letter|My dear Theo.
 Herewith a scratch of the selling of soup that I did in the public soup kitchen. It takes place in a large hall where the light enters from above through a door on the right.

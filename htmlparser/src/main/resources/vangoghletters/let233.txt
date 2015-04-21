@@ -4,6 +4,8 @@ Date|Tuesday, 30 May 1882
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b225 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000265_02_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000265_01_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let233/letter.html
 Letter|My dear brother,
 Today or tomorrow, being the 1st of June, I promised to pay my 5 guilders rent of studio for the month of April + 7.50 guilders for last month — makes 12.50 guilders.

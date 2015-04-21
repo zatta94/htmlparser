@@ -4,6 +4,10 @@ Date|on or about Thursday, 29 March and Sunday, 1 April 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b300 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000376_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000376_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000377_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000377_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let333/letter.html
 Letter|My dear Theo,
 By chance I’ve finally seen something by Lhermitte — a very superficial reproduction in woodcut. It showed an old woman on a pew. Beside her a kneeling girl. Whatever the shortcomings of the reproduction, it has given me some idea of his work. It reminded me straightaway of Degroux and Legros, for example. There must undoubtedly be many similarities between his work and that of Millet or Breton.

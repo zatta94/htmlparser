@@ -4,6 +4,12 @@ Date|on or about Friday, 28 December 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b380 V/1962 (sheet 1) and b215 a-b V/1962 (sheets 2, 3)
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000495_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000495_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000250_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000250_02_nf.png
+Link image 5|http://vangoghletters.org/vg/facsimiles/VGM001000251_01_nf.png
+Link image 6|http://vangoghletters.org/vg/facsimiles/VGM001000251_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let418/letter.html
 Letter|My dear Theo,
 You must know that I mean what I say to you regarding the . You must know that all the disappointment that your visit this summer caused me — more than you know — in so far as it touched me personally, it isn’t something that I’ll attach much importance to — but the other thing — namely that I found her again in such a state that my heart melted in me — that — it will remain — something insurmountable between you and me — unless she is yet saved.

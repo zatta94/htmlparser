@@ -4,6 +4,8 @@ Date|Friday, 3 August 1877
 To|Hermanus Tersteeg
 From|Vincent van Gogh
 Museum|Private collection
+Link image 1|http://vangoghletters.org/vg/facsimiles/124_1rf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/124_1vf.png
 Url letter|http://vangoghletters.org/vg/letters/let124/letter.html
 Letter|Amsterdam, 3 August 1877
 Dear Mr Tersteeg,

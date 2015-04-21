@@ -4,6 +4,8 @@ Date|Sunday, 21 January 1877
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b101 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000106_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000106_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let101/letter.html
 Letter|Dordrecht, 21 January 1877
 My dear Theo,

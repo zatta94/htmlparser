@@ -4,6 +4,8 @@ Date|Thursday, 26 November 1885
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b476 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000643_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000643_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let544/letter.html
 Letter|My dear Theo,
 Wanted to let you know that I’m in Antwerp and have already seen various things. I’ve rented a little room, rue des Images No. 194, above a paint merchant, for 25 francs a month. So when you write, please address your letter there instead of Poste restante.

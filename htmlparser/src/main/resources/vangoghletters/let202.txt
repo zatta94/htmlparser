@@ -4,6 +4,8 @@ Date|Sunday, 22 January 1882
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b193 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000220_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000220_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let202/letter.html
 Letter|Sunday evening. Schenkweg 138
 (near the Rijnspoor)

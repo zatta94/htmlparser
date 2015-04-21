@@ -4,6 +4,8 @@ Date|Tuesday, 10 June 1890
 To|Theo van Gogh and Jo van Gogh-Bonger
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b689 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000937_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000937_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let881/letter.html
 Letter|Dear brother and ,
 Sunday has left me a very pleasant memory. In this way we really feel that we’re not so far from one another, and I hope that we’ll see each other again often. Since Sunday I’ve done two studies of houses in the greenery; a whole colony of Americans has installed itself beside the house where I am. They paint, but I haven’t yet seen what they do.

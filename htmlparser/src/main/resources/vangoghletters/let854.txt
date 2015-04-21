@@ -4,6 +4,8 @@ Date|Wednesday, 12 February 1890
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b675 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000921_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000921_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let854/letter.html
 Letter|My dear Theo,
 I was in the middle of writing to you to send you the reply for Mr Aurier when your letter arrived. Am very pleased that Jo and the are well and that she expects to be able to get up in a few days from now. Then what you write about our also interests me a great deal. I consider that she was lucky to see Degas at his home. I still think that she would above all make a good doctor’s wife. Anyway, one can’t exactly force these things, nevertheless it’s good to have one’s eyes open if the opportunity were to present itself.

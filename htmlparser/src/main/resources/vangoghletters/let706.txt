@@ -4,6 +4,8 @@ Date|Wednesday, 17 October 1888
 To|Paul Gauguin
 From|Vincent van Gogh
 Museum|New York, Thaw Collection, The Morgan Library 
+Link image 1|http://vangoghletters.org/vg/facsimiles/706_1rf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/706_1vf.png
 Url letter|http://vangoghletters.org/vg/letters/let706/letter.html
 Letter|My dear Gauguin,
 Thanks for your letter, and thanks most of all for your promise to come as early as the twentieth. Agreed, this reason that you give won’t help to make a pleasure trip of the train journey, and it’s only right that you should put off your journey until you can do it without it being a bloody nuisance. But that apart, I almost envy you this trip, which will show you, en passant, miles and miles of countryside of different kinds with autumn splendours.

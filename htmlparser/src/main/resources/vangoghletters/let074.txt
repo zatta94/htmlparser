@@ -4,6 +4,8 @@ Date|Tuesday, 4 April 1876
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b72 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000075_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000075_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let074/letter.html
 Letter|Etten, 4 April 1876.
 Dear Theo!

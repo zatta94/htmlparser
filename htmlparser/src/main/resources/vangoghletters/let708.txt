@@ -4,6 +4,8 @@ Date|Friday, 19 October 1888
 To|Vincent van Gogh
 From|Theo van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b728 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000985_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000985_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let708/letter.html
 Letter|[Letterhead: Goupil and Boussod Paris]
 19 October 1888

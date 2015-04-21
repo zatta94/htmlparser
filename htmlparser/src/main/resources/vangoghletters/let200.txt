@@ -4,6 +4,8 @@ Date|on or about Saturday, 14 January 1882
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b191 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000217_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000217_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let200/letter.html
 Letter|Dear brother,
 As I’ve often done, I sent you an answer in my last letter that was brief and to the point about one thing and another, yet in harsh words that nevertheless truly express what I think about things, but you mustn’t think that I’m always in a gruff, cold-hearted mood which Mauve would perhaps call a yellow soap mood or saltwater mood. But even if I had written a yellow soap letter or a saltwater letter, surely that’s no worse than taking things too sentimentally.

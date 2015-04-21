@@ -4,6 +4,8 @@ Date|Monday, 7 May 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b523 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000704_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000704_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let605/letter.html
 Letter|My dear Theo,
 I’ve just received your letter containing 100 francs, I really thank you for it — and for the previous one (also dated Brussels) containing 50 francs. This to tell you that I received them safely. But there should be at least 2 letters that I wrote to you in Paris and a roll of drawings, which, as you thought, Koning won’t have sent you. Koning sent me a postcard saying he’d received a note from the Independents, saying that if the paintings weren’t collected between April 5 and 6 they’d be put somewhere else, in storage. He just had to pick them up, if it was between May 5 and 6 that he meant. It’s likely that this excellent young man has somewhat lost his wits in your absence.

@@ -4,6 +4,8 @@ Date|Friday, 5 or Saturday, 6 January 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b280 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000348_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000348_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let299/letter.html
 Letter|Dear brother,
 I’m sending you herewith a few more studies. And here’s an idea that I’ve been thinking about in the past few days. If you don’t find it tedious to see such sketches, I think it would be a good idea if I sent you 60 sketches, say, in a small portfolio sometime. Then you could look through them at your ease in your room. And the advantage would be that when you come, sooner or later, you would already have seen some things that I did last year. Otherwise we’d have to go through these studies very hastily if you only came for a short time.

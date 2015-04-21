@@ -4,6 +4,10 @@ Date|on or about Friday, 22 May 1885
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b446 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000595_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000595_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000596_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000596_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let502/letter.html
 Letter|My dear Theo,
 Many thanks for your letter and for the 50 francs enclosed, which was very welcome to me this month in particular, what with the move. I think that I’ll save a very great deal of time in the long run by living in the studio, since I’ll be able to get started first thing in the morning, for instance, whereas the way it was at home I couldn’t do anything.

@@ -4,6 +4,8 @@ Date|Sunday, 10 December 1882
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b264 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000323_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000323_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let292/letter.html
 Letter|My dear Theo,
 I often get around to writing to you on Sundays, and likewise today. I’ve been reading Le Nabab by Daudet these past few days, and find it masterly — among other things that walk taken by the Nabab and Hemerlingue the banker at Père Lachaise in the twilight while the bust of Balzac, a dark silhouette against the sky, looks down on them ironically. It’s just like a drawing by Daumier. You wrote to me about Daumier saying that he’d made The Revolution — Denis Dussoubs. When you wrote that, I didn’t know who Denis Dussoubs was; now I’ve read it in Histoire d’un crime by Victor Hugo. He’s a noble character — I wish I knew the drawing by D.

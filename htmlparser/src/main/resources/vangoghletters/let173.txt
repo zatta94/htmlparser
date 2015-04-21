@@ -4,6 +4,8 @@ Date|beginning of October 1881
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b171 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000183_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000183_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let173/letter.html
 Letter|My dear Theo,
 As a letter is going to you again, I’m enclosing a word in it. I sincerely hope that you’re doing well and will be able to find half an hour to write to me again.

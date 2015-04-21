@@ -4,6 +4,12 @@ Date|Saturday, 18 August 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b335 a-c V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000426_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000426_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000427_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000427_02_nf.png
+Link image 5|http://vangoghletters.org/vg/facsimiles/VGM001000428_01_nf.png
+Link image 6|http://vangoghletters.org/vg/facsimiles/VGM001000428_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let375/letter.html
 Letter|Dear brother,
 Coming home just now, the first thing I feel I have to do is to make a request of you — a request which I have no doubt is necessary simply because you’ll see from it that my intentions are the same as yours. It is: not to rush me in the various matters we were unable to deal with all at once this time. For I need some time in order to decide. As for my relative coolness towards Pa, here’s something I want to tell you, because you brought it up.

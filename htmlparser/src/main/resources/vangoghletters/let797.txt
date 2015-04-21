@@ -4,6 +4,8 @@ Date|Thursday, 22 August 1889
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b649 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000885_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000885_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let797/letter.html
 Letter|My dear Theo,
 I thank Jo very much for writing to me, and knowing that you wish me to write you a line I’m letting you know that it’s very difficult for me to write, so disturbed is my mind. So I’m taking advantage of an interval.

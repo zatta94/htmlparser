@@ -4,6 +4,8 @@ Date|on or about Thursday, 28 January 1886
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b487 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000659_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000659_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let555/letter.html
 Letter|My dear Theo,
 I’ve already left it too long to confirm the safe receipt of your letter and the enclosure. As regards your letter, it’s still the same and, to my mind, when you judge me you rely too much on generalities and on prejudices that are too superficial and too wrong for me to be able to believe that you’ll always stick to them.

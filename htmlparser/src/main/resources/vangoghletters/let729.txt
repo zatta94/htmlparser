@@ -4,6 +4,8 @@ Date|Friday, 4 January 1889
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b613 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000834_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000834_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let729/letter.html
 Letter|My dear brother
 I hope that Gauguin will also completely reassure you a little regarding painting matters.

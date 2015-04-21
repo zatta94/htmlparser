@@ -4,6 +4,12 @@ Date|on or about Tuesday, 18 August 1885
 To|Anthon van Rappard
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b8389 a-c V/2006
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001001651_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001001651_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001001652_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001001652_02_nf.png
+Link image 5|http://vangoghletters.org/vg/facsimiles/VGM001001653_01_nf.png
+Link image 6|http://vangoghletters.org/vg/facsimiles/VGM001001653_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let528/letter.html
 Letter|My dear friend Rappard,
 I just received your letter and croquis of your painting. It’s certainly a good subject, and I have nothing against the composition as regards balance.

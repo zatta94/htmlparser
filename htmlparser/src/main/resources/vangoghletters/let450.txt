@@ -4,6 +4,10 @@ Date|mid-June 1884
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b405 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000533_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000533_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000534_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000534_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let450/letter.html
 Letter|My dear Theo,
 I think I already told you in my last letter that I also wanted to start a large male figure as well as that woman spinning. I now send you a little scratch of it herewith. Perhaps you remember two studies of the same corner, which I already had in the studio when you were here.

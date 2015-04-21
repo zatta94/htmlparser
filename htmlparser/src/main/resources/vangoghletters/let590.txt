@@ -4,6 +4,8 @@ Date|on or about Friday, 30 March 1888
 To|Willemien van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b703 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000955_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000955_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let590/letter.html
 Letter|My dear ,
 So as not to let your letter go unanswered I’m writing immediately upon receipt of your letter and Ma’s and the good wishes from you both.

@@ -4,6 +4,8 @@ Date|Tuesday, 25 June 1889
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b644 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000880_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000880_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let783/letter.html
 Letter|My dear Theo,
 Enclosed you’ll find an order for colours to replace the one in my previous letter. We’ve had some fine hot days and I’ve got some more canvases on the go, so that there are 12 no. 30 canvases on the stocks. Two studies of cypresses of that difficult shade of bottle green. I’ve worked their foregrounds with thick impastos of white lead which gives firmness to the ground. I believe that Monticelli were very often prepared in this way. One then places other colours on top. But I don’t know if the canvases are strong enough for this work.

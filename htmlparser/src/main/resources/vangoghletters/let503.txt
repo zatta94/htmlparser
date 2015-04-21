@@ -4,6 +4,8 @@ Date|Sunday 24 May 1885
 To|Vincent van Gogh
 From|Anthon van Rappard
 Museum|Amsterdam, Van Gogh Museum, inv. no. b8383 V/2006
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001001643_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001001643_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let503/letter.html
 Letter|Utrecht, 24 May ’85
 My dear friend!

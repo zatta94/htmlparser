@@ -4,6 +4,10 @@ Date|Sunday, 15 July 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b551 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000739_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000739_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000740_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000740_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let640/letter.html
 Letter|My dear Theo,
 I thank you very much for your letter and the 100-franc note it contained. Now, I approve of your idea of settling Bing’s account, and I’m sending you back fifty francs for that purpose.

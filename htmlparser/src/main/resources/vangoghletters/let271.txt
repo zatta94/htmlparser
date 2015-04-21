@@ -4,6 +4,12 @@ Date|Sunday, 8 October 1882
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b258 V/1962, d278 V/1971, d277 V/1971
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000316_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000316_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001001658_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001001658_02_nf.png
+Link image 5|http://vangoghletters.org/vg/facsimiles/VGM001001657_01_nf.png
+Link image 6|http://vangoghletters.org/vg/facsimiles/VGM001001657_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let271/letter.html
 Letter|Sunday.
 My dear Theo,

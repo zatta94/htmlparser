@@ -4,6 +4,10 @@ Date|Tuesday, 16 October 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b599 V/1962 (sheet 1) and d311 V/1970 (sheet 2)
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000817_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000817_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001001667_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001001667_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let705/letter.html
 Letter|My dear Theo —
 At last I’m sending you a little croquis to give you at least an idea of the direction the work is taking. Because today I’ve gone back to it.

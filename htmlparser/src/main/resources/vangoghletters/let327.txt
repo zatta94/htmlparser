@@ -4,6 +4,10 @@ Date|Sunday, 11 March 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b297 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000370_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000370_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000371_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000371_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let327/letter.html
 Letter|My dear Theo,
 Thanks for your letter of 9 March and for the enclosure. Is your making good progress? I hope that no news about her is good news.

@@ -4,6 +4,8 @@ Date|on or about Friday, 2 March 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b506 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000682_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000682_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let582/letter.html
 Letter|My dear Theo
 I was very pleased to receive your letter and the rough draft of the letter to Tersteeg and the 50-franc note.

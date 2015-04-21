@@ -4,6 +4,10 @@ Date|on or about Monday, 25 June 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b545 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000730_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000730_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000731_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000731_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let631/letter.html
 Letter|My dear Theo,
 If we take a whole piece of ordinary canvas, this is the net price, which I’ve just found out by chance:

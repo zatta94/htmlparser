@@ -4,6 +4,8 @@ Date|Saturday, 26 May 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b530 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000713_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000713_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let613/letter.html
 Letter|My dear Theo,
 I read an announcement in L’Intransigeant that there’s going to be an exhibition of the Impressionists at Durand-Ruel — there’ll be some works by Caillebotte —I’ve never seen anything of his, and wanted to ask you to write and tell me what they’re like — there are certainly other noteworthy things too.

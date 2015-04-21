@@ -4,6 +4,8 @@ Date|Wednesday, 10 or Thursday, 11 October 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b593 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000806_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000806_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let701/letter.html
 Letter|My dear Theo,
 Letter from Gauguin, to say that he pays me a heap of undeserved compliments, and to add that he won’t come until the end of the month. That he’s been ill... That he dreads the journey.... What can I do about it..... But come on, let’s see — is this journey so exhausting, then, when after all the worst consumptives do it???

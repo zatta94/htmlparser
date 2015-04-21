@@ -4,6 +4,10 @@ Date|Thursday, 6 and Friday, 7 July 1882
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b235 V/1962 (sheet 1) and b236 V/1962 (sheet 2)
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000279_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000279_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000280_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000280_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let245/letter.html
 Letter|Thursday
 My dear Theo,

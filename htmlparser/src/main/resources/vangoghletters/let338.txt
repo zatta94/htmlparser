@@ -4,6 +4,8 @@ Date|Monday, 30 April 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b304 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000381_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000381_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let338/letter.html
 Letter|My dear Theo,
 I wanted to let you hear a word from me around your birthday. May the year you are beginning be a good one for you, and may you have good fortune at work — and I hope above all that in this year you’ll find some satisfaction in what you’ve done for your , and that she may recover and find new life.

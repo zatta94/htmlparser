@@ -4,6 +4,8 @@ Date|Wednesday, 8 May 1889
 To|Vincent van Gogh
 From|Theo van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b734 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000993_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000993_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let770/letter.html
 Letter|My dear Vincent,
 A few words in haste to thank you for your last letter and to tell you that I don’t consider your going to St-Rémy as a retreat, as you say, but simply as a momentary rest so as to come back soon with new strength.

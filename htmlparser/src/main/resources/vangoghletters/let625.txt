@@ -4,6 +4,10 @@ Date|on or about Friday, 15 and Saturday, 16 June 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b539 V/1962 (sheet 1) and b578 V/1962 (sheet 2)
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000724_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000724_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000779_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000779_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let625/letter.html
 Letter|My dear Theo,
 When in doubt, it’s better to abstain — that, I believe, is what I said in the letter to Gauguin, and that’s what I believe now, having read his reply. If he, for his part, returns to the proposal — he’s perfectly free to return to it — but we’d look I’m not quite sure what, if for the moment we pressed the point, to make him say yes.

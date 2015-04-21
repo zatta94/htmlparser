@@ -4,6 +4,8 @@ Date|Tuesday, 2 July 1889
 To|Willemien van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b713 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000968_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000968_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let785/letter.html
 Letter|My dear ,
 In recent days I already began another letter in reply to yours, but I became aware that I didn’t have sufficient mastery of my mind to write. I thank you and Lies for the Rod book which I’ve finished and which I’ll return to you soon. The terrible title, Le sens de la vie, terrified me a little, but as it’s happily scarcely spoken of in this volume, I was quite content to read something which has a family resemblance to Souvestre’s Le philosophe sous les toits or with Monsieur, madame et bébé by Droz. The moral of it is that in some cases a gentleman ends up preferring to live with a nice, devoted wife and his child, to the life of the restaurant, boulevard and café which he had previously led without too much excess. That’s undoubtedly very pleasant.

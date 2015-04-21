@@ -4,6 +4,8 @@ Date|on or about Friday, 3 August 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b558 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000751_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000751_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let654/letter.html
 Letter|My dear Theo,
 I’m more or less assuming that you went to Holland. From the letter received from our sister I’m somewhat inclined to believe they were expecting you in Holland, also because I haven’t had news from you on this subject.

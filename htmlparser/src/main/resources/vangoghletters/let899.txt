@@ -4,6 +4,8 @@ Date|between about Thursday, 10 and Monday, 14 July 1890
 To|Anna van Gogh and Willemien van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b698 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000947_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000947_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let899/letter.html
 Letter|Dear and ,
 Sincere thanks for your kind letters, which gave me a great deal of pleasure. For the present I feel calmer than last year, and the turmoil in my head has really abated so much. I’ve always believed that, incidentally; that seeing the old surroundings again would have this effect.

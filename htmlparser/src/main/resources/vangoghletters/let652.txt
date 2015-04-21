@@ -4,6 +4,10 @@ Date|Tuesday, 31 July 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b557 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000749_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000749_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000750_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000750_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let652/letter.html
 Letter|My dear Theo,
 So at last our ’s no longer suffering — I received the news from our this morning. It seems that they’re more or less expecting you for the funeral, and perhaps you’ll be there now, in fact.

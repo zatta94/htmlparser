@@ -4,6 +4,8 @@ Date|on or about Tuesday, 7 November 1882
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b265 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000325_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000325_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let281/letter.html
 Letter|My dear Theo,
 While waiting for further information about the process, I’ve made a lithograph with the help of Smulders’s printer, and I have the pleasure of sending you the very first impression herewith.

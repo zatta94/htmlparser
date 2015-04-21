@@ -4,6 +4,10 @@ Date|on or about Monday, 13 January 1890
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b672 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000916_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000916_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000917_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000917_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let839/letter.html
 Letter|My dear Theo,
 Thanks for your last letter, I hope that Wil has recovered from her indisposition and that it was no more serious than you say. Thanks very much, too, for the consignment of canvases and colours, which has just arrived. I have enough subjects for paintings in my head for when the weather permits me to work outside.

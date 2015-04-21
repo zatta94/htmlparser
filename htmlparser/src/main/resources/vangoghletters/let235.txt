@@ -4,6 +4,8 @@ Date|Saturday, 3 June 1882
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b227 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000268_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000268_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let235/letter.html
 Letter|My dear Theo,
 Today, Saturday, I’m sending you the two drawings

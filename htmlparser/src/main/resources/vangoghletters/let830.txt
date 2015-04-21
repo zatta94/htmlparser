@@ -4,6 +4,10 @@ Date|Sunday, 22 December 1889
 To|Vincent van Gogh
 From|Theo van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b749 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001001015_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001001015_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001001016_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001001016_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let830/letter.html
 Letter|Paris 22 Dec. 1889
 My dear Vincent,

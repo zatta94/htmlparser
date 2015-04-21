@@ -4,6 +4,10 @@ Date|Tuesday, 11 December 1888
 To|Vincent van Gogh
 From|Paul-Eugène Milliet
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b1326 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001001320_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001001320_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001001321_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001001321_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let725/letter.html
 Letter|11 December.
 My dear friend,

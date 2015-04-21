@@ -1,5 +1,7 @@
 package org.neo4art.htmlparser.bean;
 
+import java.util.Vector;
+
 /**
  * 
  * @author Enrico
@@ -15,6 +17,7 @@ public class Letter {
 	String url;
 	String title;
 	String museum;
+	Vector<String> link;
 
 	public Letter() {
 		
@@ -38,7 +41,15 @@ public class Letter {
 		this.url = url;
 		this.museum = museum;
 	}
-
+	
+	public void setLink(Vector<String> linkV){
+		this.link = linkV;
+	}
+	
+	public Vector<String> getLink(){
+		return link;
+	}
+	
 	public String getMuseum() {
 		return museum;
 	}

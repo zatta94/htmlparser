@@ -4,6 +4,8 @@ Date|Friday, 9 March 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b507 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000683_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000683_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let583/letter.html
 Letter|My dear Theo,
 Now at long last, this morning the weather has changed and has turned milder — and I’ve already had an opportunity to find out what this mistral’s like too. I’ve been out on several hikes round about here, but that wind always made it impossible to do anything. The sky was a hard blue with a great bright sun that melted just about all the snow — but the wind was so cold and dry it gave you goose-pimples. But even so I’ve seen lots of beautiful things — a ruined abbey on a hill planted with hollies, pines and grey olive trees. We’ll get down to that soon, I hope. Now I’ve just finished a study like the one of mine Lucien Pissarro has, but this time it’s of oranges. That makes eight studies I have up to now. But that doesn’t count, as I haven’t yet been able to work in comfort and in the warm.

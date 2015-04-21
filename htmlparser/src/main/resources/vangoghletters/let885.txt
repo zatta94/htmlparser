@@ -4,6 +4,8 @@ Date|Friday, 13 June 1890
 To|Anna van Gogh-Carbentus
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b726 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000981_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000981_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let885/letter.html
 Letter|Dear Mother,
 It struck me in your letter that you said that seeing things again in Nuenen you ‘were grateful that it had once been yours’ — and were now content to leave everything to the others.

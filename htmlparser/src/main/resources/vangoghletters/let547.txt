@@ -4,6 +4,10 @@ Date|Monday, 14 December 1885
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b479 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000647_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000647_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000648_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000648_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let547/letter.html
 Letter|My dear Theo,
 Just wanted to write and tell you that I’ve pressed ahead with models. I’ve made two fairly large heads by way of a trial for a portrait.

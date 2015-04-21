@@ -4,6 +4,10 @@ Date|Monday, 11 September 1882
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b252 V/1962, d321 V/1972, private collection, auction Monte Carlo, 18 July 2012
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000309_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000309_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001001675_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/262_3rf.png
 Url letter|http://vangoghletters.org/vg/letters/let262/letter.html
 Letter|My dear Theo,
 I’ve just received your letter and the 50 francs enclosed, for which many thanks.

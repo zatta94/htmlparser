@@ -4,6 +4,8 @@ Date|Tuesday, 31 July 1888
 To|Willemien van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b705 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000958_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000958_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let653/letter.html
 Letter|My dear ,
 I want to answer your letter of this morning straightaway. I’ll probably hear from Paris tomorrow what Theo’s doing, whether he can get away or not. I don’t doubt that he’ll come over if he can. It’s always affecting when someone one knows makes the great journey to that other hemisphere of life whose existence we suspect. And that my best wishes go with today’s traveller goes without saying.

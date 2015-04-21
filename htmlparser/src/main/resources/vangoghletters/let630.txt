@@ -4,6 +4,8 @@ Date|Saturday, 23 June 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b543 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000728_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000728_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let630/letter.html
 Letter|My dear Theo,
 Many thanks for your letter and the 50-franc note it contained. I didn’t know that the article on Claude Monet was by the same hand as the one on Bismarck. It does you good to read things like that, more than the majority of articles by the Decadents, with their fondness for saying the most banal things in strangely convoluted ways.

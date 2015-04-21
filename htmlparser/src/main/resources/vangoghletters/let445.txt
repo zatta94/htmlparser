@@ -4,6 +4,8 @@ Date|Wednesday, 30 April 1884
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b401 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000529_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000529_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let445/letter.html
 Letter|My dear Theo,
 Many happy returns of the day.

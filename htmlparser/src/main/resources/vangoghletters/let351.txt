@@ -4,6 +4,8 @@ Date|on or about Thursday, 7 June 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b314 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000395_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000395_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let351/letter.html
 Letter|My dear Theo,
 Today I received a letter from home and I wanted to talk to you about it, although Pa doesn’t mention you in the letter, because in the circumstances you might perhaps like to know something about their state of mind, above and beyond what they may write to you directly. And my impression is that for the present you may be entirely at ease on that score.

@@ -4,6 +4,8 @@ Date|Tuesday, 3 or Wednesday, 4 November 1885
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b470 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000635_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000635_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let538/letter.html
 Letter|My dear Theo,
 I just received your letter and the enclosed, for which many thanks. Wanted to reply to you straightaway that I repeatedly came across sayings by Diderot, and also think that he’s perfectly in tune with his age.

@@ -4,6 +4,12 @@ Date|Monday, 28 May 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b532 a-c V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000715_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000715_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000716_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000716_02_nf.png
+Link image 5|http://vangoghletters.org/vg/facsimiles/VGM001000717_01_nf.png
+Link image 6|http://vangoghletters.org/vg/facsimiles/VGM001000717_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let615/letter.html
 Letter|My dear Theo,
 I was very pleased to receive this morning’s letter from you; I thank you very much for the 100-franc note that was included in it.

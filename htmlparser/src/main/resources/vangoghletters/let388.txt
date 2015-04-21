@@ -4,6 +4,10 @@ Date|on or about Friday, 21 September 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b349 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000447_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000447_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000448_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000448_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let388/letter.html
 Letter|Dear brother,
 I’ve just received your letter and thank you right heartily for it. And want to write to you again straightaway to tell you a few things about my experiences. First of all, I’ve had a letter from Rappard in West-Terschelling and he’s hard at work there, having first spent some time here in Drenthe, in Rolde near Assen.

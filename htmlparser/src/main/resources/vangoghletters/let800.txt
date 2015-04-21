@@ -4,6 +4,14 @@ Date|Thursday, 5 and Friday, 6 September 1889
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b652 a-d V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000889_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000889_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000890_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000890_02_nf.png
+Link image 5|http://vangoghletters.org/vg/facsimiles/VGM001000891_01_nf.png
+Link image 6|http://vangoghletters.org/vg/facsimiles/VGM001000891_02_nf.png
+Link image 7|http://vangoghletters.org/vg/facsimiles/VGM001000892_01_nf.png
+Link image 8|http://vangoghletters.org/vg/facsimiles/VGM001000892_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let800/letter.html
 Letter|My dear brother,
 Although I’ve already written to you, there are still many things you have told me and to which I haven’t yet replied. First that you’ve rented a room in Tanguy’s house and that my canvases are there, that’s most interesting – provided you’re not paying a lot for it – the expenses still continuing and the canvases still taking their time to bring anything back in, that often frightens me.

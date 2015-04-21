@@ -4,6 +4,10 @@ Date|on or about Wednesday, 31 October 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b360 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000465_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000465_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000466_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000466_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let401/letter.html
 Letter|My dear brother —
 I cannot count the grains of corn in a sack of corn just by smelling it — I cannot see through the planks in the barn door — but I can sometimes see from the bulges whether it’s a sack of potatoes or corn; or again, even if the barn door is shut, I can tell from the squealing that the pig’s being slaughtered.

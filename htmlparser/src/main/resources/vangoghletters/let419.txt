@@ -4,6 +4,12 @@ Date|on or about Friday, 4 January 1884
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b381 a-c V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000496_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000496_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000497_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000497_02_nf.png
+Link image 5|http://vangoghletters.org/vg/facsimiles/VGM001000498_01_nf.png
+Link image 6|http://vangoghletters.org/vg/facsimiles/VGM001000498_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let419/letter.html
 Letter|My dear Theo,
 I still have to thank you for your letter of 1 Jan. and the enclosure. As to being brotherly, it seems to me that this depends very much on whether or not people look at things with the same eyes — and I pointed this out — since it appears to me that our views will probably diverge considerably — if this isn’t already the case. If I had already seen a difference — (not just supposed) — I do so, I tell you again, because I won’t behave towards you other than as I am, and precisely because I don’t want to quarrel. In the long run, I would rather do without the support that I get through you, however great it may be, than continue with it on the condition that I work against what I believe in.

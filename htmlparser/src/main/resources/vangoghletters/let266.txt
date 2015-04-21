@@ -4,6 +4,8 @@ Date|Monday, 18 September 1882
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b255 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000313_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000313_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let266/letter.html
 Letter|My dear Theo,
 As I write to you, I’m already down to my last guilder. I hope to hear from you soon but, bearing in mind what you last wrote to me I think it very possible that you may not be able to spare the usual precisely on the twentieth. If that’s the case, I want to ask you to send whatever you can spare, be it more or less, even if it’s only a small part. A model is coming on Friday afternoon, a man from the almshouse, and I wouldn’t like to send him away unpaid.

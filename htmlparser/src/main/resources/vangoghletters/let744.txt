@@ -4,6 +4,8 @@ Date|Wednesday, 30 January 1889
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b622 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000850_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000850_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let744/letter.html
 Letter|My dear Theo,
 Although I have nothing very, very unexpected to tell you I still want to let you know that last Monday I saw our friend Roulin again. There was good reason for it too — the whole of France having shivered. Certainly in our own eyes the election and its results and its representatives are only symbols. But one thing that has been proved once again is that worldly ambitions and glories pass — but that up to now the beating of the human heart remains the same and as much in touch with the past of our buried fathers as with the generation to come.

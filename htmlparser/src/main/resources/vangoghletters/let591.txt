@@ -4,6 +4,8 @@ Date|on or about Sunday, 1 April 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b512 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000688_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000688_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let591/letter.html
 Letter|My dear Theo,
 Thanks for your letter and for the 50-franc note enclosed in it. I would have things to write to you at leisure but have to do so in great haste. First of all, Tersteeg once again. Am very pleased that your consignment goes off on Monday and after all, perhaps also because there’s a canvas of mine in it.

@@ -4,6 +4,8 @@ Date|on or about Tuesday, 3 July 1883
 To|Anthon van Rappard
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b8370 V/2006
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001001625_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001001625_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let359/letter.html
 Letter|My dear friend Rappard,
 I still wanted to write again while you’re travelling. Thanks for the consignment of books. I would like to apply to Zola’s Mes haines Zola’s own words about Hugo, ‘I should like to demonstrate that, given such a man on such a subject, the result could not be another book than the one it is’, also Zola’s own words on the same occasion: ‘I shall not cease to repeat, the criticism of this book, as it has been made, seems to me a monstrous injustice’.

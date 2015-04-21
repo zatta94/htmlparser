@@ -4,6 +4,8 @@ Date|or about Wednesday, 26 April 1882
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b212 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000243_02_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000243_01_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let221/letter.html
 Letter|My dear Theo,
 My reply to your statement, ‘Tersteeg has been almost like an elder brother to us, be sure and stay friends with him’, whereupon I said that even if that were so as far as you were concerned, I personally had been confronted with his unfriendly and hard side for years – I’d like to elaborate on this a little.

@@ -4,6 +4,8 @@ Date|Sunday, 17 September 1882
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b253 a V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000310_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000310_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let264/letter.html
 Letter|My dear Theo,
 The weeks pass quickly — and we’re at Sunday again. Have been to Scheveningen quite often lately, and one evening, very interestingly, happened to see a pink arriving. There’s a wooden shed near the monument where a fellow keeps a look-out. As soon as the pink could clearly be seen approaching, the fellow emerged with a big blue flag, followed by a gang of children no higher than his knees. It was evidently a great pleasure for them to stand next to the man with the flag, and no doubt in their imagination to help bring the pink in. A few minutes after the man had waved his flag, a fellow rode up on an old horse – he was to get the anchor. The group was then joined by several men and women – including mothers with children — who were to receive the crew.

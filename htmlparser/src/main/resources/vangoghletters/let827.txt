@@ -4,6 +4,8 @@ Date|Monday, 9 or Tuesday, 10 December 1889
 To|Willemien van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b716 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000971_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000971_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let827/letter.html
 Letter|My dear ,
 Thanks very much for writing to me. Myself, I’d be very pleased if you went to Theo’s in January – as it isn’t impossible that I too may go to Paris, we may meet. The description of your and Mother’s new dwelling interests me a great deal, and this move is indeed a wise and well-considered arrangement. It would certainly charm me if I saw it, this quay where people come to wash green and red wool with the small barges and vessels moored, and the factory with its windows lit up in the evening. Those are effects that I would paint.

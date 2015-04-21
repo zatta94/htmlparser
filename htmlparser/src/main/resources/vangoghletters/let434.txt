@@ -4,6 +4,10 @@ Date|between about Wednesday, 5 and about Sunday, 9 March 1884
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b392 V/1962 and b397 e V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000515_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000515_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000525_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000525_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let434/letter.html
 Letter|My dear Theo,
 One of these days I’ll send you another new pen drawing of a weaver — larger than the 5 others. The loom viewed from the front — that will make this little series of drawings more complete. I think that they’ll look best if you mount them on grey Ingres.

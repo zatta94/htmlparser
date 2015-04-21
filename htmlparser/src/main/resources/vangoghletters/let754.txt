@@ -4,6 +4,8 @@ Date|on or about Thursday, 4 April 1889
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b630 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000860_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000860_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let754/letter.html
 Letter|My dear Theo,
 A few words to wish you and your ée much happiness these days. It’s like a nervous tic with me that on the occasion of a day of celebration I generally experience difficulties in formulating a congratulation, but it shouldn’t be concluded from that that I desire your happiness less ardently than anyone else, as you well know.

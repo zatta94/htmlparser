@@ -4,6 +4,8 @@ Date|Saturday, 10 March 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b508 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000684_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000684_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let584/letter.html
 Letter|My dear Theo,
 Thanks for your letter and the 100-franc note enclosed with it. I very much hope that Tersteeg will come to Paris soon, as you’re inclined to believe. That would be very desirable in the circumstances you describe, in which they are all at bay and hard up. I find what you write about the Lançon sale and the painter’s mistress very interesting. He’s done things of really great character, his drawing has often made me think of Mauve’s. I’m sorry not to have seen the exhibition of his studies, just as I’m really sorry not to have seen the Willette exhibition either.

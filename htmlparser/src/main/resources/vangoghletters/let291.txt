@@ -4,6 +4,10 @@ Date|between Monday, 4 and Saturday, 9 December 1882
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b273 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000337_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000337_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000338_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000338_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let291/letter.html
 Letter|My dear Theo,
 You’ve received my letter in which I wrote about how, while I was working, an idea came to me for making figures from the people for the people. How it seemed to me that it would be a good thing if several individuals joined together for this purpose, not for the bookshops but out of charity and duty. Since I wrote that to you, I’ve naturally thought not so much ‘Who will do this or that?’ as ‘What shall I do for it?’ on the grounds that I’m not responsible for the one, but I am for the latter.

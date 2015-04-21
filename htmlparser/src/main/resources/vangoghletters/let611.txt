@@ -4,6 +4,12 @@ Date|on or about Sunday, 20 May 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b529 a-c V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000710_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000710_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000711_02_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000711_01_nf.png
+Link image 5|http://vangoghletters.org/vg/facsimiles/VGM001000712_01_nf.png
+Link image 6|http://vangoghletters.org/vg/facsimiles/VGM001000712_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let611/letter.html
 Letter|My dear Theo,
 What you write about your visit to Gruby has upset me, but at the same time it reassures me that you went there.

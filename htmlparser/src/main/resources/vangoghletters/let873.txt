@@ -4,6 +4,8 @@ Date|Tuesday, 20 May 1890
 To|Theo van Gogh and Jo van Gogh-Bonger
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b684 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000932_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000932_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let873/letter.html
 Letter|My dear Theo and dear Jo
 After making Jo’s acquaintance it will be difficult for me from now on to write to Theo alone, but Jo will permit me, I hope, to write in French, because after two years in the south I really think, in doing so, that I tell you better what I have to say. Auvers is really beautiful – among other things many old thatched roofs, which are becoming rare.

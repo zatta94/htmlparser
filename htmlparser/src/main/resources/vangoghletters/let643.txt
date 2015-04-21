@@ -4,6 +4,8 @@ Date|between Tuesday, 17 and Friday, 20 July 1888
 To|Emile Bernard
 From|Vincent van Gogh
 Museum|Paris, Institut N
+Link image 1|http://vangoghletters.org/vg/facsimiles/643_1rf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/643_1vf.png
 Url letter|http://vangoghletters.org/vg/letters/let643/letter.html
 Letter|My dear old Bernard,
 Today I’ve just sent you another 9 croquis after painted studies. In this way you’ll see some of the subjects from this nature that inspires père Cézanne. Because La Crau near Aix is roughly the same thing as the surroundings of Tarascon and La Crau here. The Camargue is even simpler, because often there’s nothing left — nothing but poor soil with tamarisk bushes and the coarse kinds of grass that are to these scanty pastures what halfa grass is to the desert.

@@ -4,6 +4,10 @@ Date|Sunday, 4 October 1885
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b465 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000622_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000622_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000623_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000623_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let533/letter.html
 Letter|My dear Theo,
 I had wanted to inform you earlier of the safe receipt of your letter and the 150 francs enclosed. I’ve also received the September Lhermitte — it’s splendid.

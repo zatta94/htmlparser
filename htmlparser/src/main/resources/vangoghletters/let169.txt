@@ -4,6 +4,8 @@ Date|between about Friday, 15 and on or about Wednesday, 20 July 1881
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b167 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000178_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000178_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let169/letter.html
 Letter|My dear Theo,
 In your last letter you wrote that there’s a good chance you’ll be coming to Holland fairly soon. I’m glad of it, because I’m eagerly longing to see you. Now that I know you’re coming, I find it even more unnecessary to send you a thing or two, which I would readily have done if you weren’t coming, so that you would see that, even if my drawings are far from being what they should be, they’re nevertheless not getting worse, in my opinion. Anyway, you’ll see what there is when you come. In my last letter I mentioned a catalogue from the Salon, I did this so that you’d remember it in the event that you can get hold of one.

@@ -4,6 +4,9 @@ Date|Friday, 23 February 1883
 To|Michiel de Zwart
 From|Vincent van Gogh
 Museum|Fondation Custodia Paris, inv. no. i 1970-A-172, 173
+Link image 1|http://vangoghletters.org/vg/facsimiles/320_1rf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/320_1vf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/320_2rf.png
 Url letter|http://vangoghletters.org/vg/letters/let320/letter.html
 Letter|Schenkweg, Friday morning
 Dear Mr de Zwart,

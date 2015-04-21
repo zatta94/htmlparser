@@ -4,6 +4,8 @@ Date|between about Sunday, 6 and Friday, 18 January 1884
 To|Antoine Furnee
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b382 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000499_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000499_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let421/letter.html
 Letter|Nuenen, Jan. 84
 My dear friend Furnée,

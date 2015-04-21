@@ -4,6 +4,8 @@ Date|between Monday, 23 and on or about Wednesday, 25 October 1876
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b93 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000097_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000097_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let095/letter.html
 Letter|My dear Theo,
 I was so grateful for your short letter and for what Ma wrote, so we’ll wait until Christmas, and then may God let us see one another again in peace.

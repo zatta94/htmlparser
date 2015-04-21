@@ -4,6 +4,10 @@ Date|Tuesday, 8 or Wednesday, 9 November 1881
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b175 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000188_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000188_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000189_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000189_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let181/letter.html
 Letter|Old boy,
 How you took my two previous letters isn’t yet apparent to me from your letter of today to Pa and Ma. Precisely because you neither enclosed a letter for me nor mentioned receiving my letters, I take it that I’ll soon be getting a letter from you. And in the circumstances I’d much rather that you write to me after reading both of my letters, or, this one included, all three of them, which supplement one another and don’t stand alone, than that you’d have immediately answered only the first one alone.

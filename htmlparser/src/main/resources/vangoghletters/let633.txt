@@ -4,6 +4,10 @@ Date|Wednesday, 27 June 1888
 To|Emile Bernard
 From|Vincent van Gogh
 Museum|New York, Thaw Collection, The Morgan Library 
+Link image 1|http://vangoghletters.org/vg/facsimiles/633_1rf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/633_1vf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/633_2rf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/633_2vf.png
 Url letter|http://vangoghletters.org/vg/letters/let633/letter.html
 Letter|My dear Bernard —
 I don’t know what I stuck into my letter of yesterday instead of the enclosed sheet on the subject of your last sonnet. The fact is that I’m so worn out by work that in the evening — although writing is restful for me — I’m like a broken-down machine, so much has the day in the full sun tired me otherwise. And that’s why I stuck another sheet into your letter instead of this one.

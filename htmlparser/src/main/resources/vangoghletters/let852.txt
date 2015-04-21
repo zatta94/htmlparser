@@ -4,6 +4,8 @@ Date|Sunday, 9 February 1890
 To|Vincent van Gogh
 From|Theo van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b755 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001001023_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001001023_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let852/letter.html
 Letter|Paris 9 Feb. 1890
 My dear Vincent

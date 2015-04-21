@@ -4,6 +4,8 @@ Date|on or about Wednesday, 21 November 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b604 V/1968
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000824_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000824_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let722/letter.html
 Letter|My dear Theo,
 Thanks for your kind letter and for the 100-franc note it contained. Am very happy that Gauguin’s success as regards selling continues. If in a year’s time he could have made enough to carry out his plan of going and setting himself up in Martinique, I’d think that his fortune would be made. Only, to my mind he shouldn’t risk going back there before he has 5 thousand put aside, according to him he would need 2,000. But then to my mind he wouldn’t leave alone but with one other or several others, and would found a lasting studio there.

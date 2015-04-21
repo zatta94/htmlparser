@@ -4,6 +4,8 @@ Date|on or about Tuesday, 15 January 1884
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b393 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000516_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000516_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let422/letter.html
 Letter|My dear Theo,
 Yesterday evening I received your letter and the 100 francs enclosed. I can tell you that I’m now at a point where I can cover my deficit of last year, having had fewer expenses because of my stay here.

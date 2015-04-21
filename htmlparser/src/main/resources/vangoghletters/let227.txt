@@ -4,6 +4,10 @@ Date|Sunday, 14 or Monday, 15 May 1882
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b220 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000258_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000258_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000259_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000259_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let227/letter.html
 Letter|My dear Theo,
 Having received your letter of 13 May, which must have crossed one from me to you, I think I should explain some things right away.

@@ -4,6 +4,10 @@ Date|Thursday, 4 or Friday, 5 October 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b589 V/1962 (sheet 1) and b588 d V/1962 (sheet 2)
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000801_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000801_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000800_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000800_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let697/letter.html
 Letter|My dear Theo,
 Thanks very much for your letter. How happy I am for Gauguin; I won’t search for expressions to tell you so — let’s be of bold good heart!

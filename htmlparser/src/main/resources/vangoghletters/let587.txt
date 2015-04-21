@@ -4,6 +4,8 @@ Date|Sunday, 18 March 1888
 To|Emile Bernard
 From|Vincent van Gogh
 Museum|New York, Thaw Collection, The Morgan Library 
+Link image 1|http://vangoghletters.org/vg/facsimiles/587_1rf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/587_1vf.png
 Url letter|http://vangoghletters.org/vg/letters/let587/letter.html
 Letter|My dear Bernard,
 Having promised to write to you, I want to begin by telling you that this part of the world seems to me as beautiful as Japan for the clearness of the atmosphere and the gay colour effects. The stretches of water make patches of a beautiful emerald and a rich blue in the landscapes, as we see it in the Japanese prints. Pale orange sunsets making the fields look blue — glorious yellow suns. However, so far I’ve hardly seen this part of the world in its usual summer splendour. The women’s costume is pretty, and especially on the boulevard on Sunday you see some very naive and well-chosen arrangements of colour. And that, too, will doubtless get even livelier in summer.

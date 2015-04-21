@@ -4,6 +4,10 @@ Date|on or about Tuesday, 19 September 1882
 To|Anthon van Rappard
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b8347 a-b V/2006
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001001592_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001001592_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001001593_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001001593_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let267/letter.html
 Letter|My dear friend Rappard,
 Your letter, very welcome, has just arrived, and I’m answering at once because I’m longing to talk to you again.

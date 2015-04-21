@@ -4,6 +4,12 @@ Date|Sunday, 3 June 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b311 a-b V/1962 (sheets 1, 2) and d320 V/1969 (sheet 3)
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000389_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000389_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000390_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000390_02_nf.png
+Link image 5|http://vangoghletters.org/vg/facsimiles/VGM001001674_01_nf.png
+Link image 6|http://vangoghletters.org/vg/facsimiles/VGM001001674_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let348/letter.html
 Letter|My dear Theo,
 Thanks for your letter and thanks for the enclosure. Today is Sunday, and this week I’ve worked furiously and am taking today off to be able to write quietly to you, at somewhat greater length than has been possible recently, because many things distracted me. And my need to write is all the greater because I see from your letter that not everything is going well for you, and I wanted to write rather more warmly than normal.

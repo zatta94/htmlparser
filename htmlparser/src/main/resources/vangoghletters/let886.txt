@@ -4,6 +4,8 @@ Date|Friday, 13 June 1890
 To|Willemien van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b723 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000978_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000978_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let886/letter.html
 Letter|My dear ,
 I’m adding a few words for you to Mother’s letter. Last Sunday I had a visit from Theo and his , I find it most agreeable to be less far away from them. Lately I’ve been working a lot and quickly; by doing so I’m trying to express the desperately swift passage of things in modern life.

@@ -4,6 +4,10 @@ Date|Monday, 20 August 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b338 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000432_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000432_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000433_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000433_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let377/letter.html
 Letter|My dear Theo,
 You’ll understand that I’m rather eager to hear from you whether you’ve read my letter. As for myself, the course that’s the cheapest by our calculations — I believe a village would be the answer — would seem to me the most sensible in the given circumstances.

@@ -4,6 +4,8 @@ Date|Friday, 31 July 1874
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b20 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000020_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000020_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let027/letter.html
 Letter|London, 31 July 1874
 My dear Theo,

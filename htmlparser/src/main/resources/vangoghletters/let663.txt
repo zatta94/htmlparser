@@ -4,6 +4,8 @@ Date|Saturday, 18 August 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b561 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000755_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000755_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let663/letter.html
 Letter|My dear Theo,
 You’ll shortly make the acquaintance of Mr Patience Escalier — a sort of man with a hoe, an old Camargue oxherd, who’s now a gardener at a farmstead in the Crau.

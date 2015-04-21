@@ -4,6 +4,8 @@ Date|Wednesday, 19 February 1890
 To|Anna van Gogh-Carbentus
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b676 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000922_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000922_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let855/letter.html
 Letter|Dear Mother,
 I’ve been meaning to answer your letter for days, but didn’t get round to writing because I was painting from morning till night, and so the time passed. I imagine that your thoughts, like mine, are with Jo and Theo. How glad I was when the news came that it had gone well; very good thing Wil stayed. I’d much rather that he’d called his boy after Pa, whom I’ve thought about so often these days, than after me, but anyway, as it’s been done now I started right away to make a painting for him, to hang in their bedroom. Large branches of white almond blossom against a blue sky.

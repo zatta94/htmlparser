@@ -4,6 +4,8 @@ Date|Wednesday, 6 October 1875
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b54 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000057_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000057_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let054/letter.html
 Letter|[Letterhead: Goupil Paris]
 Paris, 6 Oct. 1875

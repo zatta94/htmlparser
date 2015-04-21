@@ -4,6 +4,8 @@ Date|Thursday, 1 September 1887
 To|Johannes van Hombergh
 From|Vincent van Gogh
 Museum|Regionaal Historisch Centrum, Eindhoven (Administratief archief Nuenen 1300-1935), inv. no. 2890).
+Link image 1|http://vangoghletters.org/vg/facsimiles/573_1rf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/573_1vLf.png
 Url letter|http://vangoghletters.org/vg/letters/let573/letter.html
 Letter|Paris, 1 Sept. 1887.
 Dear Sir,

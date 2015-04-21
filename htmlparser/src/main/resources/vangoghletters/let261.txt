@@ -4,6 +4,10 @@ Date|Saturday, 9 September 1882
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b251 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000307_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000307_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000308_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000308_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let261/letter.html
 Letter|My dear Theo,
 Just a few words to congratulate you on 10 Sept.

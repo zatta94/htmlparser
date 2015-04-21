@@ -4,6 +4,10 @@ Date|Saturday, 21 January 1882
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b192 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000218_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000218_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000219_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000219_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let201/letter.html
 Letter|My dear Theo,
 Now that the week is over I’m writing to you again. I’ve had a model every day on a regular basis, from morning to evening, and the model is good. Mauve came to have a look, and Mr Tersteeg too, and I’m glad about that.

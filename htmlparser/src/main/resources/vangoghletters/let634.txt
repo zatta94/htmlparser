@@ -4,6 +4,8 @@ Date|on or about Thursday, 28 June 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b544 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000729_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000729_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let634/letter.html
 Letter|My dear Theo,
 Probably in order to convince myself that, as I myself am one of the most absent-minded of mortals, I have no right to criticize the people of the south for their carelessness — I once again made the mistake of addressing my letter to 54 rue de Laval instead of 54 rue Lepic. So when they returned the letter to me opened, the people at the Post Office had the pleasure of being able to edify themselves by contemplating Bernard’s brothel.

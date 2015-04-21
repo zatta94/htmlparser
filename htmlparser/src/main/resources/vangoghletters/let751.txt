@@ -4,6 +4,8 @@ Date|Friday, 22 March 1889
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b627 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000857_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000857_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let751/letter.html
 Letter|My dear Theo,
 Thanks for your letter – which I’ve just received. All the more so since in this case I prefer to be wrong than to be right: certainly we’re absolutely, absolutely in agreement as regards the reasoning you give in your letter. I also envisage the thing that way.

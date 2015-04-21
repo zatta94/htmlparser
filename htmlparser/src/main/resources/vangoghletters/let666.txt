@@ -4,6 +4,8 @@ Date|Tuesday, 21 or Wednesday, 22 August 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b568 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000765_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000765_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let666/letter.html
 Letter|My dear Theo,
 I’m writing to you in great haste, but to tell you that I’ve just received a line from Gauguin, who says that he hasn’t written because he was doing a great deal of work, but says he’s still ready to come to the south as soon as chance permits.

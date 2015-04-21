@@ -4,6 +4,10 @@ Date|between Monday, 18 and Saturday, 23 February 1884
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b390 V/1962 (sheet 1) and b1471 V/1962 (sheet 2)
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000509_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000509_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001001359_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001001359_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let430/letter.html
 Letter|My dear Theo,
 Just a word to tell you that — partly in response to your letter in which you mentioned pen drawings — I have five weavers for you which I’ve made after my painted studies and are slightly different — and I think livelier — in execution than the pen drawings of mine you’ve seen so far.

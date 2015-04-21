@@ -4,6 +4,8 @@ Date|on or about Sunday, 26 August 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b570 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000767_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000767_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let669/letter.html
 Letter|My dear Theo,
 Many thanks for your letter and for the 50-franc note it contained. Certainly, it isn’t impossible that our will come later and live with us. It’s a good sign as far as her taste goes that she likes sculpture; that really did please me.

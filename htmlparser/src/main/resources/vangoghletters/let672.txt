@@ -4,6 +4,8 @@ Date|Saturday, 1 September 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b572 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000769_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000769_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let672/letter.html
 Letter|My dear Theo,
 A line in haste to thank you very, very much indeed for the prompt dispatch of your letter. In fact, my had already come first thing this morning for his rent. Of course, I had to make my decision known today whether or not I’d keep the house on (because I rented it until Michaelmas, and you have to renew or withdraw beforehand). I told my chap that I’d take it on again for 3 months only, or preferably by the month. That way, supposing that our friend Gauguin arrived, we wouldn’t have a very long lease ahead of us should he not like it.

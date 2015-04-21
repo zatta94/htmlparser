@@ -4,6 +4,8 @@ Date|Tuesday, 21 February 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b503 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000679_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000679_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let577/letter.html
 Letter|My dear Theo,
 During the journey I thought at least as much about you as about the new country I was seeing.

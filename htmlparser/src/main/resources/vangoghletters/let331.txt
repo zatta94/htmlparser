@@ -4,6 +4,10 @@ Date|on or about Wednesday, 21 March 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b298 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000372_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000372_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000373_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000373_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let331/letter.html
 Letter|My dear Theo,
 Many sincere thanks for your letter and the enclosure. I was pleased to learn about your in more detail from it, the more so since it seemed to me that these reports may be called highly favourable. Isn’t what they call a white tumour something that sometimes occurs of its own accord in anaemia when certain malignant elements are in the blood? I don’t know for sure, but I believe that in itself the abscess in question isn’t something unusual and, given the proper treatment, not in the least dangerous. And otherwise you write various good things.

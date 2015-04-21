@@ -4,6 +4,8 @@ Date|Sunday, 12 or Monday, 13 August 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b333 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000424_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000424_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let372/letter.html
 Letter|My dear Theo,
 The news that you’re already on the way by now gave me great pleasure. Thanks for your letter and the enclosure.

@@ -4,6 +4,8 @@ Date|Friday, 25 January 1889
 To|Vincent van Gogh
 From|Christian Mourier-Petersen
 Museum|Amsterdam, Van Gogh Museum, inv. no. b1327 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001001322_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001001322_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let742/letter.html
 Letter|Holbaekgaard pr Ørsted.
 Jutland.

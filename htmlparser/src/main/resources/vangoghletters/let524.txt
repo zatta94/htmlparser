@@ -4,6 +4,8 @@ Date|Thursday, 6 August 1885
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b459 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000615_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000615_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let524/letter.html
 Letter|My dear Theo,
 What very much distresses me in our conversation is that when I say that I fear it will be tight for you this year, you reply: ‘that you observe that I’d like to see that’, ‘that you see very well that you can’t rely on me’, ‘that you know very well that I would be returning you no thanks for your pains’. This is not so, and it distresses me that this is how you see it.

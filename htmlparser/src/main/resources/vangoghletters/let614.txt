@@ -4,6 +4,8 @@ Date|Sunday, 27 May 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b531 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000714_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000714_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let614/letter.html
 Letter|My dear Theo
 I see that I didn’t add the sample of canvas to the order for Tasset. So I’m sending you it herewith. I’d hoped to have some news from you today, thinking you would surely have received the crate. I remember writing on the declaration that the crate was to be delivered to your home address.

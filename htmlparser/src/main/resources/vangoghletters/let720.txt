@@ -4,6 +4,8 @@ Date|on or about Monday, 12 November 1888
 To|Willemien van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b709 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000963_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000963_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let720/letter.html
 Letter|My dear ,
 One thing that has given me great pleasure is that I’ve finally received a reply from Mrs Mauve.

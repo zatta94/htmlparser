@@ -4,6 +4,8 @@ Date|Friday, 21 September 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b584 a V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000788_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000788_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let685/letter.html
 Letter|My dear Theo
 Many thanks for your letter and for the 100-franc note it contained. Milliet came this morning too, bringing me the parcel of Japanese prints and others. Among them I love the café-concert on two sheets, with a line of purple female musicians against the yellow-lit wall; I didn’t know that sheet, what’s more there are several others that were unknown to me; there’s one — a head of a woman — that must have a good pedigree.

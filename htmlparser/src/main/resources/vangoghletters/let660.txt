@@ -4,6 +4,10 @@ Date|on or about Monday, 13 August 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b565 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000761_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000761_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000762_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000762_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let660/letter.html
 Letter|My dear Theo,
 Yesterday I spent the evening with that second , and he plans to leave here on Friday, then he’ll stay one night in Clermont, and from Clermont he’ll send you a telegram to tell you by which train he’ll be arriving. Sunday morning, in all probability.

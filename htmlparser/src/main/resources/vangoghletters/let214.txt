@@ -4,6 +4,8 @@ Date|on or about Sunday, 2 April 1882
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b205 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000235_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000235_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let214/letter.html
 Letter|My dear Theo,
 I’ve set about writing to you several times, but I couldn’t bring myself to finish the letter, because I wanted to write to you about various reasons why I thought it such a natural thing for you to become a painter. But I didn’t like what I’d written, and I couldn’t find any words that were strong enough.

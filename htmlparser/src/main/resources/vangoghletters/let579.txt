@@ -4,6 +4,8 @@ Date|on or about Friday, 24 February 1888
 To|Willemien van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b702 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000954_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000954_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let579/letter.html
 Letter|My dear ,
 For my part, I could just as well say that I’ll stop writing to you immediately at the moment you reply to me; the simplest thing is not to write if it’s too much trouble and one doesn’t always feel inclined.

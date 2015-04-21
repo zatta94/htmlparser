@@ -4,6 +4,8 @@ Date|Sunday, 19 December 1875
 To|Vincent van Gogh
 From|Willemien van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b2381 V/1982
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001003512_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001003512_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let063/letter.html
 Letter|Ivy-Cottage
 Welwyn, 19 Dec. 1875.

@@ -4,6 +4,8 @@ Date|Sunday, 24 March 1889
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b628 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000858_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000858_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let752/letter.html
 Letter|My dear Theo,
 I’m writing to tell you that I’ve seen Signac, which did me a lot of good. He was very nice and very straight and very simple when the difficulty arose of whether or not to force open the door closed by the police, who had demolished the lock. They began by not wanting to let us do it, and yet in the end we got in. As a keepsake I gave him a still life which had exasperated the good gendarmes of the town of Arles because it depicted two smoked herrings, which are called gendarmes, as you know. You know that I did this same still life two or three times before in Paris, and once exchanged it for a carpet back then. That’s enough to say what people meddle in and what idiots they are.

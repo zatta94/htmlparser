@@ -4,6 +4,8 @@ Date|Tuesday, 16 June 1874
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b17 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000017_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000017_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let023/letter.html
 Letter|London, 16 June 1874
 My dear Theo,

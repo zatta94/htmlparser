@@ -4,6 +4,8 @@ Date|Thursday, 10 May 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b525 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000706_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000706_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let607/letter.html
 Letter|My dear Theo,
 For the time being I have to pay my bill, but at the same time it’s stated on the receipt that this payment is only to recover possession of my things, and that the inflated bill will be submitted to the justice of the peace.

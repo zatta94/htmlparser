@@ -4,6 +4,8 @@ Date|between Wednesday, 12 and Saturday, 15 October 1881
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b172 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000184_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000184_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let175/letter.html
 Letter|My dear Theo,
 It gave me a great deal of pleasure to receive your letter just now, and because I was intending to write to you anyway one of these days, I’m doing it now straightaway, in response to your letter.

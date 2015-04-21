@@ -4,6 +4,8 @@ Date|on or about Friday, 22 December 1882
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b276 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000343_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000343_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let295/letter.html
 Letter|My dear Theo,
 I received your registered letter in good order, and thank you warmly for sending it. From your letter I saw that you’re busy with the inventory. Good luck with it, no doubt it’s a fearsome grind.

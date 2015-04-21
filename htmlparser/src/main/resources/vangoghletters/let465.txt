@@ -4,6 +4,10 @@ Date|Thursday, 9 October 1884
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b415 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000553_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000553_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000554_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000554_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let465/letter.html
 Letter|My dear Theo,
 Here are the two photographs of the weavers. Next week I hope to send you two subjects from the decorations for Hermans.

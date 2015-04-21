@@ -4,6 +4,8 @@ Date|Friday, 26 August 1881
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b169 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000180_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000180_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let171/letter.html
 Letter|My dear Theo,
 I’ve only just got back from a short journey to The Hague, I’m at home alone this evening, because Pa and Ma are still in Princenhage. So now is a good opportunity to tell you about this and that.

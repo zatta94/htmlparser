@@ -4,6 +4,8 @@ Date|on or about Saturday, 8 December 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b371 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000483_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000483_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let411/letter.html
 Letter|My dear Theo,
 It’s still early; I wanted to add a word or two to my letter of yesterday in order to try to make a few things clearer to you. But I ask you to regard what I tell you in this letter as something I would keep silent about if I didn’t think I could rely on your discretion and intelligence.

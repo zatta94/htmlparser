@@ -4,6 +4,8 @@ Date|on or about Sunday, 20 January 1884
 To|Anthon van Rappard
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b8371 V/2006
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001001626_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001001626_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let426/letter.html
 Letter|My dear friend Rappard,
 Just a word to tell you something about what has been preoccupying all of us here these last few days. My had an accident getting out of the train, and a serious one at that — since she’s broken her right thighbone.

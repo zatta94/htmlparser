@@ -4,6 +4,8 @@ Date|on or about Friday, 22 January 1886
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b486 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000658_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000658_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let554/letter.html
 Letter|My dear Theo,
 I’ve been painting there for a few days now and it suits me very well. Above all because there are all sorts of painters there, and I see them working in very diverse ways — something I’ve never had — often seeing other people at work.

@@ -4,6 +4,8 @@ Date|between about Friday, 23 and Monday, 26 February 1883
 To|Anthon van Rappard
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b8362 V/2006
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001001612_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001001612_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let321/letter.html
 Letter|My dear friend Rappard,
 Thank you for your letter, which I had already been looking forward to. I’m not surprised, by the way, that you thought the sheets sent recently beautiful. I for one can hardly imagine anything more beautiful in woodcut than Harbour of refuge or Low lodging house.

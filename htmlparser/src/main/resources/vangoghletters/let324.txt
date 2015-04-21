@@ -4,6 +4,8 @@ Date|on or about Sunday, 4 March 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b295 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000368_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000368_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let324/letter.html
 Letter|My dear Theo,
 Darkness has just fallen and wanted to send you today’s drawing for the fun of it because I wrote to you about it. This morning I began a watercolour of a boy and a girl at a similar soup distribution with another female figure in the corner.

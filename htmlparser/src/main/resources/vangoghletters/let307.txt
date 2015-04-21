@@ -4,6 +4,12 @@ Date|on or about Sunday, 4 February 1883
 To|Anthon van Rappard
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b8354 a-c V/2006
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001001600_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001001600_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001001601_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001001601_02_nf.png
+Link image 5|http://vangoghletters.org/vg/facsimiles/VGM001001602_01_nf.png
+Link image 6|http://vangoghletters.org/vg/facsimiles/VGM001001602_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let307/letter.html
 Letter|My dear friend Rappard.
 Sincerest thanks for your letter and for the information about the woodcuts you’ve found. I’d very much like to see some of them, particularly Degroux and Lançon.

@@ -4,6 +4,8 @@ Date|Tuesday, 30 December 1884
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b429 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000574_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000574_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let477/letter.html
 Letter|My dear Theo,
 Thanks for what you sent. I appreciate your doing it, because what really matters is to do a lot of work in the winter months, when models are easier to get.

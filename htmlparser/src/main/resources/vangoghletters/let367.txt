@@ -4,6 +4,8 @@ Date|on or about Wednesday, 25 July 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b328 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000416_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000416_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let367/letter.html
 Letter|My dear Theo,
 A man comes to me this morning who had repaired the lamp for me 3 weeks ago, and from whom at the same time I bought some earthenware that he himself pressed me to take.

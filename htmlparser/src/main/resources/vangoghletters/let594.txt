@@ -4,6 +4,10 @@ Date|Monday, 9 April 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b514 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000690_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000690_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000691_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000691_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let594/letter.html
 Letter|My dear Theo,
 Thanks for your letter and for the 100-franc note it contained. I’ve sent you croquis of the paintings intended for Holland. Goes without saying that the painted studies are more brilliant in colour. Am hard at work again, still orchards in blossom.

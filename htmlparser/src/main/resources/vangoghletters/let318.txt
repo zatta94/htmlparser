@@ -4,6 +4,10 @@ Date|Tuesday, 20 or Wednesday, 21 February 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b290 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000361_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000361_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000362_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000362_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let318/letter.html
 Letter|My dear Theo,
 I wanted to write to you on Sunday but I waited because I was busy with something that hadn’t yet been decided. A week or so ago I was reading Fritz Reuter’s ‘Uit mijn gevangenistijd’, in which he describes very amusingly how Fritz R. and others serving fortress sentences made life as agreeable as possible and secured various privileges from their ‘field officer’. That book gave me the idea of tackling my with a view to certain improvements that would make my work easier.

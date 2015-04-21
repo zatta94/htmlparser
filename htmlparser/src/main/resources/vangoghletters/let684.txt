@@ -4,6 +4,8 @@ Date|between Wednesday, 19 and Tuesday, 25 September 1888
 To|Emile Bernard
 From|Vincent van Gogh
 Museum|New York, Thaw Collection, The Morgan Library 
+Link image 1|http://vangoghletters.org/vg/facsimiles/684_1rf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/684_1vf.png
 Url letter|http://vangoghletters.org/vg/letters/let684/letter.html
 Letter|My dear old Bernard.
 Thanks for your letter, but what surprises me a little is to hear you say, ‘Oh, no way of doing Gauguin’s portrait!’ Why no way? That’s all rubbish. But I’m not pressing the point, and so we categorically won’t mention that exchange any more. So even Gauguin, for his own part, hasn’t even thought of doing yours. Here you have portraitists, living for so long side by side and they don’t agree on posing for each other and they’ll separate without having portrayed each other. Well! I’m not pressing the point. And I repeat, there’s no longer a question of an exchange.

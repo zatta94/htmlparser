@@ -4,6 +4,10 @@ Date|between about Saturday, 2 and Friday, 8 September 1876
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b99 V/1962 (sheet 1), and inv. no. b97 a V/1962 (sheet 2)
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000105_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000105_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000101_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000101_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let090/letter.html
 Letter|My dear Theo,
 Thanks for your letter of this morning. There are hours and days and times in life when God hides His face, as it were, but for those who love God even those times, those sorrowful times, are not entirely without God, but as though full of prophecies for the future and full of voices from the past: ‘hitherto hath the Lord brought you’, ‘foster again the faith of old’.

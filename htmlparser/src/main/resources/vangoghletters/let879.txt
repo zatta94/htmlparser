@@ -4,6 +4,8 @@ Date|Thursday, 5 June 1890
 To|Willemien van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b722 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000977_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000977_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let879/letter.html
 Letter|My dear ,
 I ought to have replied to your two letters long since, which I received while still in St-Rémy, but the journey, work and a host of new emotions up to today made me put it off from one day to the next. It interested me very much that you’ve cared for patients at the Walloon hospital, that’s certainly how one learns heaps of things, the best and most necessary that one can learn, and I myself regret that I know nothing, in any event not enough, about all that.

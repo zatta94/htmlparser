@@ -4,6 +4,11 @@ Date|on or about Monday, 5 March 1883
 To|Anthon van Rappard
 From|Vincent van Gogh
 Museum|Private collection / Mus
+Link image 1|http://vangoghletters.org/vg/facsimiles/325_1rf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/325_1vf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/325_2rf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/325_2vf.png
+Link image 5|http://vangoghletters.org/vg/facsimiles/325_3rf.png
 Url letter|http://vangoghletters.org/vg/letters/let325/letter.html
 Letter|My dear friend Rappard
 Thanks for your letter of 27 February, which I’m answering today. First of all your questions about lithography. You’ll have seen that it’s the same paper for ink or crayon. I get this paper from Jos. Smulders &amp; Co., paper dealers, Spuistraat of this city; their warehouse is in Laan, and there they have a large stock of stones in various sizes. They called it ‘Korn paper’, and had ordered it for one of the ministries, where various maps were drawn on it for lithographing.

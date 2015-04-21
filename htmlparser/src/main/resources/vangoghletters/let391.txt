@@ -4,6 +4,10 @@ Date|Friday, 28 September 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b352 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000451_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000451_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000452_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000452_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let391/letter.html
 Letter|My dear Theo,
 This morning the weather was better again and I went out to paint, regardless. Only it wasn’t possible, I was missing 4 or 5 colours, and so I came back again very wretched. I’m sorry I ventured so far without supplies — I know from prior experience how it can be if one undertakes an excursion like this without knowing that one will also get a response to reasonable, well-founded requests, and that they’ll be listened to.

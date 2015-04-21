@@ -4,6 +4,8 @@ Date|Wednesday, 3 April 1878
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b141 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000149_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000149_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let143/letter.html
 Letter|Amsterdam, 3 April 1878
 I’ve been thinking about what we discussed, and I couldn’t help thinking of the words ‘we are today what we were yesterday’. This isn’t to say that one must stand still and ought not try to develop oneself, on the contrary, there are compelling reasons to do and think so.

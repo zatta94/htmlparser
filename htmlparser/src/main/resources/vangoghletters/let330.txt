@@ -4,6 +4,14 @@ Date|Sunday, 18 March 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b299 a-b V/1962, d317 V/1970 and d324 V/1970
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000374_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000374_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000375_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000375_02_nf.png
+Link image 5|http://vangoghletters.org/vg/facsimiles/VGM001001671_01_nf.png
+Link image 6|http://vangoghletters.org/vg/facsimiles/VGM001001671_02_nf.png
+Link image 7|http://vangoghletters.org/vg/facsimiles/VGM001001677_01_nf.png
+Link image 8|http://vangoghletters.org/vg/facsimiles/VGM001001677_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let330/letter.html
 Letter|My dear Theo,
 You’ve so often shown me a glimpse of Paris through your descriptions, this time I’m letting you have a look out of my window at the snow-covered yard.

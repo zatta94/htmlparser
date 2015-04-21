@@ -4,6 +4,8 @@ Date|on or about Tuesday, 5 June 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b312 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000391_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000391_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let350/letter.html
 Letter|My dear Theo,
 Wanted to tell you that Van der Weele saw my drawings this evening, his opinion was favourable and this gives me great pleasure. Do you know what I’ve done? Given the desirability of making some money if possible, I’ve sent small sketches of the two compositions to C.M. My hope is that this will perhaps result in his being ready to help carry out the whole of the plan I have, namely to do a series of drawings of work in the dunes.

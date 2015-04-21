@@ -4,6 +4,8 @@ Date|Tuesday, 21 August 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b339 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000434_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000434_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let378/letter.html
 Letter|Dear brother,
 Your letter arrived today and gave me leeway in many respects. Accept my thanks for the step taken with C.M. — I’ll thank C.M., send him some studies, otherwise, especially about the , nothing. But just one more thing.

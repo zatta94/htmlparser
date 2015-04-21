@@ -4,6 +4,12 @@ Date|Wednesday, 2 August 1876
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b85 V/1962 (sheet 1), and inv. nos. b1464 a-b V/1962 (sheets 2, 3)
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000088_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000088_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001001351_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001001351_02_nf.png
+Link image 5|http://vangoghletters.org/vg/facsimiles/VGM001001352_02_nf.png
+Link image 6|http://vangoghletters.org/vg/facsimiles/VGM001001352_01_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let087/letter.html
 Letter|Isleworth, 2 August 1876
 My dear Theo,

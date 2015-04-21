@@ -4,6 +4,8 @@ Date|Thursday, 20 November 1873
 To|Caroline van Stockum-Haanebeek
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b33 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000035_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000035_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let016/letter.html
 Letter|London, 20 Nov. 1873.
 Dearest Caroline,

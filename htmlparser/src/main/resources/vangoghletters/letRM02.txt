@@ -4,6 +4,8 @@ Date|probably between 1874 and December 1876
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b1456 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001001341_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001001341_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/RM02/letter.html
 Letter|A winter evening
 At sunset all the forest seems as though

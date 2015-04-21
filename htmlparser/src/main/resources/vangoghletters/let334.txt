@@ -4,6 +4,8 @@ Date|on or about Monday, 2 April 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b301 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000378_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000378_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let334/letter.html
 Letter|My dear Theo,
 I was very glad to get your letter and I thank you sincerely for the enclosure. I’m only sorry that sending it to me probably got you into greater difficulties than you say in your letter. I do hope that you have since been repaid the sum in question.

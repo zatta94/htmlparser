@@ -4,6 +4,12 @@ Date|on or about Thursday, 7 June 1888
 To|Emile Bernard
 From|Vincent van Gogh
 Museum|New York, Thaw Collection, The Morgan Library 
+Link image 1|http://vangoghletters.org/vg/facsimiles/622_1rf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/622_1vf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/622_2rf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/622_2vf.png
+Link image 5|http://vangoghletters.org/vg/facsimiles/622_3rf.png
+Link image 6|http://vangoghletters.org/vg/facsimiles/622_3vf.png
 Url letter|http://vangoghletters.org/vg/letters/let622/letter.html
 Letter|My dear old Bernard,
 More and more it seems to me that the paintings that ought to be made, the paintings that are necessary, indispensable for painting today to be fully itself and to rise to a level equivalent to the serene peaks achieved by the Greek sculptors, the German musicians, the French writers of novels, exceed the power of an isolated individual, and will therefore probably be created by groups of men combining to carry out a shared idea.

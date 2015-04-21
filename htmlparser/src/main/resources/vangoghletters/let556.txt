@@ -4,6 +4,10 @@ Date|on or about Friday, 29 January 1886
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b494 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000669_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000669_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000670_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000670_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let556/letter.html
 Letter|My dear Theo,
 Of course all my attention is concentrated on gaining what I want to gain.

@@ -4,6 +4,8 @@ Date|Thursday, 19 September 1889
 To|Willemien van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b714 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000969_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000969_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let804/letter.html
 Letter|My dear ,
 More than once already I’ve tried – in the interval since my last letter – to write to you and to Mother. So I thank you for having again written me such a kind letter. How right I think both of you were, Mother and you, to have left Breda for a while after Cor’s departure. Certainly grief mustn’t build up in our hearts like the water of a turbid pool. From time to time I feel like that inside, as if I have a very turbid soul, but that’s an illness, and for people who are well and active, certainly they must do as you have done.

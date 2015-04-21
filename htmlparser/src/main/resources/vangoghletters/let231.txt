@@ -4,6 +4,8 @@ Date|Saturday, 27 May 1882
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b224 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000264_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000264_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let231/letter.html
 Letter|My dear Theo,
 Today, Saturday, I had a visit from Rappard, and I’m glad that now he has been here. He also asked after you with great interest.

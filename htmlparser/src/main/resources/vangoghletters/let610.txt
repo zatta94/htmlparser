@@ -4,6 +4,8 @@ Date|on or about Monday, 14 May 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b528 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000709_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000709_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let610/letter.html
 Letter|My dear Theo,
 Thanks for your letter containing 100 francs. I’m very glad to have left those people’s place, and my health is much better since. It was their bad food more than anything that made it drag on, and their wine, which was real poison. I now eat very well for one franc or 1.50 francs.

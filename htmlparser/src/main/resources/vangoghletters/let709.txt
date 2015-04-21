@@ -4,6 +4,8 @@ Date|Sunday, 21 October 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b601 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000820_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000820_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let709/letter.html
 Letter|My dear Theo,
 Thank you for your letter and for the 50-franc note it contained. Thank you for having written me more about those Dutch artists’ painting.

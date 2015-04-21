@@ -4,6 +4,8 @@ Date|Saturday, 16 March 1889
 To|Vincent van Gogh
 From|Theo van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b731 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000989_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000989_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let749/letter.html
 Letter|Paris, 16 March 1889
 My dear brother,

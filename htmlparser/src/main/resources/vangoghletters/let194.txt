@@ -4,6 +4,8 @@ Date|Thursday, 29 December 1881
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b187 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000212_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000212_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let194/letter.html
 Letter|The Hague, Thursday evening
 My dear Theo,

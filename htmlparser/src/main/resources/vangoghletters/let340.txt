@@ -4,6 +4,8 @@ Date|on or about Monday, 7 May 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b306 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000383_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000383_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let340/letter.html
 Letter|My dear Theo,
 You’ll be busy with the Salon — I deliberately kept a stamp so that I could write to you again if need be.

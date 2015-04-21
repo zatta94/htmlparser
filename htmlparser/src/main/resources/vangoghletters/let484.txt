@@ -4,6 +4,8 @@ Date|on or about Monday, 2 March 1885
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b433 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000578_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000578_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let484/letter.html
 Letter|My dear Theo,
 Thanks for the prompt dispatch of the money for this month, arriving promptly like that actually helps me more. Thanks, too, for the splendid woodcut after Lhermitte — one of the few things by him that I know, for I saw only these — a troop of girls in the wheat — an old woman in church — and a miner or some such in a little bar, and Harvest by him, and otherwise never anything, and nothing ever as much reflecting his actual manner as these woodcutters.

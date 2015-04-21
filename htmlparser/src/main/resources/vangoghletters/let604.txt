@@ -4,6 +4,10 @@ Date|Friday, 4 May 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b522 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000702_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000702_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000703_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000703_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let604/letter.html
 Letter|My dear Theo,
 I’m writing you another line to tell you that on reflection I think the best thing will be quite simply to take a mat and a mattress and make a bed in the studio on the floor. Because for the whole summer it’s going to be so hot it’ll be more than enough like that. Then in the winter we could see if we’ll need to take a bed, yes or no.

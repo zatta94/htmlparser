@@ -4,6 +4,8 @@ Date|between Thursday, 27 September and Monday, 1 October 1888
 To|Emile Bernard
 From|Vincent van Gogh
 Museum|New York, Thaw Collection, The Morgan Library 
+Link image 1|http://vangoghletters.org/vg/facsimiles/690_1rf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/690_1vf.png
 Url letter|http://vangoghletters.org/vg/letters/let690/letter.html
 Letter|My dear old Bernard,
 I’m writing a line to thank you kindly for your drawings; I find them done in a bit too much of a rush, and I like the two drawings of whores the most; but there’s an idea in all of them. I’ve been overloaded with work these past few days, because the weather’s really beautiful and you have to make the most of the fine days, which are short.

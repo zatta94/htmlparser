@@ -4,6 +4,10 @@ Date|Sunday, 20 July 1873
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b10 V/1962 (sheet 1) and b1457 V/1962 (sheet 2)
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000010_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000010_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001001342_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001001342_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let011/letter.html
 Letter|London, 20 July 1873
 My dear Theo,

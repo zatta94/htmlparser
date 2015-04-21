@@ -4,6 +4,10 @@ Date|Thursday, 30 April 1885
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b442 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000589_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000589_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000590_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000590_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let497/letter.html
 Letter|My dear Theo,
 Sincere wishes for your good health and serenity on your birthday. I would like to have sent you the painting of the potato eaters for this day, but although it’s coming along well, it’s not quite finished yet.

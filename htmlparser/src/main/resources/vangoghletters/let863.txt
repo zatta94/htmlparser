@@ -4,6 +4,8 @@ Date|Tuesday, 29 April 1890
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b678 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000924_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000924_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let863/letter.html
 Letter|My dear Theo,
 I haven’t been able to write to you until now, but as I’m feeling a little better these days I didn’t want to delay wishing a happy year to you, your and your , since it’s your birthday. At the same time, please accept the various paintings I’m sending you with my thanks for all the kindnesses you’ve shown me, for without you I would be most unhappy.

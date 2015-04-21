@@ -4,6 +4,12 @@ Date|Wednesday, 28 February 1877
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b104 a V/1962 (sheet 1) and inv. nos. b1463 a-b V/1962 (sheets 2, 3)
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000111_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000111_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001001349_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001001349_02_nf.png
+Link image 5|http://vangoghletters.org/vg/facsimiles/VGM001001350_01_nf.png
+Link image 6|http://vangoghletters.org/vg/facsimiles/VGM001001350_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let104/letter.html
 Letter|Dordrecht, 28 February 1877
 My dear Theo,

@@ -4,6 +4,10 @@ Date|Wednesday, 9 January 1889
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b617 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000838_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000838_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000839_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000839_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let735/letter.html
 Letter|My dear Theo,
 Even before receiving (this very moment) your kind letter, I received a letter from your ée this morning announcing the engagement. So I’ve already replied to her with my sincere congratulations, as I repeat them here to you.

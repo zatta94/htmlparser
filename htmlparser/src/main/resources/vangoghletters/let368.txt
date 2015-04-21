@@ -4,6 +4,8 @@ Date|on or about Friday, 27 July 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b329 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000417_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000417_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let368/letter.html
 Letter|My dear Theo,
 To my surprise another letter from you arrived yesterday with a banknote enclosed. I don’t need to tell you that I was glad of it, and truly thank you for it. They refused to change the note, though, on the grounds that it was too torn. But I got 10 guilders on it and it has been sent to Paris. If the bank refuses it, I’ll have to return the 10 guilders, for which I had to sign a receipt, but if the bank changes it I’ll get the rest later.

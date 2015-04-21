@@ -4,6 +4,8 @@ Date|Monday, 17 April 1876
 To|Theodorus van Gogh and Anna van Gogh-Carbentus
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b73 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000076_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000076_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let076/letter.html
 Letter|[Letterhead: Goupil The Hague (crossed out)]
 Ramsgate, 17 April 1876.

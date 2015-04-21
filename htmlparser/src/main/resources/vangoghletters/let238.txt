@@ -4,6 +4,8 @@ Date|Friday, 9 June 1882
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b229 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000270_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000270_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let238/letter.html
 Letter|My dear Theo,
 Few things have given me so much pleasure recently as hearing reports from home just now that greatly reassure me as to their mood.

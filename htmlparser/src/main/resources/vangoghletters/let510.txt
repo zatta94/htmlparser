@@ -4,6 +4,8 @@ Date|Sunday, 28 June 1885
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b452 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000604_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000604_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let510/letter.html
 Letter|My dear Theo,
 Since it’s Sunday today, I wanted to write to you again. Because I’ve neglected to say anything about the painting by Uhde, Suffer the little children to come unto me. Yes — I think it’s good — but new — it isn’t. I like interiors in bright tones with peasant children — without a mystical figure of Christ, like Israëls, like Artz, better than this, where one gets a mystical Christ into the bargain. The children are very fine characterizations — but are they better than those by Lobrichon, Frère or even Knaus, Vautier, as they used to be in their heyday?

@@ -4,6 +4,8 @@ Date|Thursday, 8 March 1877
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b110 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000119_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000119_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let106/letter.html
 Letter|God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape.
 Let none of these things move thee.

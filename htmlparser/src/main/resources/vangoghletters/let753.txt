@@ -4,6 +4,8 @@ Date|Friday, 29 March 1889
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b629 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000859_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000859_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let753/letter.html
 Letter|My dear Theo,
 A few more words before you leave. Things are going well these days. The day before yesterday and yesterday I went into town for an hour to find things to work with. When I went home I was able to learn that the real neighbours, those whom I know, weren’t among those who got up that petition. However it may be, anyway I saw that I still had friends among them.

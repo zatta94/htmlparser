@@ -4,6 +4,12 @@ Date|Wednesday, 2 July 1873
 To|Willem van Stockum and Caroline van Stockum-Haanebeek
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b27a, b28, b27b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000028_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000028_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000030_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000030_02_nf.png
+Link image 5|http://vangoghletters.org/vg/facsimiles/VGM001000029_01_nf.png
+Link image 6|http://vangoghletters.org/vg/facsimiles/VGM001000029_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let010/letter.html
 Letter|London, 2 July 1873
 My dear friends,

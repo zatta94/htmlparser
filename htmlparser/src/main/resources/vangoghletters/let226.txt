@@ -4,6 +4,10 @@ Date|Friday, 12 or Saturday, 13 May 1882
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b219 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000256_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000256_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000257_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000257_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let226/letter.html
 Letter|My dear Theo,
 Today I sent off a few drawings and sketches for you; what I want to show you above all else is that what I told you about doesn’t mean that I’m easing off on my work, on the contrary. I’m literally engrossed in my work and take pleasure in it, and am in good spirits.

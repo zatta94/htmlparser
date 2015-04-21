@@ -4,6 +4,12 @@ Date|on or about Saturday, 15 December 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b372 a-b V/1962 (sheets 1, 2) and b375 V/1962 (sheet 3)
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000484_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000484_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000485_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000485_02_nf.png
+Link image 5|http://vangoghletters.org/vg/facsimiles/VGM001000488_01_nf.png
+Link image 6|http://vangoghletters.org/vg/facsimiles/VGM001000488_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let413/letter.html
 Letter|Dear brother,
 I feel what Pa and Ma instinctively think about me (I don’t say reasonably).

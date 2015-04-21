@@ -4,6 +4,8 @@ Date|on or about Saturday, 16 June 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b317 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000398_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000398_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let355/letter.html
 Letter|My dear Theo,
 Shortly after I sent my letter to you I received a characteristic letter from Rappard which I wanted to send to you to read because you used to know him and haven’t seen him recently. I think you’ll see in this letter (from the serious tone in general) what I wrote to you about my finding him so much improved (although I thought he was good in the past too). His drawings are really devilishly good, and what he does is honest work.

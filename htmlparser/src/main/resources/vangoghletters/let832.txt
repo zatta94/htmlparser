@@ -4,6 +4,8 @@ Date|on or about Monday, 23 December 1889
 To|Willemien van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b718 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000973_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000973_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let832/letter.html
 Letter|My dear ,
 In haste I’m adding a line for you, it’s exactly a year since I had that attack, I certainly have no reason to complain about it too much, as things are going better at present. But from time to time, though, it’s to be feared that it may return. And this leaves the mind in a latent state of sensitivity.

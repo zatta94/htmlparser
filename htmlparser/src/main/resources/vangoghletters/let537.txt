@@ -4,6 +4,10 @@ Date|on or about Wednesday, 28 October 1885
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b469 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000632_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000632_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000633_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000633_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let537/letter.html
 Letter|My dear Theo,
 I read your letter about black with great pleasure. And it convinces me accordingly that you aren’t prejudiced against black.

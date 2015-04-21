@@ -4,6 +4,8 @@ Date|on or about Sunday, 20 May 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b308 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000386_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000386_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let343/letter.html
 Letter|My dear Theo,
 I wanted to let you know in just a word or two that Rappard has been to see me and that I’ve borrowed 25 guilders from him, with the promise of repayment in the autumn. I was delighted by his visit — he came in the morning and stayed until the last train in the evening, and we spent the whole day looking at one thing and another, and he did a sketch using printer’s ink and turpentine to try it out. Now I’m going to him tomorrow to see his work and his studio.

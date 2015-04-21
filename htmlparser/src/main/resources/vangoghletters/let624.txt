@@ -4,6 +4,8 @@ Date|Tuesday, 12 or Wednesday, 13 June 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b538 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000723_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000723_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let624/letter.html
 Letter|My dear Theo,
 I’m writing you another line because I haven’t yet received your letter. But I presume you’ll have said to yourself that I would probably be at Saintes-Maries.

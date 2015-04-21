@@ -4,6 +4,8 @@ Date|Wednesday, 2 or Thursday, 3 May 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b305 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000382_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000382_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let339/letter.html
 Letter|My dear Theo,
 Your letter and the enclosure were most welcome, as always. And as always, thank you for them — I appreciate it all the more knowing so well that you yourself have many cares.

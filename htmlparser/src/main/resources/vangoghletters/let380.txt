@@ -4,6 +4,8 @@ Date|Sunday, 2 September 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b341 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000437_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000437_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let380/letter.html
 Letter|My dear Theo,
 Accept my thanks for your letter and the enclosure. I want to answer it today. What you write may be true — as we’ve already discussed — as I’ve thought to myself more than once, both before and since then — that if the were obliged to do without me — to stand on her own feet — she would follow a straighter course. Since she has 2 , however, it’s a very difficult case, but what can I say? In the given situation it’s something that she herself makes necessary, and the circumstances make much more necessary. I underline this last.

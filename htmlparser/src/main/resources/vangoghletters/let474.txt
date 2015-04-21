@@ -4,6 +4,14 @@ Date|on or about Wednesday, 10 December 1884
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b421 V/1962 (sheet 1)
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000564_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000564_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000569_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000569_02_nf.png
+Link image 5|http://vangoghletters.org/vg/facsimiles/VGM001000514_02_nf.png
+Link image 6|http://vangoghletters.org/vg/facsimiles/VGM001000514_01_nf.png
+Link image 7|http://vangoghletters.org/vg/facsimiles/VGM001000506_01_nf.png
+Link image 8|http://vangoghletters.org/vg/facsimiles/VGM001000506_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let474/letter.html
 Letter|My dear Theo,
 One doesn’t always have the words to lay all one’s cards on the table, but — towards you — I’m so determined — (I don’t care whether you’re mistrustful or not) — to speak out completely frankly — that with some reflection I’ve perhaps found clearer words for what I already made you feel.

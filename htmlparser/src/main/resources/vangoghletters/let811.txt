@@ -4,6 +4,8 @@ Date|on or about Monday, 21 October 1889
 To|Anna van Gogh-Carbentus
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b660 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000903_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000903_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let811/letter.html
 Letter|Dear Mother,
 I wanted to write to you one more time while you’re still in the old house, to thank you for your last letter and the news of Cor’s safe passage.

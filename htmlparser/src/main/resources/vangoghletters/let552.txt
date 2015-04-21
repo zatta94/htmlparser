@@ -4,6 +4,8 @@ Date|between Tuesday, 12 and Saturday, 16 January 1886
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b484 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000656_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000656_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let552/letter.html
 Letter|My dear Theo,
 Last Sunday I saw the two large paintings by Rubens for the first time, and because I’d looked at the ones in the museum repeatedly and at my leisure, these — The descent from the Cross and The elevation of the Cross — were all the more interesting for it. There’s an oddity in The elevation of the Cross that struck me right away, and that is — there are no female figures in it. Unless on the side panels of the triptych. It’s no better for it in consequence. Let me tell you that I adore The descent from the Cross. Not, though, because of the depth of emotion that one would find in a Rembrandt or in a painting by Delacroix or in a drawing by Millet.

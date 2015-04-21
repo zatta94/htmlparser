@@ -4,6 +4,12 @@ Date|Sunday, 22 July 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b324 a-c V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000409_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000409_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000410_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000410_02_nf.png
+Link image 5|http://vangoghletters.org/vg/facsimiles/VGM001000411_01_nf.png
+Link image 6|http://vangoghletters.org/vg/facsimiles/VGM001000411_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let363/letter.html
 Letter|My dear Theo,
 I thank you for your letter, and for the enclosure, although I can’t suppress a feeling of sadness over what you say, ‘as for the future, I can give you little hope’. If you mean that only in relation to financial matters, I wouldn’t be downcast, but if I’m to take it as applying to my work, I really don’t see how I deserve that. It just so happens that I can now send you the prints of photos after a few of my recent drawings, which I promised you earlier but couldn’t manage because I was flat broke.

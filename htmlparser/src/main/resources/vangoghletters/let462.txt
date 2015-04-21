@@ -4,6 +4,8 @@ Date|between about Wednesday, 24 and about Monday, 29 September 1884
 To|Anthon van Rappard
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b8380 V/2006
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001001640_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001001640_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let462/letter.html
 Letter|My dear friend Rappard,
 A very brief line in haste. My asked me yesterday whether I knew anything more about your visit. I said I knew in general that in all likelihood you’d be coming in October, but no further indication of the date than that. Between ourselves, I tell you that although you’re equally welcome at any time and can be expected at any time — I think that it would suit them at home better in October than in November, say, because I believe that they’re expecting other guests later, for which reason I may perhaps go somewhere else myself for a while in November.

@@ -4,6 +4,8 @@ Date|on or about Tuesday, 19 November 1889
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b662 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000905_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000905_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let820/letter.html
 Letter|My dear Theo,
 Thanks for your letter, and am very glad that you write that Jo is staying well. The great event is nearing now, I think of you both very often. For you, when you write about seeing so many paintings that you would wish not to see any for a while, this clearly proves that you’ve had too many business worries. And then – yes there’s something in life other than paintings, and this something else one neglects and nature seems to avenge itself then, and besides, fate is bent on thwarting us. I think that in these circumstances one must keep to the paintings as much as duty demands but no more. As for the Vingtistes, here’s what I’d like to exhibit:

@@ -4,6 +4,8 @@ Date|on or about Tuesday, 8 October 1889
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b658 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000901_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000901_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let810/letter.html
 Letter|My dear Theo,
 I’ve just brought back a canvas I’ve been working on for some time, once again of the same field as the one of the reaper. Now it’s mounds of earth and the background parched lands, then the rocks of the Alpilles. A bit of blue-green sky with small white and violet cloud. In the foreground: A thistle and some dry grass. A peasant dragging a bundle of straw in the middle. It’s another harsh study, and instead of being almost entirely yellow it makes an almost completely violet canvas. Broken and neutral violets.

@@ -4,6 +4,12 @@ Date|Tuesday, 10 September 1889
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b653 a-c V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000893_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000893_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000894_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000894_02_nf.png
+Link image 5|http://vangoghletters.org/vg/facsimiles/VGM001000895_01_nf.png
+Link image 6|http://vangoghletters.org/vg/facsimiles/VGM001000895_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let801/letter.html
 Letter|My dear Theo,
 I think your letter is really good, what you say about Rousseau and artists like Bodmer, that they are men in any case, and of such a kind that one would wish the world populated with people like that – yes indeed, that’s what I myself feel too.

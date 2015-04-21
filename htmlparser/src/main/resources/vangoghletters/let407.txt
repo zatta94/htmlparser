@@ -4,6 +4,10 @@ Date|Monday, 26 November 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b367 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000476_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000476_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000477_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000477_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let407/letter.html
 Letter|My dear Theo,
 May I draw your attention to the fact that the post of Monday, 26 Nov. has just been without having brought your letter. That because it still has to go to Hoogeveen and back, we’ve now reached a point where it’s almost the same as if I hadn’t had the usual once, for supposing the next post brings the letter, I won’t receive the money before late evening on 28 Nov. or the morning of 29 Nov.

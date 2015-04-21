@@ -4,6 +4,10 @@ Date|Monday, 28 May 1877
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b115 V/1962 (sheet 1) and d300 V/1970 (sheet 2)
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000124_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000124_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001001664_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001001664_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let116/letter.html
 Letter|Amsterdam, 28 May 1877
 My dear Theo,

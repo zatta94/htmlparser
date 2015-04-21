@@ -4,6 +4,8 @@ Date|on or about Thursday, 28 May 1885
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b447 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000598_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000598_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let505/letter.html
 Letter|My dear Theo,
 I’ve just received Germinal, which I started on immediately. I’ve read 50 pages of it — which I think splendid. I also walked there once.

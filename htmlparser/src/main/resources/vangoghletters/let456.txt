@@ -4,6 +4,8 @@ Date|on or about Tuesday, 16 September 1884
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b409 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000538_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000538_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let456/letter.html
 Letter|My dear Theo,
 You’re quite right to ask why I haven’t replied to you yet. I did indeed receive your letter with 150 francs enclosed. I began a letter to you, chiefly to thank you because you seemed to have understood my letter, and also to tell you that I only count on 100 francs, but actually find it hard to manage on it as long as things don’t progress. But nevertheless, if it’s 150 francs, there’s a 50 francs windfall extra in so far as our very first agreement before The Hague was only 100 francs, and if we’re only half good friends I wouldn’t want to accept more.

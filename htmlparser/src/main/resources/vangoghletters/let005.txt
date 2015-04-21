@@ -4,6 +4,8 @@ Date|Monday, 17 March 1873
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b5 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000005_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000005_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let005/letter.html
 Letter|The Hague, 17 March 1873
 My dear Theo,

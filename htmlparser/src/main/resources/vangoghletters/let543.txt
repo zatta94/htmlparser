@@ -4,6 +4,10 @@ Date|on or about Friday, 20 November 1885
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b475 V/1962 (sheet 1) and b1469/V1962 (sheet 2)
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000642_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000642_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001001357_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001001357_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let543/letter.html
 Letter|My dear Theo,
 Many thanks for the 50-franc note and your letter. You’ll understand why I’m leaving next Tuesday when you realize firstly that I’m really longing to go — secondly that I’m in danger of becoming stuck with my work here for want of models, while working outdoors has stopped because of the cold.

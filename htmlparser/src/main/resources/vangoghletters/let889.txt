@@ -4,6 +4,8 @@ Date|Tuesday, 17 June 1890
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b690 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000938_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000938_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let889/letter.html
 Letter|My dear Theo,
 Thanks much for your letter of the day before yesterday, and for the 50-franc note it contained. I waited for the consignment of colours and canvas from Tasset, which has just arrived, and for which I also thank you very much, to answer the question regarding the difference between Tanguy and Tasset colours. Well, it’s absolutely the same thing, in the Tasset tubes there are some from time to time, especially for the white, that aren’t filled properly. However, when Tanguy for his part also fills them badly too, — certainly without doing so deliberately – the tubes of cobalt, for example like the one I have in my hands – so I’m talking only based on the same fact that exists on both sides – I just don’t see why one would have any very serious things to reproach the other with.

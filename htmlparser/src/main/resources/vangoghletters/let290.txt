@@ -4,6 +4,10 @@ Date|on or about Sunday, 3 December 1882
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b272 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000335_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000335_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000336_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000336_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let290/letter.html
 Letter|My dear Theo,
 Accept my cordial thanks for your registered letter and for the roll. In it I found the paper from Buhot. But I’d like to have some information to go with it, for example, With what does one draw on this paper? Perhaps I’ll be told that later.

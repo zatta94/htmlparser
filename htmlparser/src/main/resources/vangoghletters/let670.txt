@@ -4,6 +4,8 @@ Date|on or about Sunday, 26 August 1888
 To|Willemien van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b708 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000962_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000962_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let670/letter.html
 Letter|My dear ,
 If you’ll let me write to you in French, that will really make my letter easier for me.

@@ -4,6 +4,8 @@ Date|Wednesday, 7 and Thursday, 8 February 1877
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b102 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000109_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000109_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let102/letter.html
 Letter|My dear Theo,
 Adam Bede costs 2.60 guilders, so herewith you get back 1.40 guilders. Now I only hope that it will give them some pleasure at home, but no doubt it will.

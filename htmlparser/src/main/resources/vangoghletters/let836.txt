@@ -4,6 +4,8 @@ Date|Saturday, 4 January 1890
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b671 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000915_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000915_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let836/letter.html
 Letter|My dear Theo,
 Thanks for your letter. Although I just wrote to you yesterday I’m replying immediately.

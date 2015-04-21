@@ -4,6 +4,8 @@ Date|on or about Thursday, 12 April 1888
 To|Emile Bernard
 From|Vincent van Gogh
 Museum|New York, Thaw Collection, The Morgan Library 
+Link image 1|http://vangoghletters.org/vg/facsimiles/596_1rf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/596_1vf.png
 Url letter|http://vangoghletters.org/vg/letters/let596/letter.html
 Letter|My dear old Bernard,
 Thanks for your kind letter and the croquis of your decoration included with it, which I find really amusing. I sometimes regret that I can’t decide to work more at home and from the imagination. Certainly — imagination is a capacity that must be developed, and only that enables us to create a more exalting and consoling nature than what just a glance at reality (which we perceive changing, passing quickly like lightning) allows us to perceive.

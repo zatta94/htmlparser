@@ -4,6 +4,10 @@ Date|Monday, 6 April 1885
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b436 a-b V/1962 (sheets 1, 2)
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000581_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000581_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000582_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000582_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let490/letter.html
 Letter|My dear Theo,
 I’m still very much under the impression of what has just happened — I just kept painting these two Sundays.

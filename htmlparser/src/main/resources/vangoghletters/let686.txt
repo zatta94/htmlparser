@@ -4,6 +4,10 @@ Date|Sunday, 23 or Monday, 24 September 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b586 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000792_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000792_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000793_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000793_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let686/letter.html
 Letter|My dear Theo,
 The fine weather of these past few days has disappeared and has been replaced by mud and rain. But it will surely return before the winter.

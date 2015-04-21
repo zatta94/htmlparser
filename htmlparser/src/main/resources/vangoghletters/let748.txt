@@ -4,6 +4,8 @@ Date|on or about Monday, 25 February 1889
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b625 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000854_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000854_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let748/letter.html
 Letter|My dear Theo,
 Thanks very much for your kind letter and for the 50-franc note it contained. Is your own health reasonably good, and is the weather in Paris bearable?

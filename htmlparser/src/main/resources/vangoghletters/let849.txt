@@ -4,6 +4,8 @@ Date|Saturday, 1 February 1890
 To|John Peter Russell
 From|Vincent van Gogh
 Museum|New York, Guggenheim Museum. Inv. no. 78.2514T25.
+Link image 1|http://vangoghletters.org/vg/facsimiles/849_1rf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/849_1vf.png
 Url letter|http://vangoghletters.org/vg/letters/let849/letter.html
 Letter|My dear friend Russell
 Today I’m sending you a little roll of photographs after Millet which perhaps you may not know.

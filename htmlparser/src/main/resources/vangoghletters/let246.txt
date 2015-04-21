@@ -4,6 +4,10 @@ Date|Saturday, 15 and Sunday, 16 July 1882
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b237 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000281_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000281_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000282_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000282_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let246/letter.html
 Letter|My dear Theo,
 On Friday I received a message from the hospital in Leiden to say that Sien could go home on Saturday. So I went there today and we came back together and she’s now here at Schenkweg — so far everything is fine, both with her and the . Fortunately, she has good milk, the baby is quiet.

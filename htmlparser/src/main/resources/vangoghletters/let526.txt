@@ -4,6 +4,8 @@ Date|between about Saturday, 8 and about Saturday, 15 August 1885
 To|Anthon van Rappard
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b8390 V/2006
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001001654_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001001654_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let526/letter.html
 Letter|My dear friend Rappard,
 Today I sent a basket of birds’ nests to your address. I’ve also got them in the studio — quite a lot of them — and I’m sending you some that I have two of.

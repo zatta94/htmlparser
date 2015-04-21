@@ -4,6 +4,12 @@ Date|Tuesday, 2 October 1888
 To|Eugène Boch
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b598 a-c V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000814_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000814_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000815_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000815_02_nf.png
+Link image 5|http://vangoghletters.org/vg/facsimiles/VGM001000816_01_nf.png
+Link image 6|http://vangoghletters.org/vg/facsimiles/VGM001000816_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let693/letter.html
 Letter|My dear friend Boch,
 Many thanks for your letter, which gave me great pleasure. I congratulate you on not having hesitated this time — and on having tackled the Borinage. That’s a field in which you’ll be able to work for the whole of your life, the extraordinary landscape as well as the human figure!

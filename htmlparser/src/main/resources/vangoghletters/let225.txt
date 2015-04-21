@@ -4,6 +4,8 @@ Date|on or about Wednesday, 10 May 1882
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b216 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000252_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000252_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let225/letter.html
 Letter|My dear Theo.
 If I said things in my last letter about that are rather sombre, it’s because I wanted to point out from the beginning that I’m not living in a bed of roses but in reality. And to protest in advance against sentimental considerations of the kind Pa and Ma wouldn’t fail to suggest, if I were to ask their advice or merely to inform them of the matter. Sentiment and sentimentality are two very different things which they are unable to distinguish from one another. And if I were to speak of it, Pa would most likely think he had to play the part of policeman, which would be completely inappropriate and of little use.

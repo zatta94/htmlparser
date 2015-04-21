@@ -4,6 +4,8 @@ Date|on or about Monday, 17 October 1881
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b185 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000210_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000210_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let177/letter.html
 Letter|My dear Theo,
 Since Pa and Ma are writing, I’ll enclose a few words, but hope to write to you soon in more detail, namely after Mauve’s visit, who’s going to Princenhage soon and will also come here. I must tell you, Theo, that M. sent me a painting box with paint, brushes, palette, palette knife, oil, turpentine, in short, with all the necessaries.

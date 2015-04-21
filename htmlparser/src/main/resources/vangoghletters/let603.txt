@@ -4,6 +4,10 @@ Date|Friday, 4 May 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b521 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000700_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000700_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000701_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000701_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let603/letter.html
 Letter|My dear Theo,
 Yesterday I went to visit some furniture dealers to see if I could rent a bed, &amp;c. Unfortunately they do not rent, and even refused to sell on terms of paying so much per month. This is rather awkward. Now I’ve thought that perhaps — if Koning were to leave after seeing the Salon, as I believe was his original intention, after he left you could send me the bed he’s occupying now.

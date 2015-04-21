@@ -4,6 +4,10 @@ Date|Monday, 30 June and Tuesday, 1 July 1890
 To|Vincent van Gogh
 From|Theo van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b766 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001001034_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001001034_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001001035_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001001035_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let894/letter.html
 Letter|Paris, 30 June 1890
 My very dear brother,

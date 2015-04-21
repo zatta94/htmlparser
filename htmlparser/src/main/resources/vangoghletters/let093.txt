@@ -4,6 +4,8 @@ Date|Saturday, 7 and Sunday, 8 October 1876
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b90 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000094_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000094_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let093/letter.html
 Letter|Isleworth, 7 Oct. 1876.
 Dear Theo,

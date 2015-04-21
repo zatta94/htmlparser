@@ -4,6 +4,8 @@ Date|Wednesday, 3 October 1888
 To|Emile Bernard
 From|Vincent van Gogh
 Museum|New York, Thaw Collection, The Morgan Library 
+Link image 1|http://vangoghletters.org/vg/facsimiles/696_1rf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/696_1vf.png
 Url letter|http://vangoghletters.org/vg/letters/let696/letter.html
 Letter|My dear old Bernard,
 This time you deserve bigger compliments for the little croquis of the two Breton women in your letter than for the other 6, since the little croquis has a great style. I’m behind myself as far as croquis go, being so totally absorbed these recent superb days with square no. 30 canvases, which wear me out considerably and I intend to use to decorate the house.

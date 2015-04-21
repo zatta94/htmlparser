@@ -4,6 +4,12 @@ Date|on or about Tuesday, 14 July 1885
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b456 a-c V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000608_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000608_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000609_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000609_02_nf.png
+Link image 5|http://vangoghletters.org/vg/facsimiles/VGM001000610_01_nf.png
+Link image 6|http://vangoghletters.org/vg/facsimiles/VGM001000610_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let515/letter.html
 Letter|My dear Theo,
 I wish that the 4 canvases I wrote to you about were gone. I may work on them again if I keep them here too long, and I think it’s better for you to get them as they come from the heath.

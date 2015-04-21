@@ -4,6 +4,8 @@ Date|on or about Saturday, 3 November 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b606 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000826_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000826_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let717/letter.html
 Letter|My dear Theo,
 Gauguin and I thank you very much for sending 100 francs, and also for your letter.

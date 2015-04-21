@@ -4,6 +4,10 @@ Date|Friday, 13 October 1876
 To|Anna van Gogh-Carbentus and Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b91 V/1962 (sheet 1), and inv. no. b1470 V/1962 (sheet 2)
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000095_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000095_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001001358_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001001358_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let094/letter.html
 Letter|Isleworth, 13 October 1876
 Dearest Mother and Theo,

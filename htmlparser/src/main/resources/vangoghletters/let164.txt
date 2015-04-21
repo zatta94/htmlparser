@@ -4,6 +4,10 @@ Date|Saturday, 2 April 1881
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b162 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000172_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000172_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000173_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000173_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let164/letter.html
 Letter|2/4-81
 72 blvd du Midi Bruxelles

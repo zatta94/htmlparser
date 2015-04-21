@@ -4,6 +4,8 @@ Date|Thursday, 5 or Friday, 6 January 1882
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b189 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000214_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000214_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let198/letter.html
 Letter|Dear brother,
 Tell me, Theo, how do I stand with you? Surely you’ve received my last letter, in which I told you one thing and another about what happened at home and how that resulted in my leaving home and going back to The Hague, and am now in my own studio, address SCHENKWEG No. 138 (near the Rijnspoor Station).

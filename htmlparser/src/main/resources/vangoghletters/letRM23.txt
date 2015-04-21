@@ -4,6 +4,8 @@ Date|on or about Tuesday, 17 June 1890
 To|Paul Gauguin
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b691 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000939_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000939_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/RM23/letter.html
 Letter|My dear friend Gauguin
 Thanks for writing to me again, my dear friend, and be assured that since my return I’ve thought about you every day. I only stayed in Paris for three days, and as the Parisian noise &amp;c. made a pretty bad impression on me I judged it wise for my head to clear off to the countryside – otherwise I would have swiftly run round to your place. And it gives me enormous pleasure that you say that you liked the portrait of the Arlésienne based rigorously on your drawing. I tried to be respectfully faithful to your drawing while taking the liberty of interpreting through the medium of a colour the sober character and the style of the drawing in question.

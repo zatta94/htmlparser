@@ -4,6 +4,8 @@ Date|Monday, 20 January 1890
 To|Willemien van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b719 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000974_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000974_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let841/letter.html
 Letter|My dear ,
 The other day I saw some people sick with influenza and I’m so curious to know if you’ve had it too, as I’m inclined to believe. I saw a female who had a rather worrying nervous complication, and a distressing change of life.

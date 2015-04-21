@@ -4,6 +4,8 @@ Date|early April 1884
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b400 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000528_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000528_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let444/letter.html
 Letter|My dear Theo,
 I send you herewith a croquis of a painting I’m working on with some others — this is an effect of trees in blossom in the late afternoon. There are 3 made of the same subject among the drawings that you’ll get as soon as Rappard gets here. What struck me in the scene was the astonishingly authentic and half old-fashioned, half rustic character of this garden. And the reason that I made no fewer than 3 pen drawings of the same little corner, as well as making several studies of it which I destroyed, was precisely because I wanted to convey this character in some intimate details that aren’t expressed easily or as a matter of course or by chance.

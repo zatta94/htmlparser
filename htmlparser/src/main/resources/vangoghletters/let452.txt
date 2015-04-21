@@ -4,6 +4,8 @@ Date|on or about Sunday, 20 July 1884
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b407 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000536_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000536_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let452/letter.html
 Letter|My dear Theo,
 I was delighted to learn from your letter to Pa and Ma that you plan to go to London on 4 Aug. and then to come on here from there. I’m again looking forward very much to your arrival and to finding out what you’ll think of the work that I’ve done since. The last things I did are a couple of rather large studies of ox-carts, a black ox and a red and white one.

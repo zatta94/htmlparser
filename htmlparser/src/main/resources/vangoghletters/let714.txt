@@ -4,6 +4,8 @@ Date|Saturday, 27 or Sunday, 28 October 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b605 V/1968
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000825_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000825_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let714/letter.html
 Letter|My dear Theo,
 Thank you for your money order for 50 francs, which I’ve just received.

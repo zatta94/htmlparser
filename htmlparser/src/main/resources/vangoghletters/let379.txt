@@ -4,6 +4,10 @@ Date|between about Thursday, 23 and about Wednesday, 29 August 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b340 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000435_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000435_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000436_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000436_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let379/letter.html
 Letter|My dear Theo,
 This morning I was at Van der Weele’s and saw the studies he brought back from Gelderland. And my desire to go to Drenthe wasn’t diminished by what I heard from him. He happened to know that one of the villages I had in mind had a beautiful natural setting full of character.

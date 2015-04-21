@@ -4,6 +4,8 @@ Date|Wednesday, 16 February 1881
 To|Theodorus van Gogh and Anna van Gogh-Carbentus
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b161 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000171_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000171_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let163/letter.html
 Letter|Brussels, Feb. 1881
 Dear Pa and Ma,

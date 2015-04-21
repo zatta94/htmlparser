@@ -4,6 +4,10 @@ Date|on or about Thursday, 6 December 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b369 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000480_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000480_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000481_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000481_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let409/letter.html
 Letter|My dear Theo,
 You’ll have been rather surprised that I dropped you a line that I would go home sometime, and am now writing to you from here.

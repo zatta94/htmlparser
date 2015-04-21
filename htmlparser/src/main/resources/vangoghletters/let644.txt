@@ -4,6 +4,8 @@ Date|between Tuesday, 17 and Friday, 20 July 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b553 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000743_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000743_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let644/letter.html
 Letter|My dear Theo
 Many thanks for your letter, which gave me great pleasure, coming just at the moment when I was still dazed by the sun and the strain of handling a rather large canvas.

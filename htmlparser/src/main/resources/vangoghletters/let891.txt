@@ -4,6 +4,8 @@ Date|Tuesday, 24 June 1890
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b692V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000940_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000940_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let891/letter.html
 Letter|My dear Theo,
 Thanks very much for your letter and for the 50-franc note it contained. The exchange you made with Boch is very good, and am very curious to see what sort of thing he’s making at present.

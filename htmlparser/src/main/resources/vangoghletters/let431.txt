@@ -4,6 +4,10 @@ Date|Tuesday, 26 February 1884
 To|Anthon van Rappard
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b8372 a-b V/2006
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001001627_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001001627_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001001628_02_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001001628_01_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let431/letter.html
 Letter|My dear friend Rappard,
 It’s hard to call it very cordial that you haven’t even dropped me a line in all this time. Assuming that you’ll also think more or less the same yourself, however, this subject isn’t under discussion right now.

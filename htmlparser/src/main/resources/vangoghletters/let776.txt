@@ -4,6 +4,10 @@ Date|on or about Thursday, 23 May 1889
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Whereabouts of sheet 1 unknown (see also Additional details)
+Link image 1|http://vangoghletters.org/vg/facsimiles/776_1rf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/776_1vf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000874_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000874_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let776/letter.html
 Letter|My dear Theo,
 Your letter which I’ve just received gives me great pleasure. You tell me that J.H. Weissenbruch has two paintings in the exhibition — but I thought he was dead — am I mistaken? He certainly is one hell of an artist and a good man, with a big heart too.

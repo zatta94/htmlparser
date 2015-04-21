@@ -4,6 +4,8 @@ Date|Thursday, 23 or Friday, 24 August 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b569 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000766_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000766_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let668/letter.html
 Letter|My dear Theo,
 Would you ask Tasset his opinion on the following question? It seems to me that the more finely a colour is ground, the more it is saturated by oil. Now we’re not over-fond of oil, that goes without saying.

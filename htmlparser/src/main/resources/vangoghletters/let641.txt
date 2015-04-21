@@ -4,6 +4,8 @@ Date|Sunday, 15 July 1888
 To|Emile Bernard
 From|Vincent van Gogh
 Museum|New York, Thaw Collection, The Morgan Library 
+Link image 1|http://vangoghletters.org/vg/facsimiles/641_r_recf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/641_v_recf.png
 Url letter|http://vangoghletters.org/vg/letters/let641/letter.html
 Letter|My dear old Bernard.
 Perhaps you’ll be inclined to forgive me for not having replied to your letter straightaway, seeing that I’m attaching a small batch of croquis to this one.

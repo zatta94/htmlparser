@@ -4,6 +4,9 @@ Date|Monday, 20 January 1890
 To|Joseph Ginoux and Marie Ginoux-Julien
 From|Vincent van Gogh
 Museum|Private collection
+Link image 1|http://vangoghletters.org/vg/facsimiles/842_1rf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/842_1vf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/842_2rf.png
 Url letter|http://vangoghletters.org/vg/letters/let842/letter.html
 Letter|My dear friends Mr and Mrs Ginoux,
 I don’t know if you’ll remember, I find it quite strange, that about a year ago Mrs Ginoux was ill at the same time as I was; and now it has been so again since – just around Christmas – for a few days I was again taken quite badly this year, however it was over very quickly; I had it less than a week. Since, therefore, my dear friends, we sometimes suffer together, it makes me think of what Mrs Ginoux said – ‘when people are friends they’re that way for a long time’.

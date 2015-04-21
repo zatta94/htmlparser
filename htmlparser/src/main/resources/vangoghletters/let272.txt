@@ -4,6 +4,8 @@ Date|Sunday, 15 October 1882
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b260 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000318_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000318_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let272/letter.html
 Letter|My dear Theo,
 Your letter and the contents, both written and monetary, gave me not a little pleasure and I do thank you for them. Regarding the first, I was especially glad to hear that it needn’t be very long before you come to Holland again. As soon as it’s possible for you to determine whether it will be before or after the New Year, I’d very much like to know that, roughly, in advance. I’m very glad that you’ve sent the studies — I feel so strongly these days while working on many new ones that I must keep the work from the model together. How delightful it would be if I could consult you more often about the work — but we’re too far apart.

@@ -4,6 +4,10 @@ Date|Wednesday, 8 August 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b560 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000753_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000753_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000754_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000754_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let657/letter.html
 Letter|My dear Theo,
 I’ve just sent off 3 large drawings, as well as some other, smaller ones and the two lithographs by De Lemud.

@@ -4,6 +4,12 @@ Date|on or about Wednesday, 11 July 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b322 a-c V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000405_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000405_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000406_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000406_02_nf.png
+Link image 5|http://vangoghletters.org/vg/facsimiles/VGM001000407_01_nf.png
+Link image 6|http://vangoghletters.org/vg/facsimiles/VGM001000407_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let361/letter.html
 Letter|My dear Theo,
 I had already been looking out for your letter, more or less, and was again glad of it. Thank you. I find what you write about the exhibition most interesting. What was that old painting by Dupré that you thought especially beautiful? You must write again to tell me. Your description of Troyon and Rousseau, for instance, is lively enough to give me some idea of which of their manners they are done in.

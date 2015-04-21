@@ -4,6 +4,10 @@ Date|Saturday, 16 November 1889
 To|Vincent van Gogh
 From|Theo van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b747 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001001011_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001001011_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001001012_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001001012_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let819/letter.html
 Letter|Paris, 16 Nov. 1889
 My dear Vincent,

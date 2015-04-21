@@ -4,6 +4,10 @@ Date|Tuesday, 18 September 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b583 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000786_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000786_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000787_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000787_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let683/letter.html
 Letter|My dear Theo,
 I already wrote to you early this morning, then I went to continue working on a painting of a sunny garden. Then I brought it back — and went out again with a blank canvas and that’s done, too. And now I feel like writing to you again.

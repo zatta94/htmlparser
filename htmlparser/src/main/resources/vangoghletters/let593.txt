@@ -4,6 +4,8 @@ Date|on or about Thursday, 5 April 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b515 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000692_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000692_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let593/letter.html
 Letter|My dear Theo,
 Am obliged to write to you as I’m sending you an order for colours which, if you place it with Tasset &amp; Lhote, rue Fontaine, you’ll do well — since they know me — to tell them that I expect a discount at least equivalent to the cost of carriage, which I’ll be glad to pay myself — they don’t have to cover carriage, we’ll pay it, but in that case the discount should be 20%. If they’re willing to give you it — as I’m inclined to believe — they can supply me until further notice, and so this is a big order for them.

@@ -4,6 +4,10 @@ Date|mid-September 1881
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b170 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000181_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000181_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000182_02_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000182_01_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let172/letter.html
 Letter|My dear Theo,
 Even though I wrote to you only a short while ago, this time I have something more to say to you.

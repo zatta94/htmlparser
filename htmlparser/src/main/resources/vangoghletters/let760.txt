@@ -4,6 +4,12 @@ Date|Sunday, 21 April 1889
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b632 a-c V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000862_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000862_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000863_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000863_02_nf.png
+Link image 5|http://vangoghletters.org/vg/facsimiles/VGM001000864_01_nf.png
+Link image 6|http://vangoghletters.org/vg/facsimiles/VGM001000864_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let760/letter.html
 Letter|My dear Theo
 You’ll probably be back in Paris when this letter arrives. I wish you and your lots of happiness.

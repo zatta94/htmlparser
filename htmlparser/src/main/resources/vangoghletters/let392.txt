@@ -4,6 +4,8 @@ Date|on or about Wednesday, 3 October 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b353 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000453_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000453_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let392/letter.html
 Letter|My dear Theo,
 This time I’m writing to you from the very back of beyond in Drenthe, where I arrived after an endless trip through the heath on the barge.

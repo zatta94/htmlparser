@@ -4,6 +4,10 @@ Date|on or about Tuesday, 9 June 1885
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b449 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000600_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000600_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000601_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000601_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let507/letter.html
 Letter|My dear Theo,
 Today I sent off that little crate, containing 1 other painting, Peasant cemetery, besides what I already told you.

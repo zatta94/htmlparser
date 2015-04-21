@@ -4,6 +4,8 @@ Date|on or about Wednesday, 21 May 1890
 To|Willemien van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b721 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000976_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000976_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/RM19/letter.html
 Letter|My dear ,
 For a few days now I would have liked to reply to your kind letter, which I received while still in St-Rémy. Things weren’t working out there any more, and I was becoming rather iller through the treatment.

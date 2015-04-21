@@ -4,6 +4,10 @@ Date|Tuesday, 26 June 1888
 To|Emile Bernard
 From|Vincent van Gogh
 Museum|New York, Thaw Collection, The Morgan Library 
+Link image 1|http://vangoghletters.org/vg/facsimiles/632_1rf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/632_1vf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/632_2rf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/632_2vf.png
 Url letter|http://vangoghletters.org/vg/letters/let632/letter.html
 Letter|My dear Bernard,
 You do very well to read the Bible — I start there because I’ve always refrained from recommending it to you.

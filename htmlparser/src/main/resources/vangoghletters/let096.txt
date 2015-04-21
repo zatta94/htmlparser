@@ -4,6 +4,12 @@ Date|Friday, 3 November 1876
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b92 V/1962 (sheet 1), and inv. nos. b1462 a-b V/1962 (sheet 2, 3)
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000096_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000096_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001001347_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001001347_02_nf.png
+Link image 5|http://vangoghletters.org/vg/facsimiles/VGM001001348_01_nf.png
+Link image 6|http://vangoghletters.org/vg/facsimiles/VGM001001348_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let096/letter.html
 Letter|Isleworth
 My dear Theo,

@@ -4,6 +4,8 @@ Date|Tuesday, 3 March 1874
 To|Willem van Stockum and Caroline van Stockum-Haanebeek
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b35 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000037_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000037_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let020/letter.html
 Letter|London, 3 March 1874
 Dear Caroline and Willem,

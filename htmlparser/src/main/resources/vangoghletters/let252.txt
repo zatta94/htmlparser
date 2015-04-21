@@ -4,6 +4,12 @@ Date|Monday, 31 July 1882
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b243 a-c V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000295_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000295_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000296_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000296_02_nf.png
+Link image 5|http://vangoghletters.org/vg/facsimiles/VGM001000297_01_nf.png
+Link image 6|http://vangoghletters.org/vg/facsimiles/VGM001000297_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let252/letter.html
 Letter|My dear Theo,
 Just a word to say welcome before you come here. And to report the safe arrival of your letter and the enclosure, and to thank you very much.

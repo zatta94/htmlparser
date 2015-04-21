@@ -4,6 +4,8 @@ Date|Saturday, 1 February 1890
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b674 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000920_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000920_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let850/letter.html
 Letter|My dear Theo,
 Today I’ve just received your good news that you’re a father at last, that the most critical moment has passed for Jo, finally that the little one is well. It does me, too, more good and gives me more pleasure than I could express in words. Bravo – and how pleased Mother is going to be. I also received a quite long and very serene letter from her the day before yesterday. Finally what I’ve certainly hoped for so much for a long time has happened. No need to tell you that I’ve often thought of the two of you the past few days, and it touched me greatly that Jo still had the kindness to write to me the night before. How brave and calm she is in her danger, that touched me greatly. Well this contributes a great deal to making me forget these last few days when I was ill, then I no longer know where I am and my mind wanders.

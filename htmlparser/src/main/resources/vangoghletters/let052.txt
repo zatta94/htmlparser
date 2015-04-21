@@ -4,6 +4,8 @@ Date|Wednesday, 29 September 1875
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b51 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000054_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000054_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let052/letter.html
 Letter|Paris, 29 Sept. 1875
 My dear Theo,

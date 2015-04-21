@@ -4,6 +4,8 @@ Date|Thursday, 19 April 1888
 To|John Peter Russell
 From|Vincent van Gogh
 Museum|New York, Guggenheim Museum. Thannhauser Collection. Inv. no. 78.2514 T18.
+Link image 1|http://vangoghletters.org/vg/facsimiles/598_1rf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/598_1vf.png
 Url letter|http://vangoghletters.org/vg/letters/let598/letter.html
 Letter|My dear Russell,
 I ought to have answered your letter ever so long ago but working pretty hard every day, at night I feel so often too weary to write. As it rains to day I avail myself of the opportunity. Last Sunday I have met Macknight and a Danish painter and I intend to go and see him at Fontvieille next Monday. I feel sure I’ll prefer him as an artist to what he is as an art critic, his views as such being so narrow that they make me smile.

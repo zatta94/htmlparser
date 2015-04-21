@@ -4,6 +4,8 @@ Date|between about Friday, 25 and about Tuesday, 29 September 1885
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b464 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000621_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000621_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let532/letter.html
 Letter|My dear Theo,
 I wanted to drop you a line to tell you that I have a few things ready that I wanted to send you.

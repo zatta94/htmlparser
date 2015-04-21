@@ -4,6 +4,8 @@ Date|early May 1885
 To|Anton Kerssemakers
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b879 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001001173_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001001173_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let498/letter.html
 Letter|Dear Sir,
 Here are a few more books; you’ll certainly like the one by Rovers with the little etching by Israëls, and the drawings by Menzel too.

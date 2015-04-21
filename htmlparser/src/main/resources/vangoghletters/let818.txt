@@ -4,6 +4,8 @@ Date|Friday, 15 November 1889
 To|Vincent van Gogh
 From|Octave Maus
 Museum|Amsterdam, Van Gogh Museum, inv. no. b1344 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001001483_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001001483_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let818/letter.html
 Letter|[Letterhead: Les Vingt Brussels]
 15 November 1889

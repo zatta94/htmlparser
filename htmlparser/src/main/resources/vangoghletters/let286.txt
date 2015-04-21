@@ -4,6 +4,8 @@ Date|Friday, 24 November 1882
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b269 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000329_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000329_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let286/letter.html
 Letter|My dear Theo,
 I received your registered letter of 20 Nov. in good order, and thank you very much for sending it. You’ll have seen how welcome it was from my letter, which must have crossed yours.

@@ -4,6 +4,8 @@ Date|Saturday, 7 December 1889
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b667 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000910_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000910_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let824/letter.html
 Letter|My dear Theo,
 Yesterday I sent three packets by parcel post containing studies which I hope you’ll receive in good order. I really must thank you for the 10 metres of canvas, which have just arrived.

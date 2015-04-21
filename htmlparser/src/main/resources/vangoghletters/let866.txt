@@ -4,6 +4,10 @@ Date|on or about Friday, 2 May 1890
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b681 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000927_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000927_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000928_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000928_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let866/letter.html
 Letter|My dear Theo,
 Once again I’m writing to you to say that I’m staying well, yet I feel a little worn out by this long crisis, and I dare believe that the planned move will refresh my ideas more.

@@ -4,6 +4,8 @@ Date|Friday, 12 April 1889
 To|Vincent van Gogh
 From|Paul Signac
 Museum|Amsterdam, Van Gogh Museum, inv. no. b1325 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001001319_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001001319_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let757/letter.html
 Letter|Cassis – Friday
 My dear friend,

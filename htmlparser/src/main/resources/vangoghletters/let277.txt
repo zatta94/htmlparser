@@ -4,6 +4,8 @@ Date|Sunday, 29 October 1882
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b261 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000319_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000319_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let277/letter.html
 Letter|My dear Theo,
 It’s Sunday again, and again as rainy as usual. On top of that we’ve had a gale this week and the leaves are thinning out on the trees. Believe me, I’m glad that the stove is in place.

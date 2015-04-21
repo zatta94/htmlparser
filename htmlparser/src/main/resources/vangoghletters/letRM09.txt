@@ -4,6 +4,10 @@ Date|about September 1876
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b104 b-c V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000112_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000112_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000113_02_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000113_01_nf.png
 Url letter|http://vangoghletters.org/vg/letters/RM09/letter.html
 Letter|Evening song.
 Oh play another song for me

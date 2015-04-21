@@ -4,6 +4,12 @@ Date|Monday, 8 October 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b591 V/1962 and b590 a-b V/1962 (sheet 2 and sheet 3, enclosure)
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000804_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000804_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000803_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000803_02_nf.png
+Link image 5|http://vangoghletters.org/vg/facsimiles/VGM001000802_01_nf.png
+Link image 6|http://vangoghletters.org/vg/facsimiles/VGM001000802_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let699/letter.html
 Letter|My dear Theo,
 I too have all my attention on Gauguin at the moment.

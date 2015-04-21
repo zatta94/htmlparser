@@ -4,6 +4,8 @@ Date|Tuesday, 21 or Wednesday, 22 August 1888
 To|Willemien van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b706 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000959_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000959_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let667/letter.html
 Letter|My dear ,
 I’m dropping you a line in haste so as not to wait any longer to tell you how much it delights me that you’re in Paris, and I imagine you’ll be seeing a great deal of it these days. Next year, when I’m living with my friend Gauguin, it’s not exactly impossible that it might be that you could also come as far as the Mediterranean. I believe you’d find it so beautiful here.

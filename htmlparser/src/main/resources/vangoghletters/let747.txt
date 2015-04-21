@@ -4,6 +4,8 @@ Date|Monday, 18 February 1889
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b624 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000853_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000853_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let747/letter.html
 Letter|My dear Theo,
 As long as my mind was so out of sorts it would have been fruitless to try and write to you to reply to your kind letter. Today I’ve just returned home for the time being, I hope for good. There are so many moments when I feel completely normal, and actually it would seem to me that, if what I have is only a sickness peculiar to this area, I should wait quietly here until it’s over. Even if it were to happen again (which, let’s say, won’t be the case).

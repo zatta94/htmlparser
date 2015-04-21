@@ -4,6 +4,8 @@ Date|Tuesday, 21 April 1885
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b440 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000587_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000587_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let495/letter.html
 Letter|My dear Theo,
 You’ll receive a number of impressions of the lithograph by the same post.

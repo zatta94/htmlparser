@@ -4,6 +4,10 @@ Date|on or about Monday, 29 October 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b603 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000822_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000822_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000823_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000823_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let715/letter.html
 Letter|My dear Theo,
 As for ill, I already told you I didn’t think I was, but I would have become so if my expenses had had to continue.

@@ -4,6 +4,10 @@ Date|Sunday, 23 July 1882
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b241 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000289_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000289_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000290_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000290_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let250/letter.html
 Letter|Sunday morning
 My dear Theo,

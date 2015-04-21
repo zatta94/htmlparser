@@ -4,6 +4,10 @@ Date|Sunday, 29 and Monday, 30 July 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b330 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000418_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000418_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000419_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000419_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let369/letter.html
 Letter|My dear Theo.
 One of the things that have sometimes made me consider moving could be remedied in another way. Yesterday and the day before I walked in the neighbourhood of Loosduinen — went from the village to the sea, for instance — and found numerous cornfields, not as beautiful as those in Brabant, but still they must have reapers, sowers, gleaners there, one of the things that I’ve missed this year and that have made me feel a need for something different at times.

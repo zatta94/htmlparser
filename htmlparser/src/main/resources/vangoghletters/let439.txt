@@ -4,6 +4,10 @@ Date|on or about Tuesday, 18 March 1884
 To|Anthon van Rappard
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b8375 a-b V/2006
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001001633_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001001633_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001001634_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001001634_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let439/letter.html
 Letter|My dear friend Rappard,
 Thank you for your letter — which made me happy. I was pleased that you saw something in my drawings.

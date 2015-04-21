@@ -4,6 +4,8 @@ Date|Sunday, 11 November 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b361 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000467_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000467_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let405/letter.html
 Letter|Theo,
 You once wrote to me about a certain difference in our respective physiognomies. Very well. And your conclusion was that I would be more of a thinker. What shall I say about that? I am indeed aware of a mode of thinking within me, but nevertheless I don’t feel that my thinking is really organized within me. I feel that I’m a little different from being a real thinker. When I think about you I see action, very characteristic, so be it, but also so decidedly not in isolation, and on the contrary accompanied by so much feeling and indeed thinking too, that my conclusion is that there’s more similarity than difference between you and me. I don’t say there’s no difference — but having got to know you better of late it seems to me that the difference is less than I thought for a while in years past.

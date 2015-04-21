@@ -4,6 +4,8 @@ Date|Friday, 16 August 1889
 To|Vincent van Gogh
 From|Jo van Gogh-Bonger
 Museum|Amsterdam, Van Gogh Museum, inv. no. b742 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001001004_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001001004_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let795/letter.html
 Letter|Paris 16 August
 Dear Vincent,

@@ -4,6 +4,10 @@ Date|Sunday, 29 July 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b555 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000746_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000746_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000747_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000747_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let650/letter.html
 Letter|My dear Theo,
 Many thanks for your kind letter. If you recall, mine ended with: we’re getting old, that’s what is and the rest is imagination and doesn’t exist. Now, I said that even more for myself, than for you. And I said it feeling the absolute necessity for me to act accordingly, to work, not more, perhaps, but with a more serious conception.

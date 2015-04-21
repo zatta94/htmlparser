@@ -4,6 +4,8 @@ Date|on or about Friday, 23 February 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b292 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000365_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000365_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let319/letter.html
 Letter|My dear Theo,
 Just a word to report the safe arrival of your letter and to thank you for it.

@@ -4,6 +4,8 @@ Date|Thursday, 19 September 1889
 To|Anna van Gogh-Carbentus
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b654 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000896_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000896_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let803/letter.html
 Letter|Dear Mother,
 First of all, even though it’s late, I want to wish you a happy birthday. Twice I started a letter that I abandoned again because my mind wasn’t on writing. How very right of you and Wil simply both to have looked for other surroundings for a while after Cor’s departure. There was a lot of news in your last letters, first of all the particulars about Cor’s departure, and then that you’re going to move in November; I can well understand that you’d really like to be closer to your grandchildren. But all the same it will be a strange feeling to think that none of us is left in Brabant.

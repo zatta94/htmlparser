@@ -4,6 +4,12 @@ Date|Thursday, 17 January 1889
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b618 a-c V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000840_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000840_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000841_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000841_02_nf.png
+Link image 5|http://vangoghletters.org/vg/facsimiles/VGM001000842_01_nf.png
+Link image 6|http://vangoghletters.org/vg/facsimiles/VGM001000842_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let736/letter.html
 Letter|My dear Theo,
 Thanks for your kind letter and for the 50-franc note it contained. As to answering all your questions, can you do it yourself, at the moment I don’t feel up to it. On reflection I do indeed want to seek a solution, but I must re-read your letter again &amp;c.

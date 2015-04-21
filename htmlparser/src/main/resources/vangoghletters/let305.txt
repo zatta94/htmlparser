@@ -4,6 +4,8 @@ Date|Friday, 26 or Saturday, 27 January 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b284 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000353_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000353_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let305/letter.html
 Letter|My dear Theo.
 The more I reflect upon it, the deeper the impression made on me by your last letter. In broad outline (leaving aside the difference between the two people in question), on a cold, merciless pavement a sombre, sorrowful figure of a woman appeared before you and before me, and neither you nor I passed her by, but both of us stopped and followed the promptings of our human heart. Such an encounter has something of an apparition about it, at least if one thinks back one sees a pale face, a sorrowful look like an Ecce Homo against a dark background; everything else disappears. That is the sentiment of an Ecce Homo and in reality; the same thing is in the expression, but here it’s a woman’s face.

@@ -4,6 +4,8 @@ Date|between mid August and early September 1884
 To|Anthon van Rappard
 From|Vincent van Gogh
 Museum|Unknown
+Link image 1|http://vangoghletters.org/vg/facsimiles/454_1rf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/454_1vf.png
 Url letter|http://vangoghletters.org/vg/letters/let454/letter.html
 Letter|My dear friend Rappard,
 I haven’t written to you for a long time. First I waited for your reply to my last letter, but assumed it didn’t come because you’d probably gone to Drenthe. Then I got very busy so that I didn’t get round to writing these last few weeks. However, do try to find a moment now to let me know a little of what you’ve been doing, and above all to tell me how it’s going with your big painting of the fish market.

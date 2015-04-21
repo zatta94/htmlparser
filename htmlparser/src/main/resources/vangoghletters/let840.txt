@@ -4,6 +4,8 @@ Date|on or about Friday, 17 January 1890
 To|Vincent van Gogh
 From|Paul Gauguin
 Museum|Amsterdam, Van Gogh Museum, inv. no. b870 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001001164_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001001164_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let840/letter.html
 Letter|My dear Vincent
 Life is very long and very sad. Since your last letter I’ve been so deep in the doldrums that I couldn’t write, in the daytime wishing to see the evening, and at night awaiting the morning. Once the land is ploughed, the man casts the seed, and each day defending himself against the vagaries of the bad weather he manages to harvest. But what of us poor artists? Where does the seed we plant go, and when does the harvest come? In the 3 months I’ve been at Le Pouldu I’ve had 30 francs in my pocket; it’s obviously pointless my putting energy into it, I can’t carry on painting.

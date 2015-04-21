@@ -4,6 +4,8 @@ Date|on or about Monday, 10 April 1882
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b207 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000237_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000237_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let216/letter.html
 Letter|My dear Theo,
 Today I sent you 1 drawing by post which I’m sending to you as a token of gratitude for so much that you’ve done for me during this otherwise hard winter. Last summer, when you had that large woodcut by Millet, ‘the shepherdess’, I thought: how much one can do with one single line! Naturally I don’t presume to say as much as Millet with a single outline. But I’ve nevertheless tried to put some sentiment into this figure. Now I only hope that this figure is to your liking.

@@ -4,6 +4,8 @@ Date|on or about Wednesday, 25 April 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b519 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000697_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000697_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let601/letter.html
 Letter|My dear Theo,
 I’ll start by telling you that the letter you didn’t receive was wrongly addressed by me and as such came back to me. I had — in a moment of distraction — a classic case — addressed it rue de Laval instead of rue Lepic.

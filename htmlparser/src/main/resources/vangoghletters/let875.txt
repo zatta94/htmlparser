@@ -4,6 +4,8 @@ Date|Sunday, 25 May 1890
 To|Theo van Gogh and Jo van Gogh-Bonger
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b686 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000934_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000934_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let875/letter.html
 Letter|My dear Theo, my dear Jo,
 Thank you for your letter which I received this morning, and for the fifty francs that were inside it.

@@ -4,6 +4,8 @@ Date|between Tuesday, 8 and Wednesday, 16 January 1889
 To|Vincent van Gogh
 From|Paul Gauguin
 Museum|Amsterdam, Van Gogh Museum, inv. no. b857 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001001146_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001001146_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let734/letter.html
 Letter|[The letter has no salutation]
 your sunflowers on a yellow background which I regard as a perfect page of an essential ‘Vincent’ style. At your brother’s home I saw your Sower, which is very good, as well as a yellow still life, apples and lemons. Your brother gave me a lithographed reproduction of an old painting of yours, Dutch – very interesting as regards colour in the drawing. In my studio next to your portrait.

@@ -4,6 +4,10 @@ Date|on or about Wednesday, 26 December 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b379 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000493_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000493_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000494_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000494_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let417/letter.html
 Letter|My dear Theo,
 I came back to Nuenen yesterday evening, and now I must get what I have to tell you off my chest straightaway.

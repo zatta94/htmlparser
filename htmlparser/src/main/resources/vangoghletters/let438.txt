@@ -4,6 +4,8 @@ Date|between about Saturday, 15 and about Wednesday, 19 March 1884
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b396 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000520_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000520_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let438/letter.html
 Letter|My dear Theo,
 It surprised me a little that I haven’t heard from you. Because you write: ‘if it isn’t convenient for you to wait, write to me by return’.

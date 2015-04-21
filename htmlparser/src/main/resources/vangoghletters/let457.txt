@@ -4,6 +4,8 @@ Date|on or about Tuesday, 16 September 1884
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b410 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000539_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000539_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let457/letter.html
 Letter|My dear Theo,
 I’m dropping you another line about it, to tell you that I do have hopes that the will get over it — although I do foresee that the consequences in the form of nervous problems could prove both serious and prolonged. Much — very much, depends on onlookers and family — who could actually do her no greater service than to treat her kindly as if nothing had happened or, if they can’t do that, just keep silent. I’ve had a long message from her today, and her tells me he’s heard too.

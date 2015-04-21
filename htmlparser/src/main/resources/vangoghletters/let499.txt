@@ -4,6 +4,8 @@ Date|on or about Saturday, 2 May 1885
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b443 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000591_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000591_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let499/letter.html
 Letter|My dear Theo,
 I received your letter this afternoon, and wanted to reply to it straightaway. I’m longing to get an idea of the Salon, particularly of the painting by Roll.

@@ -4,6 +4,10 @@ Date|Tuesday, 13 May 1890
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b683 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000930_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000930_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000931_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000931_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let872/letter.html
 Letter|My dear brother
 After a last discussion with Mr Peyron I obtained permission to pack my trunk, which I’ve sent by goods train. The 30 kilos of luggage one is allowed to take will allow me to take a few frames, easel and some stretching frames &amp;c.

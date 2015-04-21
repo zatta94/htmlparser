@@ -4,6 +4,12 @@ Date|Monday, 28 December 1885
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b482 a-c V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000651_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000651_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000652_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000652_02_nf.png
+Link image 5|http://vangoghletters.org/vg/facsimiles/VGM001000653_01_nf.png
+Link image 6|http://vangoghletters.org/vg/facsimiles/VGM001000653_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let550/letter.html
 Letter|My dear Theo,
 It’s high time that I thanked you for the 50 francs you sent, which enable me to get through the month, even if starting from today it’s pretty much the same again.

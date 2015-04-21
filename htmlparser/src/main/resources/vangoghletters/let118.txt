@@ -4,6 +4,14 @@ Date|Thursday, 31 May 1877
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b117 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000126_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000126_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001001343_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001001343_02_nf.png
+Link image 5|http://vangoghletters.org/vg/facsimiles/VGM001001344_01_nf.png
+Link image 6|http://vangoghletters.org/vg/facsimiles/VGM001001344_02_nf.png
+Link image 7|http://vangoghletters.org/vg/facsimiles/VGM001001345_01_nf.png
+Link image 8|http://vangoghletters.org/vg/facsimiles/VGM001001345_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let118/letter.html
 Letter|Amsterdam, 31 May 1877
 My dear Theo,

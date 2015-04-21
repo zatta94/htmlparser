@@ -4,6 +4,8 @@ Date|Tuesday, 9 or Wednesday, 10 October 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b592 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000805_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000805_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let700/letter.html
 Letter|My dear Theo,
 Yesterday I sent you a telegram to ask you for another twenty francs. That’s all I’ll have to feed myself for the whole week, but at least I have my frames and a few stretching frames. Only for the next letter, it shouldn’t come later than Sunday, because the siege is hard, very hard, these days. But we’ll sit it out, and I feel quite calm in all this agitation that we’re going through.

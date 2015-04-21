@@ -4,6 +4,11 @@ Date|Friday, 3 May 1889
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b637 a-b V/1962 (sheet 1, 3)
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000871_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000871_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/brief768-2rf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000872_01_nf.png
+Link image 5|http://vangoghletters.org/vg/facsimiles/VGM001000872_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let768/letter.html
 Letter|My dear Theo,
 Your kind letter did me good today, my word – let’s go for St-Rémy then, but I tell you one more time, if after due consideration and consultation with the doctor it would be perhaps either necessary or simply useful and wise to enlist, let’s consider that with the same eye as the rest, and without prior prejudice against it. That’s all. For dismiss the idea of sacrifice in it – I was writing to our the other day that throughout my life, or almost at least, I’ve sought something other than a martyr’s career, of which I’m not capable.

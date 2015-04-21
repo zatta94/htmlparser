@@ -4,6 +4,12 @@ Date|Wednesday, 5 August 1885
 To|Hendrik Jan Furnée
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b458 a-c V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000612_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000612_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000613_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000613_02_nf.png
+Link image 5|http://vangoghletters.org/vg/facsimiles/VGM001000614_01_nf.png
+Link image 6|http://vangoghletters.org/vg/facsimiles/VGM001000614_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let523/letter.html
 Letter|Dear Mr Furnée,
 In response to your postcard, I should like to put a number of things to you for your consideration.

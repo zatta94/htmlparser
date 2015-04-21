@@ -4,6 +4,8 @@ Date|on or about Friday, 7 December 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b370 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000482_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000482_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let410/letter.html
 Letter|My dear Theo,
 I lay awake half the night, Theo, after I’d written to you yesterday evening.

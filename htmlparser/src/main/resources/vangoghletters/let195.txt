@@ -4,6 +4,8 @@ Date|Friday, 30 December 1881
 To|Anthon van Rappard
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b8341 V/2006
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001001586_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001001586_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let195/letter.html
 Letter|The Hague, 30 Dec. 1881.
 My dear Rappard,

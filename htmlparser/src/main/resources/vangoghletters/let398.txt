@@ -4,6 +4,10 @@ Date|on or about Monday, 22 October 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b358 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000461_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000461_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000462_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000462_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let398/letter.html
 Letter|Dear brother,
 I received your letter this morning; in many respects the contents didn’t surprise me. It does surprise me, though, that you should credit me with even the slightest grasp of affairs, since, as you know, I’m considered to be a dreamer in that respect, and I didn’t imagine that you would think any differently.

@@ -4,6 +4,12 @@ Date|Wednesday, 23 July 1890
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b699 a-c V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000948_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000948_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000949_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000949_02_nf.png
+Link image 5|http://vangoghletters.org/vg/facsimiles/VGM001000950_01_nf.png
+Link image 6|http://vangoghletters.org/vg/facsimiles/VGM001000950_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let902/letter.html
 Letter|My dear brother,
 Thanks for your letter of today and for the 50-franc note it contained.

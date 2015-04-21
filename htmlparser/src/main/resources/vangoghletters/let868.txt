@@ -4,6 +4,8 @@ Date|Sunday, 4 May 1890
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b680 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000926_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000926_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let868/letter.html
 Letter|My dear brother,
 Thanks for your kind letter and for the portrait of Jo, which is very pretty and is very successful as a pose. Well, I’ll be very simple and as practical as possible in my reply. First, I categorically reject what you say that I should be accompanied throughout the journey. Once on the train I no longer run any risk, I’m not one of those who are dangerous – even supposing I have a crisis, aren’t there other passengers in the carriage, and besides, don’t they know what to do in all the stations in such a case? You’re giving yourself worries here that weigh on me so heavily that it might directly discourage me.

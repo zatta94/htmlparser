@@ -4,6 +4,10 @@ Date|on or about Tuesday, 11 September 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b577 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000777_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000777_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000778_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000778_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let680/letter.html
 Letter|My dear Theo,
 When Gauguin comes to work with me, and when for his part he shows himself a little bit generous as far as his paintings are concerned —

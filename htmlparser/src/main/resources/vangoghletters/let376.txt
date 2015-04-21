@@ -4,6 +4,10 @@ Date|Sunday, 19 August 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b337 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000430_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000430_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000431_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000431_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let376/letter.html
 Letter|My dear Theo,
 As I write this I’m also writing a letter to Pa in which there are one or two things I shan’t repeat now. Be so good as to read Pa’s letter.

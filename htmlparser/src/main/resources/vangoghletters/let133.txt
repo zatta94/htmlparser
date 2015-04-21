@@ -4,6 +4,8 @@ Date|Tuesday, 30 October 1877
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b131 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000140_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000140_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let133/letter.html
 Letter|Amsterdam, 30 October 1877
 My dear Theo,

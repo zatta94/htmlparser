@@ -4,6 +4,10 @@ Date|between Saturday, 16 and Wednesday, 20 June 1888
 To|Willemien van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b704 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000956_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000956_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000957_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000957_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let626/letter.html
 Letter|My dear sister,
 Many thanks for your letter, which I’d been looking forward to; I daren’t give way to my desire to write to you often or to encourage this on your part. All this correspondence doesn’t always help to keep us, who are of a nervous disposition, strong in cases of possible immersions in melancholy of the kind you refer to in your letter and which I myself have too every now and then. A friend of mine asserted that the best treatment for all ills is to treat them with the most profound contempt.

@@ -4,6 +4,8 @@ Date|on or about Saturday, 28 June 1890
 To|Vincent van Gogh
 From|Paul Gauguin
 Museum|Amsterdam, Van Gogh Museum, inv. no. b884 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001001178_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001001178_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let892/letter.html
 Letter|My dear Vincent
 On my return from a little trip I found both your letter and your proof etching. De Haan and I had been to spend 5 days in Pont-Aven, my former residence which is 6 leagues from Le Pouldu.

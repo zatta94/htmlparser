@@ -4,6 +4,8 @@ Date|on or about Tuesday, 23 May 1882
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b222 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000261_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000261_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let230/letter.html
 Letter|My dear Theo,
 Just a brief word in haste. Have you received the drawings and my later letter yet? I mean the portfolio with the large Sorrow in it and the tree roots &amp;c.

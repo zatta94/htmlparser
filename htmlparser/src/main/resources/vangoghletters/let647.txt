@@ -4,6 +4,8 @@ Date|Sunday, 22 July 1888
 To|Vincent van Gogh
 From|John Peter Russell
 Museum|Amsterdam, Van Gogh Museum, inv. no. b1322 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001001316_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001001316_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let647/letter.html
 Letter|Belle-Ile-en-Mer
 Morbihan —

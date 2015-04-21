@@ -4,6 +4,14 @@ Date|Thursday, 1 and Friday, 2 June 1882
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b226 a-b V/1962 (sheet 1, 2) and b223 a-b V/1962 (sheet 3, 4).
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000266_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000266_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000267_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000267_02_nf.png
+Link image 5|http://vangoghletters.org/vg/facsimiles/VGM001000262_01_nf.png
+Link image 6|http://vangoghletters.org/vg/facsimiles/VGM001000262_02_nf.png
+Link image 7|http://vangoghletters.org/vg/facsimiles/VGM001000263_01_nf.png
+Link image 8|http://vangoghletters.org/vg/facsimiles/VGM001000263_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let234/letter.html
 Letter|My dear Theo,
 I received your letter with the enclosure and immediately paid the . There’s a mortgage on the house and so the rent is collected by someone else, who evicted the people downstairs last month; he gives short shrift. What you say about dividing the month into 3 so that I would receive the money on the 1st, 10th and 20th is most welcome. That’s much easier for me. I don’t need to tell you what a relief your letter was.

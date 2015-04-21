@@ -4,6 +4,8 @@ Date|on or about Wednesday, 2 September 1885
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b463 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000620_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000620_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let531/letter.html
 Letter|My dear Theo,
 Thanks for your letter and 150 francs enclosed. I also received the two new Lhermitte today. He’s a master of the figure. He’s able to do what he likes with it — conceiving the whole neither from the colour nor from the local tone, but rather proceeding from the light — as Rembrandt did — there’s something astonishingly masterly in everything he does — in modelling, above all things, he utterly satisfies the demands of honesty.

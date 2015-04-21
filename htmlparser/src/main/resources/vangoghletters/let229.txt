@@ -4,6 +4,8 @@ Date|on or about Thursday, 18 May 1882
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b221 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000260_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000260_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let229/letter.html
 Letter|My dear Theo,
 Christien had a lot of cramp &amp;c., and so it seemed to me best for her to go to Leiden again to find out exactly what was wrong.

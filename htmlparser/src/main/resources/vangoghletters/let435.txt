@@ -4,6 +4,14 @@ Date|on or about Saturday, 8 March 1884
 To|Anthon van Rappard
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b8374 a-b V/2006 (sheets 1, 2)
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001001631_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001001631_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001001632_02_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001001632_01_nf.png
+Link image 5|http://vangoghletters.org/vg/facsimiles/435_3rf.png
+Link image 6|http://vangoghletters.org/vg/facsimiles/435_3vf.png
+Link image 7|http://vangoghletters.org/vg/facsimiles/435_4rf.png
+Link image 8|http://vangoghletters.org/vg/facsimiles/435_4vf.png
 Url letter|http://vangoghletters.org/vg/letters/let435/letter.html
 Letter|My dear friend Rappard,
 Here, too, are some of the poems by Jules Breton, if you don’t have them I’m sure they’ll really touch you. Today, or rather in the last few days, I’ve painted a study of the loom of which you have the drawing. Am also searching for the colour of the winter garden. But it’s already a spring garden — by now. And it’s changed a lot.

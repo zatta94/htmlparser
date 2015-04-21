@@ -4,6 +4,8 @@ Date|Wednesday, 15 August 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b567 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000764_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000764_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let662/letter.html
 Letter|My dear Theo
 You’ll have received my telegram informing you that Second Lieutenant Milliet will arrive in Paris on Friday morning; he arrives at the Gare de Lyon at 5.15 in the morning and from there goes directly to the Cercle Militaire, avenue de l’Opéra. It will be easiest for both of you if you go to see him there at 7 sharp in the morning.

@@ -4,6 +4,8 @@ Date|Thursday, 18 February 1886
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b496 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000672_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000672_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let564/letter.html
 Letter|My dear Theo,
 It’s at the moment when my money has entirely gone — entirely — that I write to you again.

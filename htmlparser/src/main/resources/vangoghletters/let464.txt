@@ -4,6 +4,14 @@ Date|Thursday, 2 October 1884
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b412 a-c V/1962 (sheets 1, 2, 3) and b413 b V/1962 (sheet 4)
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000542_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000542_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000543_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000543_02_nf.png
+Link image 5|http://vangoghletters.org/vg/facsimiles/VGM001000544_01_nf.png
+Link image 6|http://vangoghletters.org/vg/facsimiles/VGM001000544_02_nf.png
+Link image 7|http://vangoghletters.org/vg/facsimiles/VGM001000547_01_nf.png
+Link image 8|http://vangoghletters.org/vg/facsimiles/VGM001000547_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let464/letter.html
 Letter|My dear Theo,
 Thanks for your letter, thanks for the enclosure. Now listen here.

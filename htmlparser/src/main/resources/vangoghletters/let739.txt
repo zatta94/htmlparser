@@ -4,6 +4,10 @@ Date|Monday, 21 January 1889
 To|Paul Gauguin
 From|Vincent van Gogh
 Museum|Arles, Mus
+Link image 1|http://vangoghletters.org/vg/facsimiles/739_1rRf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/739_1vLf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/739_1vRf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/739_1rLf.png
 Url letter|http://vangoghletters.org/vg/letters/let739/letter.html
 Letter|My dear friend Gauguin,
 Thanks for your letter. Left behind alone on board my little yellow house — as it was perhaps my duty to be the last to remain here anyway — I’m not a little plagued by the friends’ departure.

@@ -4,6 +4,8 @@ Date|Wednesday, 23 July 1890
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b700 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000951_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000951_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/RM25/letter.html
 Letter|My dear brother,
 Thanks for your kind letter and for the 50-franc note it contained.

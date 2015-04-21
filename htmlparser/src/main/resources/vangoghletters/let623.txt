@@ -4,6 +4,8 @@ Date|Tuesday, 12 June 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b537 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000722_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000722_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let623/letter.html
 Letter|My dear Theo,
 On Monday morning I received your telegraphed money order for 50 francs, for which I thank you kindly. But I haven’t yet received your letter, which surprised me a little.

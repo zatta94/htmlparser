@@ -4,6 +4,12 @@ Date|on or about Friday, 23 December 1881
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b184 a-c V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000207_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000207_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000208_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000208_02_nf.png
+Link image 5|http://vangoghletters.org/vg/facsimiles/VGM001000209_01_nf.png
+Link image 6|http://vangoghletters.org/vg/facsimiles/VGM001000209_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let193/letter.html
 Letter|Sometimes, I fear, you throw a book away because it’s too realistic. Have
 compassion and patience with this letter, and read it through, despite its

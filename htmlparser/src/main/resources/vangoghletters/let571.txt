@@ -4,6 +4,8 @@ Date|between about Sunday, 17 and Tuesday, 19 July 1887
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b501 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000677_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000677_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let571/letter.html
 Letter|My dear friend,
 Enclosed a letter that arrived yesterday but which the concierge didn’t pass on to me straightaway.

@@ -4,6 +4,8 @@ Date|Thursday, 2 May 1889
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b636 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000870_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000870_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let767/letter.html
 Letter|My dear Theo,
 I recently sent off two crates of canvases. D58 and 59 – by goods train, and it will take a good week more before you receive them. There’s a heap of daubs in there which will have to be destroyed, but I’ve sent them as they are so that you can keep what appears passable to you. I’ve added Gauguin’s fencing masks and studies, and the Lemonnier book.

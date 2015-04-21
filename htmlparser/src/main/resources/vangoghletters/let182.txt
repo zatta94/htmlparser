@@ -4,6 +4,10 @@ Date|Thursday, 10 or Friday, 11 November 1881
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b176 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000190_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000190_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000191_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000191_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let182/letter.html
 Letter|Dear brother,
 I received your letter but think that it’s only an answer to my no. 1.

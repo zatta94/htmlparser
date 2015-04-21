@@ -4,6 +4,8 @@ Date|on or about Wednesday, 10 January 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b281 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000349_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000349_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let300/letter.html
 Letter|My dear Theo
 When I read your letter this morning I was deeply touched by what you wrote. These are matters of which the world sometimes says, ‘Why should he get involved?’, and yet it isn’t so much our own act as the circumstances that compel us to do so. And once we’ve grasped the situation, a compassion can be awakened that is so unfathomably deep that we no longer hesitate.

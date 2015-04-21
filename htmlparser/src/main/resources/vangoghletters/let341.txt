@@ -4,6 +4,12 @@ Date|on or about Wednesday, 9 May 1883
 To|Anthon van Rappard
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b8366 a-c V/2006
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001001617_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001001617_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001001618_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001001618_02_nf.png
+Link image 5|http://vangoghletters.org/vg/facsimiles/VGM001001619_01_nf.png
+Link image 6|http://vangoghletters.org/vg/facsimiles/VGM001001619_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let341/letter.html
 Letter|My dear friend Rappard.
 I received your telegram this morning. I was on the point of coming to you when I heard you were indisposed. But on reflection I changed my mind because I thought that the doctor might take the view that it wouldn’t be good for you to talk, &amp;c.

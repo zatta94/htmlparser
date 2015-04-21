@@ -4,6 +4,10 @@ Date|on or about Sunday, 18 December 1881
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b183 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000205_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000205_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000206_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000206_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let192/letter.html
 Letter|My dear Theo,
 It’s possible that you’ve been expecting a word from me to hear what I’m doing these days. And for my part I’ve been looking forward to a word from you.

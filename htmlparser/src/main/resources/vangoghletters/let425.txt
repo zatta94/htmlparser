@@ -4,6 +4,8 @@ Date|Friday, 18 and Saturday, 19 January 1884
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b384 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000502_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000502_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let425/letter.html
 Letter|My dear Theo,
 As agreed, I’m writing to you again today, now that the ’s been back. The first night was very peaceful, and since a great deal depends on rest, the doctor was very pleased that Ma had been able to keep her leg completely still so that everything that had been set had stayed in its place.

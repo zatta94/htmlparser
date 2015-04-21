@@ -4,6 +4,8 @@ Date|Tuesday, 10 June 1890
 To|Vincent van Gogh
 From|Marie Ginoux-Julien
 Museum|Amsterdam, Van Gogh Museum, inv. no. b1086 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001001258_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001001258_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let882/letter.html
 Letter|Arles 10 June 1890
 Mr Vincent

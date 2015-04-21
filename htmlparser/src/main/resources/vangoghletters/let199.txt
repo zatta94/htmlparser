@@ -4,6 +4,10 @@ Date|Sunday, 8 or Monday, 9 January 1882
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b190 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000215_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000215_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000216_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000216_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let199/letter.html
 Letter|You mustn’t think that I’m sending the letter back to insult you, but I find this the quickest way to answer it clearly. And if you didn’t have your letter back, you wouldn’t be able to understand what my answer refers to, whereas now the numbers guide you. I have no time, I’m waiting for a model today.
  

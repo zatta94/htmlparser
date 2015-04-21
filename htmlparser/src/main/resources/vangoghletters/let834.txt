@@ -4,6 +4,8 @@ Date|Friday, 3 January 1890
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b670 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000914_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000914_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let834/letter.html
 Letter|My dear Theo,
 Yesterday I was pleasantly surprised by a visit from Mr Salles who, I believe, had had a letter from you. I was completely well when he came so we were able to talk calmly. But I’m most confused that he should have put himself out for me, the more so because I hope that I’ve regained my presence of mind for a while. For the moment it seems to me that the best thing will be to carry on here. I’ll see what Mr Peyron says when I have a chance to speak to him; he’ll probably say that he absolutely cannot guarantee anything in advance, which seems quite right to me.

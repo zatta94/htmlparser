@@ -4,6 +4,8 @@ Date|Monday, 15 June 1885
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b450 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000602_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000602_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let508/letter.html
 Letter|My dear Theo,
 In all likelihood you’ll have received the little crate in the last few days. I wanted to tell you that I have another similar thing, a white wattle-and-daub cottage, the size slightly more in the width.

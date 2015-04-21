@@ -4,6 +4,8 @@ Date|on or about Thursday, 19 December 1889
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b666 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000909_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000909_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let829/letter.html
 Letter|My dear Theo,
 Thanks very much for your last letter, I’m very glad that you and Jo are in good health, and very often think of you both.

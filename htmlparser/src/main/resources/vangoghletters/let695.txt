@@ -3,7 +3,9 @@ Location|Arles
 Date|Wednesday, 3 October 1888
 To|Paul Gauguin
 From|Vincent van Gogh
-Museum|Paris, Institut national d
+Museum|Paris, Institut national d’histoire de l’art (Fonds Roger-Marx), Carton 117, no 1385.
+Link image 1|http://vangoghletters.org/vg/facsimiles/695_1rf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/695_1vf.png
 Url letter|http://vangoghletters.org/vg/letters/let695/letter.html
 Letter|My dear Gauguin,
 This morning, I received your excellent letter, which I’ve immediately sent to my brother; your conception of the Impressionist in general, of which your portrait is a symbol, is striking. I couldn’t be more intrigued to see it — but it will seem to me, I’m already sure, that this work is too important for me to wish to have it as an exchange.

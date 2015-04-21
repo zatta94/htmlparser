@@ -4,6 +4,8 @@ Date|on or about Sunday, 14 December 1884
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b427 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000572_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000572_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let475/letter.html
 Letter|My dear Theo,
 Here are a couple of scratches of the heads I’m working on — which I do in haste and from memory.

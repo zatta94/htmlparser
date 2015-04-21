@@ -4,6 +4,10 @@ Date|on or about Monday, 17 August 1885
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b460 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000616_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000616_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000617_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000617_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let527/letter.html
 Letter|My dear Theo,
 I’ve heard from that — who tells me I can send the paintings. But that he wants me to send them as soon as possible because there are many strangers in The Hague at present.

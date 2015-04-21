@@ -4,6 +4,8 @@ Date|Monday, 13 February 1882
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b195 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000222_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000222_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let204/letter.html
 Letter|13 Feb. 82
 My dear Theo,

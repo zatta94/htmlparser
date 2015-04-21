@@ -4,6 +4,12 @@ Date|Thursday, 6 July 1882
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b234 a-c V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000276_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000276_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000277_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000277_02_nf.png
+Link image 5|http://vangoghletters.org/vg/facsimiles/VGM001000278_01_nf.png
+Link image 6|http://vangoghletters.org/vg/facsimiles/VGM001000278_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let244/letter.html
 Letter|Dear brother,
 Having received your letter and the 100 francs enclosed, I thank you most sincerely and feel the need to write to you again straightaway. Because I think it would be a good idea if I explained, honestly and to the best of my knowledge and with all the earnestness in me, some matters which it’s important you should be fully aware of and understand. So I hope that you’ll read this letter at your ease and with patience, because for me so much depends on it. Tomorrow morning I’m going back to the hospital and I’ll lay my head down there calmly if I know that you’ve been informed about everything as fully and clearly as the distance permits.

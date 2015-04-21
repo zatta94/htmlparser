@@ -4,6 +4,8 @@ Date|Monday, 1 October 1888
 To|Vincent van Gogh
 From|Paul Gauguin
 Museum|Amsterdam, Van Gogh Museum, inv. no. b848 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001001137_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001001137_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let692/letter.html
 Letter|My dear Vincent
 We’ve satisfied your desire; in a different way, it’s true, but what does it matter, since the result is the same? Our 2 portraits. Having no silver white, I used lead white, and it could well happen that the colour becomes darker and heavier. And besides, it’s not done exclusively from the point of view of colour. I feel the need to explain what I was trying to do, not that you’re not capable of guessing by yourself, but because I don’t believe that I’ve achieved it in my work. The mask of a thief, badly dressed and powerful like Jean Valjean, who has his nobility and inner gentleness. The rutting blood floods the face, and the tones of a fiery smithy, which surround the eyes,

@@ -4,6 +4,8 @@ Date|on or about Sunday, 1 July 1888
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b548 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000736_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000736_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let635/letter.html
 Letter|My dear Theo,
 Many thanks for your letter, the 50-franc note and the Tasset consignment, colours and canvases, that has just arrived. He’d enclosed his invoice, which comes to 50.85 francs, which enabled me to check his prices and compare them with Edouard’s. He’s considerably cheaper than Edouard, which, combined with the 20% discount, means we can have no complaints about him. Now, for his canvas at 4.50, I’ll probably be able to find out the price by the piece at first hand.

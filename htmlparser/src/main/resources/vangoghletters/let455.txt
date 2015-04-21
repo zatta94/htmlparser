@@ -4,6 +4,8 @@ Date|on or about Saturday, 23 August 1884
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b388 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000507_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000507_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let455/letter.html
 Letter|My dear Theo,
 Arriving home, you may have found another note from me. But while I asked you in it then to take back one thing and another that you said, I don’t ask it of you any more.

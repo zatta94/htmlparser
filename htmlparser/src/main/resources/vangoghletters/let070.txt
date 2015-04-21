@@ -4,6 +4,8 @@ Date|Saturday, 19 February 1876
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b68 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000071_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000071_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let070/letter.html
 Letter|[Letterhead: Goupil Paris]
 Paris, 19 February 1876

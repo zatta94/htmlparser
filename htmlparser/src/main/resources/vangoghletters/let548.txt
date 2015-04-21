@@ -4,6 +4,8 @@ Date|on or about Thursday, 17 December 1885
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b480 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000649_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000649_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let548/letter.html
 Letter|My dear Theo,
 Today, for the first time, I feel rather dejected — I’d made a painting of Het Steen and took it round the dealers. Two of them were out, and one didn’t like it, and one lamented in a dreadful manner that literally no one had set foot in his shop in a fortnight. This isn’t very cheering, particularly when the weather’s cold and bleak, and one has already broken into one’s last 5 franc piece and is faced with a fortnight in which one sees no way ahead.

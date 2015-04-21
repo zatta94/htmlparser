@@ -4,6 +4,10 @@ Date|Sunday, 11 February 1883
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. nos. b288 a-b V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000358_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000358_02_nf.png
+Link image 3|http://vangoghletters.org/vg/facsimiles/VGM001000359_01_nf.png
+Link image 4|http://vangoghletters.org/vg/facsimiles/VGM001000359_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let312/letter.html
 Letter|Dear brother,
 It’s Sunday again and I’m writing again. Sometimes it seems to me that I haven’t told you warmly and sincerely enough how deeply touched I’ve been by what you’ve told me of late.

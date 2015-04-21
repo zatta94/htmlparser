@@ -4,6 +4,8 @@ Date|on or about Monday, 22 February 1886
 To|Theo van Gogh
 From|Vincent van Gogh
 Museum|Amsterdam, Van Gogh Museum, inv. no. b497 V/1962
+Link image 1|http://vangoghletters.org/vg/facsimiles/VGM001000673_01_nf.png
+Link image 2|http://vangoghletters.org/vg/facsimiles/VGM001000673_02_nf.png
 Url letter|http://vangoghletters.org/vg/letters/let565/letter.html
 Letter|My dear Theo,
 I tore up a letter that I wrote to you first, and that’s why you’re receiving my reply a little later. I’ll start by thanking you for the 50 francs.
